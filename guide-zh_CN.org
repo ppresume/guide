@@ -107,6 +107,19 @@
 
 ** 文件格式
 
+常用的简历格式包括：
+
+- [[https://en.wikipedia.org/wiki/Portable_Document_Format][PDF]]
+- Microsoft Word(doc, docx)
+- Plain Text
+- HTML
+
+这里首要推荐的是 PDF 格式。
+
+PDF 有着极佳的跨平台输出质量，可以保证几乎 100% 一致的打印和显示效果。在大多数平台上都有默认的 PDF 阅读器，Windows 8 及以上版本自带 PDF 阅读器，Mac OS X 有 [[https://en.wikipedia.org/wiki/Preview_(Mac_OS)][Preview]] ，iOS 有 [[http://www.apple.com/ibooks/][iBooks]] ，很多浏览器（比如 Chrome）默认也可以打开 PDF。
+
+而 Word 文档则需要安装对应的办公软件。很多人天然地认为 Word 文档是需要用 Microsoft Office 来编辑打开的，事实上并非如此。除了 Microsoft Office，Mac 平台下的 [[https://en.wikipedia.org/wiki/IWork][iWork]]，[[http://wps.com/][WPS Office]]，[[https://www.libreoffice.org/][LibreOffice]] 以及很多在线文档编辑系统（如 [[https://docs.google.com/][Google Docs]]）都可以打开并编辑 Word 文档。但是在不同平台不同软件不同环境下，Word 文档的显示效果是千差万别的。
+
 ** Reference
 
 [1] Requirements for Chinese Text Layout 中文排版需求，https://www.w3.org/TR/clreq
