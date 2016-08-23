@@ -97,6 +97,14 @@
 #+NAME: image:source-hans-sans-font-weight
 [[/static/images/1280px-SourceHanSans.svg.png]]
 
+*** 西文字体
+
+相较于中文字体，西文字体的可选择性要大得多。一是西文数字出版有更长的历史，二是相较于中文字体庞大的字符集，西文字体的字符集要小很多，使得设计一款西文字体的工作量要远小于中文字体。
+
+#+CAPTION: Typography
+#+NAME: image:typography
+[[/static/images/2000px-Typography_line_terms_alternate.svg.png]]
+
 ** 版式
 
 ** 专有名词
