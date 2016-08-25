@@ -1,6 +1,8 @@
+\setkeys{Gin}{width=0.8\maxwidth,height=\maxheight,keepaspectratio}
+
 % ctex settings
 % ref: http://ctan.mirrorcatalogs.com/language/chinese/ctex/ctex.pdf
-\usepackage[UTF8, heading=false, fontset=none, scheme=plain]{ctex}
+\usepackage[UTF8, heading=true, fontset=none, scheme=chinese]{ctex}
 \ctexset{
   fontset=fandol,
   punct=kaiming,
@@ -16,17 +18,3 @@
 % page layout/margin control
 \usepackage[scale=0.8, marginparsep=7pt]{geometry}
 % \geometry{a4paper, textwidth=5.5in, textheight=8.5in, marginparsep=7pt, marginparwidth=.6in}
-
-% colorful text, background, etc
-\usepackage{color}
-
-% renaming for Chinese commands
-\renewcommand{\contentsname}{目录}
-\renewcommand{\abstractname}{摘要}
-\renewcommand{\indexname}{索引}
-\renewcommand{\listfigurename}{插图目录}
-\renewcommand{\listtablename}{表格目录}
-\renewcommand{\figurename}{图}
-\renewcommand{\tablename}{表}
-\renewcommand{\appendixname}{附录}
-\renewcommand\refname{参考文献}
