@@ -9,7 +9,7 @@
 
 % English font settings
 \defaultfontfeatures{Ligatures=TeX}
-\setmainfont[Ligatures={Common}, Numbers={OldStyle}, Variant=01]{Linux Libertine O}
+\setmainfont[Ligatures={Common}, Variant=01]{Linux Libertine O}
 \setsansfont{Droid Sans}
 \setmonofont[Scale=0.8]{CMU Typewriter Text}
 
