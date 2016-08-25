@@ -24,11 +24,11 @@
 
 衬线，是笔画末端带有爪状或者直线形状的部分。衬线体指的是有衬线的字体，又称为有衬线体、衬线字、曲线描边字，俗称白体字；而与之相对的，没有衬线的称为无衬线体、无描边字，俗称黑体字。衬线指的是字形笔画末端的装饰细节部分。无衬线字体在西文中习惯称 sans-serif，其中 sans 为法语的 “无” 的意思；而另外一些人习惯把无衬线体称 grotesque（德语作 grotesk）或 “哥特体”，把衬线体称为 “罗马体”，但是这些词已经不是很常用了，只保留于字体名称中。
 
-#+CAPTION: 衬线字体
+#+CAPTION: 无衬线字体
 #+NAME: image:serif-and-sans-01
 [[static/notes/guide/images/1280px-Serif_and_sans-serif_01.svg.png]]
 
-#+CAPTION: 无衬线字体
+#+CAPTION: 衬线字体
 #+NAME: image:serif-and-sans-02
 [[static/notes/guide/images/1280px-Serif_and_sans-serif_02.svg.png]]
 
