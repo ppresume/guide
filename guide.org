@@ -25,15 +25,15 @@
 
 #+CAPTION: 衬线字体
 #+NAME: image:serif-and-sans-01
-[[/static/images/1280px-Serif_and_sans-serif_01.svg.png]]
+[[/static/notes/guide/images/1280px-Serif_and_sans-serif_01.svg.png]]
 
 #+CAPTION: 无衬线字体
 #+NAME: image:serif-and-sans-02
-[[/static/images/1280px-Serif_and_sans-serif_02.svg.png]]
+[[/static/notes/guide/images/1280px-Serif_and_sans-serif_02.svg.png]]
 
 #+CAPTION: 衬线字体的衬线（红色部分）
 #+NAME: image:serif-and-sans-03
-[[/static/images/1280px-Serif_and_sans-serif_03.svg.png]]
+[[/static/notes/guide/images/1280px-Serif_and_sans-serif_03.svg.png]]
 
 至于东亚文字，汉字、日语的假名和韩国语的谚文等方块字中，同样也有 “衬线体” 和 “无衬线体” 的两个概念，只是指代名称不同。
 
@@ -45,13 +45,13 @@
 
 #+CAPTION: 汉字中的衬线体与无衬线体
 #+NAME: image:serif-and-sans-03
-[[/static/images/1280px-Chinese_typefaces_(_In_accordance_with_MOE,_ROC).svg.png]]
+[[/static/notes/guide/images/1280px-Chinese_typefaces_(_In_accordance_with_MOE,_ROC).svg.png]]
 
 按照字符宽度是否相同，字体又可以分为等宽字体（Monospaced Font）和比例字体两种（Propotional Font）。顾名思义，等宽字体是指字符宽度相同的电脑字体，比例字体是指字符宽度不尽相同的电脑字体。
 
 #+CAPTION: 比例字体和等宽字体
 #+NAME: image:propotional-and-monospaced-font
-[[/static/images/1280px-Propvsmono.svg.png]]
+[[/static/notes/guide/images/1280px-Propvsmono.svg.png]]
 
 在传统西文印刷中，比例字体可以提高单词的可读性。但因早期的电脑画面显示、打字机，由于技术的局限，无法进行字母宽度的比例调整，因此将每个字符都制作成一样的宽度，从而形成了等宽字体。但是随着图形用户界面主流的更新和电脑技术的提高，处理比例字体的局限性得到了突破，因此现在排版上显得比较自然的比例字体的使用已经相当普及。
 
@@ -101,7 +101,7 @@
 
 #+CAPTION: 思源黑体，多种字重
 #+NAME: image:source-hans-sans-font-weight
-[[/static/images/1280px-SourceHanSans.svg.png]]
+[[/static/notes/guide/images/1280px-SourceHanSans.svg.png]]
 
 *** 西文字体
 
@@ -117,14 +117,14 @@
 
 #+CAPTION: Typography
 #+NAME: image:typography
-[[/static/images/2000px-Typography_line_terms_alternate.svg.png]]
+[[/static/notes/guide/images/2000px-Typography_line_terms_alternate.svg.png]]
 
 - 字符间距（letter-spacing, or tracking）：简称字距，指的是字符之间的空隙，分为字体设计师的字符间距调整和字体使用者的字符间距调整，该属性影响文本行或文本块的密度。
 - 字偶间距（kerning）：在比例字体中，字偶间距是增加或减少特定字符对之间间距的过程，很多字体内建有字偶间距调整信息。默认情况下，排版软件可以根据所使用的字体的字偶间距调整信息来自动调整字偶间距，从而获得更好的排版效果。
 -
 #+CAPTION: Kerning
 #+NAME: image:typography
-[[/static/images/1280px-Kerning_EN.svg.png]]
+[[/static/notes/guide/images/1280px-Kerning_EN.svg.png]]
 
 **** 复合字体
 
