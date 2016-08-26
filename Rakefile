@@ -4,7 +4,7 @@ require 'rake/clean'
 CLEAN.include('\#*\#', '.\#*', '*~', '**/*.aux', '**/*.log', '**/*.out', '**/*.toc')
 
 # `rake clobber`
-CLOBBER.include('**/*.pdf', '**/*.tex')
+CLOBBER.include('**/*.pdf', '**/*.tex').exclude('pandoc/**/*')
 
 rule '.tex' => '.org' do |t|
   sh "pandoc --toc -N -V classoption:titlepage --latex-engine xelatex -H pandoc/ctex-header.tex #{t.source} -o #{t.name}"
