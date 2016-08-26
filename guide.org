@@ -159,3 +159,7 @@ PDF 有着极佳的跨平台输出质量，可以保证几乎 100% 一致的打�
 * Reference
 
 [1] Requirements for Chinese Text Layout 中文排版需求，https://www.w3.org/TR/clreq
+
+# Local Variables:
+# eval: (auto-fill-mode -1)
+# End:
