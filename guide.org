@@ -60,7 +60,7 @@
 
 ** 中文字体
 
-中文排版时主要使用的四种字体为：
+中文排版时主要使用的四种字体为[1]：
 - 宋体（明体、明朝体）
 - 楷体
 - 黑体
@@ -108,7 +108,11 @@
 
 相较于中文字体，西文字体的可选择性要大得多。一是西文数字出版有更长的历史，二是相较于中文字体庞大的字符集，西文字体的字符集要小很多，使得设计开发一款西文字体的工作量要远小于中文字体。
 
-相较于中文的方块字，西文的比例字体有一些特性需要了解。
+就字体设计实现而言，汉字的方块字独立成体，更多地是单字设计实现；而西文比例字体除了考虑单个字母的设计实现，还要考虑字母与字母之间的间距关系。
+
+*** 字符构成
+
+和中文方块字的间架结构相比，西文字母有自己独特的字符结构构成。其中有一些重要的基础概念，需要字体使用者有所了解：
 
 - 基线（baseline）：大写字母 H 或者小写字母 n 底部所踩的那条虚拟的线
 - 大写字高（cap height）：指 H 或 E 等直线型大写字母从基线到字母顶部的高度
@@ -120,18 +124,53 @@
 #+NAME: image:typography
 [[static/notes/guide/images/2000px-Typography_line_terms_alternate.svg.png]]
 
-- 字符间距（letter-spacing, or tracking）：简称字距，指的是字符之间的空隙，分为字体设计师的字符间距调整和字体使用者的字符间距调整，该属性影响文本行或文本块的密度。
-- 字偶间距（kerning）：在比例字体中，字偶间距是增加或减少特定字符对之间间距的过程，很多字体内建有字偶间距调整信息。默认情况下，排版软件可以根据所使用的字体的字偶间距调整信息来自动调整字偶间距，从而获得更好的排版效果。
--
-#+CAPTION: Kerning
-#+NAME: image:typography
-[[static/notes/guide/images/1280px-Kerning_EN.svg.png]]
+*** 字符间距
 
-*** 复合字体
+字符间距（letter-spacing, or tracking）：简称字距，指的是字符之间的空隙，分为字体设计师的字符间距调整和字体使用者的字符间距调整，该属性影响文本行或文本块的密度。
+
+对字体设计师而言，字符间距调整（Spacing）是字体设计实现过种中的一道重要工序。在西文字母的比例字体中，单个字符左右两端的空白并不一致，其目的是为了保证字母无论与其他任何字母或者符号相信有能全球阅读。
+
+对字体使用者而言，字符间距调整是指应用字体排版文本后通过软件手工调整字母之间的间距，其目的可能是为了获得某些特殊的对齐效果[2]，或者是为了或者更好的版面效果[3]。
 
 *** 字偶距调整
 
-*** 合字替换
+字偶间距（kerning）：在比例字体中，字偶间距是增加或减少特定字符对之间间距的过程。观感上讲，字偶距调整更关注字母之间的视觉距离而不是实际距离。
+
+很多字体在设计阶段会针对字偶对进行相应的制作，并将字偶间距调整信息储存在字体文件中。这样，排版软件就可以根据所使用的字体的字偶间距调整信息来自动调整字偶间距，从而获得更好的排版效果。
+
+落实到字体的设计和实现上，由于每个字母自有独特的形状，所以要每一对字母彼此配合才能达到最佳效果。这也是西文字体设计实现中的重点工序和难点所在[4]。
+
+#+CAPTION: 字偶间距（Kerning）
+#+NAME: image:typography
+[[static/notes/guide/images/1280px-Kerning_EN.svg.png]]
+
+*** 合字
+
+合字（ligature）：连亦称字、连结字或合体字，指的是将几个字连起来按一个字宽设计出来的字符。
+
+印刷合字起源于手写本中连写的字符。活字印刷诞生后，很多合字直接被制造成了铅字。但是在 1950 年代无衬线字体广泛使用，以及 1970 年代照相排版技术之后，合字就逐渐很少被使用。最早能进行合字电脑排版（之后激光打印机）之一的是高德纳的 TeX 程序。这一潮流也影响到了 1985 年之后的桌面排版技术。早期电脑软件无法进行合字替换（但 TeX 可以），大部分新制作的电脑字体里也没有合字。早期的个人电脑多使用英文，而英文中并不是必须使用合字，所以也没有实际需要。随着现代电脑处理的多语言化和现代电子排版技术（如 [[https://en.wikipedia.org/wiki/OpenType][OpenType]]）的流行，合字开始逐渐恢复被使用[5]。
+
+在一般日常事务性文件里，不用合字并不会被当作拼写错误处理，但在广告和书籍排版中，合字则是必要的[6]。
+
+#+CAPTION: 合字（Ligature）
+#+NAME: image:ligature
+[[static/notes/guide/images/1106px-Ligatures.svg.png]]
+
+*** 复合字体
+
+很多中文字体中都包含西文字母，但是这些西文字母的质量往往比西文字体中的字母要差一些，因此在中英混排的情况下，常常需要针对不同的语系文字及标点设置不同的字体：
+
+- 汉字使用 A 字体
+- 西文及数字使用 B 字体
+- 中文标点使用 C 字体
+
+除此之外，一些中文字体虽然质量尚佳，但是字符集比较小，无法显示一些生僻字，这时针对少数生僻字设置字样相近的字体也属于复合字体的一种应用。
+
+常见排版软件中都有复合字体的特性支持：
+- Microsoft Word 中可以在字体的高级选项中分别设置中文和英文字体
+- Adobe Indesign 可以直接创建复合字体，针对不同的字符类别应用不同的字体
+- TeX 可以通过中文 ctex 套装，配合使用 ~\setmainfont~ 、 ~\setCJKmainfont~ 来获得复合字体的效果
+- HTML/CSS 中可以通过 ~font-family~ ，配合使用 CSS 中的字体回退机制（fallback），来模拟复合字体的效果
 
 * 版式
 
@@ -156,9 +195,12 @@ PDF 有着极佳的跨平台输出质量，可以保证几乎 100% 一致的打�
 
 而 Word 文档则需要安装对应的办公软件。很多人天然地认为 Word 文档是需要用 Microsoft Office 来编辑打开的，事实上并非如此。除了 Microsoft Office，Mac 平台下的 [[https://en.wikipedia.org/wiki/IWork][iWork]]，[[http://wps.com/][WPS Office]]，[[https://www.libreoffice.org/][LibreOffice]] 以及很多在线文档编辑系统（如 [[https://docs.google.com/][Google Docs]]）都可以打开并编辑 Word 文档。但是在不同平台不同软件不同环境下，Word 文档的显示效果是千差万别的。
 
-* Reference
-
-[1] Requirements for Chinese Text Layout 中文排版需求，https://www.w3.org/TR/clreq
+[1] Requirements for Chinese Text Layout 中文排版需求，[[https://www.w3.org/TR/clreq]]。
+[2] 以汉字方块字为主要文字的排版，通常需要两端对齐，但是以西文字母为主要文字的排版，在版面宽度较小的时候，通常不适合两端对齐，这种情况下如何强制两端对齐，多数软件会强制调整字符间距，但是最终的排版效果往往会很糟糕。
+[3] 比如 TeX 排版系统的创新之处就在于其优秀的 [[https://en.wikipedia.org/wiki/TeX#Hyphenation_and_justification][justification]] 算法，其原理就是通过调整字符间距来使得版面更加匀称（[[https://en.wikipedia.org/wiki/Typographic_alignment#Justified][justified]]）。
+[4] A Beginner’s Guide to Kerning Like a Designer, [[https://designschool.canva.com/blog/kerning/]].
+[5] 维基百科，[[https://zh.wikipedia.org/wiki/%E5%90%88%E5%AD%97]]
+[6] 《[[https://book.douban.com/subject/25836269/][西文字体]]》， /小林章/ ，第二章，P37。
 
 # Local Variables:
 # eval: (auto-fill-mode -1)
