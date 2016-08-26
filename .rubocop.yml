@@ -1,0 +1,12 @@
+---
+
+AllCops:
+  Exclude:
+    - 'Guardfile'
+    - 'vendor/**/*'
+
+Style/FileName:
+  Enabled: false
+
+Documentation:
+  Enabled: false
