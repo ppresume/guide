@@ -172,7 +172,15 @@
 - TeX 可以通过中文 ctex 套装，配合使用 ~\setmainfont~ 、 ~\setCJKmainfont~ 来获得复合字体的效果
 - HTML/CSS 中可以通过 ~font-family~ ，配合使用 CSS 中的字体回退机制（fallback），来模拟复合字体的效果
 
-*** 简历西文字体推荐方案
+*** 西文斜体
+
+斜体是在正常字体样式基础上，通过倾斜字体实现的一种字体样式；可指意大利体或伪斜体[8]。
+
+西文中有两种形状倾斜的字体：Oblique type 和 Italic type，倾斜后字形也发生的变化的是 “意大利体”（Italic Type），而单纯将原字体向右倾斜而没有形变的称为伪斜体（Oblique type）。中文术语 “斜体” 是针对 “正体” 而言的，但作为西文字体的译名，通常指代 “意大利体”（Italic Type）。由于单纯靠软件算法加以倾斜变形的伪斜体的笔画会显得比较松散，最近越来越多的设计更倾向使用全新设计的专用意大利斜体。
+
+中文语境下，经常将 oblique type 和 Italic type 两者都译作 “斜体”，并未细分而造成混乱。而理论上说 “斜体” 这一译名应该是这两种字体的合称，而事实上，也并非所有意大利体都是倾斜的。
+
+在西文中，斜体通常与正文衬线体区分，用来强调部分文字。
 
 * 版式
 
@@ -204,6 +212,7 @@ PDF 有着极佳的跨平台输出质量，可以保证几乎 100% 一致的打�
 [5] A Beginner’s Guide to Kerning Like a Designer, [[https://designschool.canva.com/blog/kerning/]].
 [6] 维基百科，[[https://zh.wikipedia.org/wiki/%E5%90%88%E5%AD%97]]
 [7] 《[[https://book.douban.com/subject/25836269/][西文字体]]》， /小林章/ ，第二章，P37。
+[8] 维基百科，https://zh.wikipedia.org/wiki/%E6%96%9C%E4%BD%93
 
 # Local Variables:
 # eval: (auto-fill-mode -1)
