@@ -182,6 +182,26 @@
 
 在西文中，斜体通常与正文衬线体区分，用来强调部分文字。
 
+*** 简历西文字体推荐方案
+
+相较于寥若晨星的中文字体，英文字体的数量可以用车载斗量来形容。因此推荐一套普适的简历英文字体搭配方案并不是一件容易的事情。
+
+- 正文推荐使用衬线字体
+- 标题推荐使用无衬线字体，但也可以使用用衬线字体
+- 需要在正文中加以强调区分的文字推荐使用意大利斜体，也可以用相应的粗体
+- 常用衬线字体
+  - [[https://en.wikipedia.org/wiki/Garamond][Garamond]]
+  - [[https://en.wikipedia.org/wiki/Palatino][Palatino]]
+  - [[https://en.wikipedia.org/wiki/Georgia_(typeface)][Geogria]]
+  - [[https://en.wikipedia.org/wiki/Baskerville][Baskerville]]
+  - [[https://en.wikipedia.org/wiki/Minion_(typeface)][Minion]]
+  - [[https://en.wikipedia.org/wiki/Hoefler_Text][Hoefler Text]]
+  - [[https://en.wikipedia.org/wiki/Linux_Libertine][Linux Libertine]]
+- 常用无衬线字体
+  - [[https://en.wikipedia.org/wiki/Helvetica][Helvetica]]
+  - [[https://en.wikipedia.org/wiki/Gill_Sans][Gill Sans]]
+  - [[https://en.wikipedia.org/wiki/Optima][Optima]]
+
 * 版式
 
 * 专有名词
