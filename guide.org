@@ -232,7 +232,7 @@ PDF 有着极佳的跨平台输出质量，可以保证几乎 100% 一致的打�
 [5] A Beginner’s Guide to Kerning Like a Designer, [[https://designschool.canva.com/blog/kerning/]].
 [6] 维基百科，[[https://zh.wikipedia.org/wiki/%E5%90%88%E5%AD%97]]
 [7] 《[[https://book.douban.com/subject/25836269/][西文字体]]》， /小林章/ ，第二章，P37。
-[8] 维基百科，https://zh.wikipedia.org/wiki/%E6%96%9C%E4%BD%93
+[8] 维基百科，[[https://zh.wikipedia.org/wiki/%E6%96%9C%E4%BD%93]]
 
 # Local Variables:
 # eval: (auto-fill-mode -1)
