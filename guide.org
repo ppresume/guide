@@ -204,6 +204,25 @@
 
 * 版式
 
+排版是“二维的建筑”。如果说文字及其字体是建筑的材料，那么版式设计则是建筑的图纸。
+
+在论述版式设计之前，我们需要先明确一些基础的概念，特别是排版中常用的尺寸单位体系。
+
+** 字号
+
+字号（size）是区分文字大小的一种计量标准，国际上通用的是点制，在中国是以点制为主，号制为辅。
+
+号制是以互不成倍数的三种活字为标准，根据加倍或减半的关系而自成系统，有四号字、五号字和六号字系统。字号标数越小，字形越大。四号比五号大，六号比五号小。
+
+点制又称磅制，是由英文 [[https://en.wikipedia.org/wiki/Point_(typography)][Point]] 翻译而来，缩写为 pt。在排印中，点是最小的计量单位。事实上，在不同的历史时期，点的实际尺寸大小也是不同的。十八世纪时，点的尺寸由 0.18 毫米改为 0.4 毫米。二十世纪八、九十年代，随着[[https://en.wikipedia.org/wiki/Desktop_publishing][桌面出版]]的发展，[[https://en.wikipedia.org/wiki/Digital_printing][数字印刷]]在很大程序上取代了[[https://en.wikipedia.org/wiki/Printing_press][活字印刷]]，并逐渐确立以 DTP point(desktop publishing point) 为工业标准。
+
+DTP point 被定义为 1/72 [[https://en.wikipedia.org/wiki/Inch][英寸]]。
+
+
+** 行距
+
+** 页面
+
 * 专有名词
 
 * 中英混排
