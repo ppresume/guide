@@ -212,19 +212,25 @@
 
 字号（size）是区分文字大小的一种计量标准，国际上通用的是点制，在中国是以点制为主，号制为辅。
 
-号制是以互不成倍数的三种活字为标准，根据加倍或减半的关系而自成系统，有四号字、五号字和六号字系统。字号标数越小，字形越大。四号比五号大，六号比五号小。
+*** 点制
 
 点制又称磅制，是由英文 [[https://en.wikipedia.org/wiki/Point_(typography)][Point]] 翻译而来，缩写为 pt。在排印中，点是最小的计量单位。事实上，在不同的历史时期，点的实际尺寸大小也是不同的。十八世纪时，点的尺寸由 0.18 毫米改为 0.4 毫米。二十世纪八、九十年代，随着[[https://en.wikipedia.org/wiki/Desktop_publishing][桌面出版]]的发展，[[https://en.wikipedia.org/wiki/Digital_printing][数字印刷]]在很大程序上取代了[[https://en.wikipedia.org/wiki/Printing_press][活字印刷]]，并逐渐确立以 DTP point(desktop publishing point) 为工业标准。
 
 DTP point 被定义为 1/72 [[https://en.wikipedia.org/wiki/Inch][英寸]]。
 
-1985 年 6 月，文化部出版事业管理局为了革新印刷技术，提高印刷质量，提出了活字及字模规格化的决定。规定每一点（1pt）等于 0.35 毫米，误差不超过 0.005 毫米，如五号字为 10.5 点，即 3.675 毫米。而外文活字大小都以点来计算，即 1/72 英寸，0.5146 毫米[9]。
+绝大多数的排版字体在 10-12pt 之间效果是最优的。也就是说，在这样的字号下，字符间距被认为是最好的[9]。
 
 #+CAPTION: 点制单位
 #+NAME: table:dtp-point
 | 1pt |     mm |      cm | pica | inch |
 |-----+--------+---------+------+------|
 |   1 | 0.3528 | 0.03528 | 1/12 | 1/72 |
+
+*** 号制
+
+1985 年 6 月，文化部出版事业管理局为了革新印刷技术，提高印刷质量，提出了活字及字模规格化的决定。规定每一点（1pt）等于 0.35 毫米，误差不超过 0.005 毫米，如五号字为 10.5 点，即 3.675 毫米。而外文活字大小都以点来计算，即 1/72 英寸，0.5146 毫米[10]。
+
+号制是以互不成倍数的三种活字为标准，根据加倍或减半的关系而自成系统，有四号字、五号字和六号字系统。字号标数越小，字形越大。四号比五号大，六号比五号小[11]。
 
 #+CAPTION: 号制单位
 #+NAME: table:chinese-point
@@ -283,7 +289,9 @@ PDF 有着极佳的跨平台输出质量，可以保证几乎 100% 一致的打�
 [6] 维基百科，[[https://zh.wikipedia.org/wiki/%E5%90%88%E5%AD%97]]。
 [7] 《[[https://book.douban.com/subject/25836269/][西文字体]]》， /小林章/ ，第二章，P37。
 [8] 维基百科，[[https://zh.wikipedia.org/wiki/%E6%96%9C%E4%BD%93]]。
-[9] 《[[https://book.douban.com/subject/4224467/][Adobe Indesign CS4，基础培训教材]]》。
+[9] 《[[https://book.douban.com/subject/26386339/][平面设计完全手册]]》， /马库斯·韦格/ ，第六章，P296。
+[10] 《[[https://book.douban.com/subject/4224467/][Adobe Indesign CS4，基础培训教材]]》。
+[11] 维基百科，[[https://zh.wikipedia.org/wiki/%E9%BB%9E_(%E5%8D%B0%E5%88%B7)]]。
 
 # Local Variables:
 # eval: (auto-fill-mode -1)
