@@ -329,6 +329,38 @@ DTP point 被定义为 1/72 [[https://en.wikipedia.org/wiki/Inch][英寸]]。
 
 ** 语法
 
+母语非英文的求职者在撰写英文简历时，往往会碰到很多语法和用户问题。另，与普通英文写作相比，简历写作也有一些特殊的语法要求，需要留意。
+
+- 如果描述当下的工作教育经历，用现在时，否则一律用过去时态
+- 多以过去式动词直接开头，省略主语
+- 尽量用简洁易懂的短句，不过用很长的复杂的从句结构
+- 教育背景和工作经历以倒叙方式列出，时间格式要写到月份
+- 时间格式上不要用年份缩写，"05/06" 这种格式在不同的国家有不同的解释，可以用 "2015.05" 这种标准格式，或者 "June, 2015" 这种有确定性解释的时间格式
+
+#+CAPTION: 简历中常用的 100 个英文过去式动词
+#+NAME: table:100-resume-english-verbs
+| Accelerated   | Accomplished | Accounted    | Accumulated  | Achieved     |
+| Administrated | Arbitrated   | Articulated  | Boosted      | Briefed      |
+| Broadened     | Budgeted     | Campaigned   | Chaired      | Championed   |
+| Clarified     | Coached      | Collaborated | Coordinated  | Corroborated |
+| Cultivated    | Customized   | Decided      | Decreased    | Delegated    |
+| Demonstrated  | Designated   | Developed    | Devised      | Diagnosed    |
+| Documented    | Doubled      | Economized   | Edited       | Educated     |
+| Empowered     | Enabled      | Encouraged   | Endorsed     | Enhanced     |
+| Faciliated    | Focused      | Forecasted   | Generated    | Harmonized   |
+| Harnessed     | Identified   | Illustrated  | Impressed    | Improved     |
+| Increased     | Justified    | Launched     | Led          | Magnified    |
+| Managed       | Marketed     | Mastered     | Navigated    | Negotiated   |
+| Observed      | Obtained     | Organized    | Orchestrated | Participated |
+| Pinpointed    | Performed    | Publicized   | Published    | Realigned    |
+| Recognized    | Recommended  | Selected     | Separated    | Spearheaded  |
+| Stimulated    | Succeeded    | Surpassed    | Synchronized | Synergized   |
+| Tabulated     | Targeted     | Tested       | Traded       | Translated   |
+| Triggered     | Triumphed    | Troubleshot  | Uncovered    | Underwrote   |
+| Unearthed     | Unifed       | Upgraded     | Urged        | Utilized     |
+| Validated     | Verbalized   | Verified     | Vitalized    | Yielded      |
+
+
 ** 标点
 
 ** 数字
