@@ -7,5 +7,6 @@ group :development do
   gem 'pry'
   gem 'pry-byebug'
   gem 'guard'
+  gem 'guard-rake'
   gem 'guard-bundler', :require => false
 end
