@@ -288,7 +288,44 @@ DTP point 被定义为 1/72 [[https://en.wikipedia.org/wiki/Inch][英寸]]。
 
 ** 拼写
 
+简历有拼写错误是求职大忌。过多的初级拼写错误会影响雇主对求职者的第一印象。多数软件都有拼写检查功能，适当使用避免很多初级的拼写错误。
+
 *** 专有名词
+
+除了普通英文单词的拼写错误，专有名词由于大小写要求更加严格，是拼写错误高发的重灾区。同样的字母组合，不同的大小写，在不同的领域可能有完全不同的含义，求职者一定要慎之又慎。比如首字母小写 [[http://www.apple.com/ios/][iOS]] 表示 Apple iPhone 设备上的移动操作系统，但是全大写的 [[https://en.wikipedia.org/wiki/Cisco_IOS][IOS]] 则是 Cisco 路由器上的专用系统。
+
+限于作者背景，本指南总结了 IT 领域内一些常见的专有名词拼写错误，详情请移步 [[https://github.com/ppresume/typos][Github]] 。
+
+#+CAPTION: IT 专有名词常见拼写错误
+#+NAME: table:it-typos
+| Typos                          | Fix            |
+|--------------------------------+----------------|
+| Html, html                     | HTML           |
+| Css, css                       | CSS            |
+| Javascript, javascript, JS, js | JavaScript     |
+| JAVA, java                     | Java           |
+| OC, oc, objective-c            | Objective-C    |
+| xcode, XCODE, XCode            | Xcode          |
+| linux, LINUX                   | Linux          |
+| APP                            | App            |
+| android                        | Android        |
+| ios, IOS                       | iOS            |
+| iphone, IPHONE                 | iPhone         |
+| AppStore, app store            | App Store      |
+| Http, http                     | HTTP           |
+| git, GIT                       | Git            |
+| eclipse                        | Eclipse        |
+| android studio                 | Android Studio |
+| mysql                          | MySQL          |
+| sqlite                         | SQLite         |
+| node, Node, NodeJS, nodejs     | Node.js        |
+| json, Json                     | JSON           |
+| xml, Xml                       | XML            |
+| jquery, JQuery                 | jQuery         |
+| Mac OSX                        | Mac OS X       |
+| ruby                           | Ruby           |
+| python                         | Python         |
+| ajax, Ajax                     | AJAX           |
 
 ** 语法
 
