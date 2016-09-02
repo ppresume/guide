@@ -420,7 +420,7 @@ DTP point 被定义为 1/72 [[https://en.wikipedia.org/wiki/Inch][英寸]]。
 - 在纯英文环境下，务必使用半角英文标点
 - 在中英文混排的情况下，在中文和英文的上下文环境中分别使用对应的中英文标点
 
-#+CAPTION: 中英文标点符号的差异
+#+CAPTION: 中英文部分标点符号的对比差异
 #+NAME: table:difference-between-chinese-and-english-marks
 |                            | 英文 | 中文 |
 |----------------------------+------+------|
