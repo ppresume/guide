@@ -567,11 +567,11 @@ Word 从软件上来说更简单易学，但是简历作为一个交付件，用
 
 [6] A Beginner’s Guide to Kerning Like a Designer, [[https://designschool.canva.com/blog/kerning/]].
 
-[7] Wikipedia, [[https://en.wikipedia.org/wiki/Ligature]]
+[7] Wikipedia, [[https://en.wikipedia.org/wiki/Ligature]].
 
 [8] 《[[https://book.douban.com/subject/25836269/][西文字体]]》， /小林章/ ，第二章，P37。
 
-[9] Wikipedia, [[https://en.wikipedia.org/wiki/Italic_type][https://en.wikipedia.org/wiki/Italic_type]]
+[9] Wikipedia, [[https://en.wikipedia.org/wiki/Italic_type][https://en.wikipedia.org/wiki/Italic_type]].
 
 [10] Requirements for Chinese Text Layout 中文排版需求，[[https://www.w3.org/TR/clreq]]。
 
@@ -585,7 +585,7 @@ Word 从软件上来说更简单易学，但是简历作为一个交付件，用
 
 [14] 《[[https://book.douban.com/subject/26386339/][平面设计完全手册]]》， /马库斯·韦格/ ，第六章，P296。
 
-[15] Wikipedia, [[https://en.wikipedia.org/wiki/Point_(typography)][https://en.wikipedia.org/wiki/Point_(typography)]]
+[15] Wikipedia, [[https://en.wikipedia.org/wiki/Point_(typography)][https://en.wikipedia.org/wiki/Point_(typography)]].
 
 [16] 《[[https://book.douban.com/subject/26386339/][平面设计完全手册]]》， /马库斯·韦格/ ，第六章，P301。
 
