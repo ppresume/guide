@@ -504,14 +504,30 @@ DTP point 被定义为 1/72 [[https://en.wikipedia.org/wiki/Inch][英寸]]。
 
 - [[https://en.wikipedia.org/wiki/Portable_Document_Format][PDF]]
 - Microsoft Word(doc, docx)
-- Plain Text
-- HTML
+- Plain Text（纯文本格式）
+- HTML（网页格式）
 
-这里首要推荐的是 PDF 格式。
+这里首要推荐的是 PDF 格式：
+- PDF 有着极佳的跨平台输出质量，可以保证几乎 100% 一致的打印和显示效果
+  - PDF 可以嵌入字体，在字体选择方面有极大的自由度
+- 在大多数平台上都有默认的 PDF 阅读器
+  - Windows 8 及以上版本自带 PDF 阅读器
+  - Mac OS X 有 [[https://en.wikipedia.org/wiki/Preview_(Mac_OS)][Preview]] ，iOS 有 [[http://www.apple.com/ibooks/][iBooks]]
+  - 很多浏览器（比如 Chrome）内置 [[http://mozilla.github.io/pdf.js/][pdf.js]] ，默认也可以打开 PDF
 
-PDF 有着极佳的跨平台输出质量，可以保证几乎 100% 一致的打印和显示效果。在大多数平台上都有默认的 PDF 阅读器，Windows 8 及以上版本自带 PDF 阅读器，Mac OS X 有 [[https://en.wikipedia.org/wiki/Preview_(Mac_OS)][Preview]] ，iOS 有 [[http://www.apple.com/ibooks/][iBooks]] ，很多浏览器（比如 Chrome）默认也可以打开 PDF。
+Word 从软件上来说更简单易学，但是简历作为一个交付件，用 Word 格式有很大的劣势：
+- Word 文档则需要安装额外的办公软件才能打开，
+  - Windows 系统可以用 Microsoft Word，金山的 [[https://wps.com][WPS Office]]
+  - Mac OS X 系统可以用 [[https://en.wikipedia.org/wiki/IWork][iWork]]
+  - Linux 系统上可以用 [[https://wps.com][WPS Office]] 、[[https://www.libreoffice.org/][LibreOffice]]
+  - 很多在线文档编辑系统（如 [[https://docs.google.com/][Google Docs]]）也可以打开并编辑 Word 文档
+- 在不同平台不同软件不同环境下，Word 文档的显示效果是千差万别的
+  - 事实上并不是所有人的电脑上都装有 [[https://products.office.com/en-us/word][Microsoft Word]]
+  - 另一个事实是，正版 Word 是需要几百元的授权费用的
+- 为了尽量保证最终的显示输出效果，Word 文档只能用多个系统中共有的字体，这导致 Word 文档在字体选择上自由度很小
 
-而 Word 文档则需要安装对应的办公软件。很多人天然地认为 Word 文档是需要用 Microsoft Office 来编辑打开的，事实上并非如此。除了 Microsoft Office，Mac 平台下的 [[https://en.wikipedia.org/wiki/IWork][iWork]]，[[http://wps.com/][WPS Office]]，[[https://www.libreoffice.org/][LibreOffice]] 以及很多在线文档编辑系统（如 [[https://docs.google.com/][Google Docs]]）都可以打开并编辑 Word 文档。但是在不同平台不同软件不同环境下，Word 文档的显示效果是千差万别的。
+当然，不同的公司不同的 HR 有着不同的要求和喜好，依据经验，外企更倾向于接收 PDF。如果用 Word 来制作简历，建议导出一份 PDF 备用。
+
 
 [1] Serif vs Sans: The Final Battle, http://designreviver.com/inspiration/serif-vs-sans-the-final-battle/.
 
@@ -544,6 +560,8 @@ PDF 有着极佳的跨平台输出质量，可以保证几乎 100% 一致的打�
 [15] 专业排版软件多有自动连字处理功能，开启后可在一定程序上自动识别可以数字的地方，但最好人工确认检查一遍。
 
 [16] Wikipedia, [[https://en.wikipedia.org/wiki/Dash][https://en.wikipedia.org/wiki/Dash]] ，包含详细的符号用法，及其在不同操作系统上的输入方法。
+
+[17] 专业排版软件多有自动连字处理功能，开启后可在一定程序上自动识别可以数字的地方，但最好人工确认检查一遍。
 
 # Local Variables:
 # eval: (auto-fill-mode -1)
