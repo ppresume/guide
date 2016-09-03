@@ -8,7 +8,7 @@ CLEAN.include('\#*\#', '.\#*', '*~', '**/*.aux',
 CLOBBER.include('**/*.pdf', '**/*.tex').exclude('pandoc/**/*')
 
 rule '.tex' => '.org' do |t|
-  pandoc_options = '--toc -N -V classoption:titlepage '\
+  pandoc_options = '--toc -N -V documentclass:report -V classoption:titlepage '\
                    '--latex-engine xelatex '\
                    '-H pandoc/ctex-header.tex'
   sh "pandoc #{pandoc_options} #{t.source} -o #{t.name}"
