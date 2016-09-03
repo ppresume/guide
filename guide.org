@@ -487,9 +487,6 @@ for a minus sign, type a hyphen in mathematics mode(\$-\$).
 
 除此之外，还有两个、三个全角连接符一起使用的用法，这里不再详述[16]。
 
-
-** 数字
-
 * 中英混排
 
 * 文件格式
