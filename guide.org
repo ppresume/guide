@@ -624,7 +624,7 @@ When you don't create things, you become defined by your tastes rather than abil
 
 [11] 《[[https://book.douban.com/subject/26834548/][西文排版]]》， /高冈 昌生/ ，第三章，P98。
 
-[12] 专业排版软件多有自动连字处理功能，开启后可在一定程序上自动识别可以数字的地方，但最好人工确认检查一遍。
+[12] 专业排版软件多有自动连字处理功能，开启后可在一定程序上自动识别可以连字的地方，但最好人工确认检查一遍。
 
 [13] Wikipedia, [[https://en.wikipedia.org/wiki/Dash][https://en.wikipedia.org/wiki/Dash]] ，包含详细的符号用法，及其在不同操作系统上的输入方法。
 
