@@ -444,34 +444,34 @@ DTP point 被定义为 1/72 [[https://en.wikipedia.org/wiki/Inch][英寸]]。
 
 #+CAPTION: IT 专有名词常见拼写错误
 #+NAME: table:it-typos
-| Typos                          | Fix            |
-|--------------------------------+----------------|
-| Html, html                     | HTML           |
-| Css, css                       | CSS            |
-| Javascript, javascript, JS, js | JavaScript     |
-| JAVA, java                     | Java           |
-| OC, oc, objective-c            | Objective-C    |
-| xcode, XCODE, XCode            | Xcode          |
-| linux, LINUX                   | Linux          |
-| APP                            | App            |
-| android                        | Android        |
-| ios, IOS                       | iOS            |
-| iphone, IPHONE                 | iPhone         |
-| AppStore, app store            | App Store      |
-| Http, http                     | HTTP           |
-| git, GIT                       | Git            |
-| eclipse                        | Eclipse        |
-| android studio                 | Android Studio |
-| mysql                          | MySQL          |
-| sqlite                         | SQLite         |
-| node, Node, NodeJS, nodejs     | Node.js        |
-| json, Json                     | JSON           |
-| xml, Xml                       | XML            |
-| jquery, JQuery                 | jQuery         |
-| Mac OSX                        | Mac OS X       |
-| ruby                           | Ruby           |
-| python                         | Python         |
-| ajax, Ajax                     | AJAX           |
+| Typos                          | Fix               |
+|--------------------------------+-------------------|
+| ajax, Ajax                     | AJAX              |
+| android                        | Android           |
+| android studio                 | Android Studio    |
+| APP                            | App               |
+| AppStore, app store            | App Store         |
+| Css, css                       | CSS               |
+| eclipse                        | Eclipse           |
+| git, GIT                       | Git               |
+| Html, html                     | HTML              |
+| Http, http                     | HTTP              |
+| json, Json                     | JSON              |
+| JAVA, java                     | Java              |
+| Javascript, javascript, JS, js | JavaScript        |
+| linux, LINUX                   | Linux             |
+| Mac OSX                        | Mac OS X or macOS |
+| mysql                          | MySQL             |
+| node, Node, NodeJS, nodejs     | Node.js           |
+| OC, oc, objective-c            | Objective-C       |
+| python                         | Python            |
+| ruby                           | Ruby              |
+| sqlite                         | SQLite            |
+| xml, Xml                       | XML               |
+| xcode, XCODE, XCode            | Xcode             |
+| ios, IOS                       | iOS               |
+| iphone, IPHONE                 | iPhone            |
+| jquery, JQuery                 | jQuery            |
 
 ** 语法
 
