@@ -1,4 +1,5 @@
 require 'rake/clean'
+require 'yaml'
 
 # `rake clean`
 CLEAN.include('\#*\#', '.\#*', '*~', '**/*.aux',
@@ -8,10 +9,12 @@ CLEAN.include('\#*\#', '.\#*', '*~', '**/*.aux',
 CLOBBER.include('**/*.pdf', '**/*.tex').exclude('pandoc/**/*')
 
 rule '.tex' => '.org' do |t|
-  pandoc_options = '--toc -N -V documentclass:report -V classoption:titlepage '\
-                   '--latex-engine xelatex '\
-                   '-H pandoc/ctex-header.tex'
-  sh "pandoc #{pandoc_options} #{t.source} -o #{t.name}"
+  metadata = YAML::load(File.open(t.name.sub(/\.tex$/, '.yaml')))
+  pandoc_item_args = metadata['pandoc']
+  pandoc_default_args = '--latex-engine xelatex '\
+                        '-H pandoc/ctex-header.tex'
+  pandoc_args = pandoc_item_args + ' ' + pandoc_default_args
+  sh "pandoc #{pandoc_args} #{t.source} -o #{t.name}"
 end
 
 rule '.pdf' => '.tex' do |t|
