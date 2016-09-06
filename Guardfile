@@ -17,4 +17,5 @@
 
 guard 'rake', :task => 'tex' do
   watch('guide.org')
+  watch('cheatsheet.org')
 end
