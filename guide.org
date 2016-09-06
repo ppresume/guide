@@ -256,8 +256,8 @@
 | 冒号（Colon）              | :    | ：   |
 | 分号（Semicolon）          | ;    | ；   |
 | 小括号（Parentheses）      | ()   | （）   |
-| 中括号（Parentheses）     | [] | ［］ |
-| 花括号（Parentheses）     | {} | ｛｝ |
+| 中括号（Bracket） | [] | ［］ |
+| 花括号（Brace） | {} | ｛｝ |
 
 ** 通用规则
 
@@ -272,13 +272,13 @@
 连字符（Hyphen, -），半角连接号（En-dash, --）和全角连接号（Em-dash, ---）是英文排版中极易被混淆导致出错的三个标点符号。下面分述这三个不同标点符号的用法。
 
 #+BEGIN_QUOTE
-for a hyphen, type a hyphen(-);
+for a hyphen, type a hyphen (-);
 
-for an en-dash, type two hyphens(-\/-);
+for an en-dash, type two hyphens (-\/-);
 
-for an em-dash, type three hyphens(-\/-\/-);
+for an em-dash, type three hyphens (-\/-\/-);
 
-for a minus sign, type a hyphen in mathematics mode(\$-\$).
+for a minus sign, type a hyphen in mathematics mode (\$-\$).
 
 --- Donald Knuth, /The TeXBook/
 #+END_QUOTE
@@ -326,7 +326,7 @@ for a minus sign, type a hyphen in mathematics mode(\$-\$).
 
 *** 点制
 
-点制又称磅制，是由英文 [[https://en.wikipedia.org/wiki/Point_(typography)][Point]] 翻译而来，缩写为 pt。在排印中，点是最小的计量单位。事实上，在不同的历史时期，点的实际尺寸大小也是不同的。十八世纪时，点的尺寸由 0.18 毫米改为 0.4 毫米。二十世纪八、九十年代，随着[[https://en.wikipedia.org/wiki/Desktop_publishing][桌面出版]]的发展，[[https://en.wikipedia.org/wiki/Digital_printing][数字印刷]]在很大程序上取代了[[https://en.wikipedia.org/wiki/Printing_press][活字印刷]]，并逐渐确立以 DTP point(desktop publishing point) 为工业标准。
+点制又称磅制，是由英文 [[https://en.wikipedia.org/wiki/Point_(typography)][Point]] 翻译而来，缩写为 pt。在排印中，点是最小的计量单位。事实上，在不同的历史时期，点的实际尺寸大小也是不同的。十八世纪时，点的尺寸由 0.18 毫米改为 0.4 毫米。二十世纪八、九十年代，随着[[https://en.wikipedia.org/wiki/Desktop_publishing][桌面出版]]的发展，[[https://en.wikipedia.org/wiki/Digital_printing][数字印刷]]在很大程序上取代了[[https://en.wikipedia.org/wiki/Printing_press][活字印刷]]，并逐渐确立以 DTP point (desktop publishing point) 为工业标准。
 
 DTP point 被定义为 1/72 [[https://en.wikipedia.org/wiki/Inch][英寸]]。
 
@@ -513,7 +513,7 @@ DTP point 被定义为 1/72 [[https://en.wikipedia.org/wiki/Inch][英寸]]。
 常用的简历格式包括：
 
 - [[https://en.wikipedia.org/wiki/Portable_Document_Format][PDF]]
-- Microsoft Word(doc, docx)
+- Microsoft Word (doc/docx)
 - Plain Text（纯文本格式）
 - HTML（网页格式）
 
