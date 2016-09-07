@@ -255,7 +255,7 @@
 | 逗点（Comma）              | ,    | ，   |
 | 冒号（Colon）              | :    | ：   |
 | 分号（Semicolon）          | ;    | ；   |
-| 小括号（Parentheses）      | ()   | （）   |
+| 小括号（Parenthesis）      | ()   | （）   |
 | 中括号（Bracket） | [] | ［］ |
 | 花括号（Brace） | {} | ｛｝ |
 
@@ -434,7 +434,7 @@ DTP point 被定义为 1/72 [[https://en.wikipedia.org/wiki/Inch][英寸]]。
 
 ** 拼写
 
-简历中的拼写错误是求职大忌。过多的初级拼写错误会影响雇主对求职者的第一印象。多数软件都有拼写检查功能，适当使用避免很多初级的拼写错误。当然，也不要过度依赖软件的拼写检查功能，最好还是找个信任的朋友进行二次较对。
+简历中的拼写错误是求职大忌。过多的初级拼写错误会影响雇主对求职者的第一印象。多数软件都有拼写检查功能，适当使用避免很多初级的拼写错误。当然，也不要过度依赖软件的拼写检查功能，最好还是找个信任的朋友进行二次校对。
 
 *** 专有名词
 
@@ -503,7 +503,7 @@ DTP point 被定义为 1/72 [[https://en.wikipedia.org/wiki/Inch][英寸]]。
 | Stimulated    | Succeeded    | Surpassed    | Synchronized | Synergized   |
 | Tabulated     | Targeted     | Tested       | Traded       | Translated   |
 | Triggered     | Triumphed    | Troubleshot  | Uncovered    | Underwrote   |
-| Unearthed     | Unifed       | Upgraded     | Urged        | Utilized     |
+| Unearthed     | Unified      | Upgraded     | Urged        | Utilized     |
 | Validated     | Verbalized   | Verified     | Vitalized    | Yielded      |
 
 * 付梓
@@ -576,7 +576,7 @@ When you don't create things, you become defined by your tastes rather than abil
 
 一棵大树，百十年前，也许只是一粒随风飘荡的种子。百十年前，清风散去，老去的落叶与新生的树种一起，沉入腐土。阳光、雨露、风吹、霜冻，一棵小小的树种，源何能经受如此？树种在沉入腐土冒出新芽的那一刻，可曾想到自己日后会经历百年风雨？
 
-任何一个商业产品，其起点必然源于一个简单干净的 idea。当这个温室里的 idea 被当作种子，播洒到社会的土壤里，也一定会面临各种各样的环境和问题。Welcome to the real world。
+任何一个商业产品，其起点必然源于一个简单干净的 idea。当这个温室里的 idea 被当作种子，播洒到社会的土壤里，也一定会面临各种各样的环境和问题。Welcome to the real world.
 
 一个产品就像一颗树，树要想长得好，就必须要有所剪裁，产品也一样。剪裁即取舍，众口难调，面面俱到的产品既不可能，亦不必要。事实上，产品最终做成什么形态，基本上只取决于创始人的口味偏好。
 
