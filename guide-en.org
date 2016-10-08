@@ -1,23 +1,23 @@
-#+TITLE: A Guide for How to Write a Resume
+#+TITLE: A Guide for Resume Writing and Typesetting
 #+AUTHOR: http://ppresume.com
 
-* Sequence
+* Preface
 
-Resumes are facades.
+The resume is your face.
 
-210 * 297 mm, an A4, a resume, the end of a life stage, the beginning of a life stage.
+In a piece of A4, 210mm * 297mm, a resume ends the previous stage of life and starts the next one.
 
-Font, punctuation, layout, grammar, hundred feet high, from the base soil.
+"A nine-storey tower arises from a pile of earth."(Laozi, chapter 64) Likewise, a pretty-print resume is based on details of font, punctuation, layout and grammar.
 
-This guide will systematically elaborate the key points of Chinese and English resume writing and typesetting, and focus on typography, and strive to help the reader to make a resurrection of both vivid. For a specific topic, this guide first explains what (What), then discusses why (Why), and finally explains how to do (How).
+This guide will systematically explain the essentials of resume writing and typesetting with paticular emphasis on typography, helping you make a resume pretty both in form and spirit. For each topic, it will first explain WHAT it is, then WHY is it so, and finally How to do it.
 
-The guidelines are intended to be concise and clear, with the terms listed in four levels:
-- Be sure to state that the rules set forth in this article are compulsive specifications for typesetting, and if not, they are considered serious errors
-- RECOMMENDATIONS, EXPLANATIONS The recommendations in this clause are in accordance with the common typographical conventions and are recommended
-- Be cautious about whether this article is related to some advanced typographical knowledge or features, or in different language and cultural environment in different usage, or different business requirements are different, if not understand, do not use
-- Prohibited, indicating that the issues listed in this clause conflict with the common typesetting conventions and are prohibited
+The guide is trying to be as concise and clear as possible, for different items there are four levels of priority:
+- Must, mandatory in typesetting, serious mistake to violate
+- Recommend, conform to general typesetting standard, highly recommended
+- Caution, require advanced knowledge or features in typesetting, or diverses in different languages and cultures, or varies with regulation in companies, dangerous to use if not informed 
+- Forbidden, conflict with general typesetting standards, never applied
 
-* Fonts
+* Font
 
 If the text is the carrier of information transmission, then the visual characteristics of the text itself - that is, the font - affects the quality of information transmission.
 
