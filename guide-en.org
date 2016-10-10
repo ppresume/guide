@@ -1,0 +1,590 @@
+#+TITLE: A Guide for Resume Writing and Typesetting
+#+AUTHOR: http://ppresume.com
+
+* Preface
+
+The resume is your face.
+
+In a piece of A4, 210mm * 297mm, a resume ends the previous stage of life and starts the next one.
+
+"A nine-storey tower arises from a pile of earth."(Laozi, chapter 64) Likewise, a pretty-print resume is based on details of font, punctuation, layout and grammar.
+
+This guide will systematically explain the essentials of resume writing and typesetting with paticular emphasis on typography, helping you make a resume pretty both in form and spirit. For each topic, it will first explain WHAT it is, then WHY is it so, and finally How to do it.
+
+The guide is trying to be as concise and clear as possible, for different items there are four levels of priority:
+- Must, mandatory in typesetting, serious mistake to violate
+- Recommend, conform to general typesetting standard, highly recommended
+- Caution, require advanced knowledge or features in typesetting, or diverses in different languages and cultures, or varies with regulation in companies, dangerous to use if not informed 
+- Forbidden, conflict with general typesetting standards, never applied
+
+* Font
+
+If the text is the carrier of information transmission, then the visual characteristics of the text itself - that is, the font - affects the quality of information transmission.
+
+In principle, the layout of the resume should be simple and clear design-based. Implementation of the font, one should not use too fancy fonts, the second is the font type should not be too much - the best control in three. Here we will discuss Western fonts and Chinese fonts, some of the basics and typesetting points.
+
+** Font classification
+
+*** Serif body and non-liner body
+
+Western style fonts are divided into two lines, serif and sans-serif [1].
+
+Serif refers to the decorative details of the end of a glyph. Serif body refers to the serif fonts, also known as a serif, serif word, curve stroke character, commonly known as white body; contrast, there is no serif called non-serif, no Stroke character, commonly known as boldface. In the Western, the serif body used to call serif, sans-serif sans-serif font, which sans for the French "no" means.
+
+# + CAPTION: Sans serif
+# + NAME: image: serif-and-sans-01
+[[Static / notes / guide / images / 1280px-Serif_and_sans-serif_01.svg.png]]
+
+# + CAPTION: Serif fonts
+# + NAME: image: serif-and-sans-02
+[[Static / notes / guide / images / 1280px-Serif_and_sans-serif_02.svg.png]]
+
+# + CAPTION: serifs for serif fonts (red)
+# + NAME: image: serif-and-sans-03
+[[Static / notes / guide / images / 1280px-Serif_and_sans-serif_03.svg.png]]
+
+As for the East Asian characters, such as Chinese characters, Japanese kana and Korean proverbs and other square words, there are also "serif" and "sans serif" two concepts, just refer to different names.
+
+Chinese serif in accordance with the meaning of words translated into "serif" or "word foot", which means decorative foil, so the lining body is also known as "a foot body." In Japanese, serif is called う ろ こ, literally means "fish scales."
+
+Hong Kong and Taiwan of the traditional Chinese computer system known as the Ming body, the Japanese said Ming body (み ん ち ょ う た い, Minchōtai) in the printing industry in the Chinese mainland and Hong Kong and Taiwan, , Commonly used in text layout. These names originated in the Chinese history of the Song Dynasty and the Ming Dynasty, when the Chinese version of the printing has been widely disseminated, and used in the manufacture of movable type of wood grain for the horizontal direction, resulting in lettering when cross-painted fine, vertical painting thick; In order to prevent the edge of the damage, horizontal painting at both ends have been bold, according to pen habit of forming a triangular decoration. This approach has been in use today, and now the majority of serif type fonts are vertical and horizontal vertical coarse.
+
+In addition, the sans serif in the Chinese are usually referred to as black, in Japanese called ゴ シ ッ ク body (Goshikku-tai, the "Gothic"), these font strokes basically the same thickness, no serif, more eye-catching, commonly used Title, lead, signs and so on.
+
+# + CAPTION: Chinese character in the serif body and non-serifs
+# + NAME: image: serif-and-sans-03
+[[Static / notes / guide / images / 1280px-Chinese_typefaces _ (_ In_accordance_with_MOE, _ROC) .svg.png]]
+
+*** Proportional fonts and monospaced fonts
+
+According to the width of the characters are the same, the font can be divided into monospaced Font (Monospaced Font) and two proportional fonts (Proportional Font). As the name suggests, monospaced font width refers to the same computer font, the proportion of the font is not the same width of the computer font characters.
+
+# + CAPTION: Proportional fonts and monospaced fonts
+# + NAME: image: propotional-and-monospaced-font
+[[Static / notes / guide / images / 1280px-Propvsmono.svg.png]]
+
+In traditional Western printing, the proportion of fonts can improve the readability of the word. But the early computers, typewriters due to technical limitations, can not adjust the width of the characters, so each character are made into the same width, thus forming a monospaced font. With the improvement of computer technology, the graphical user interface has become the mainstream and continuous development and progress, dealing with the technical limitations of the proportion of fonts no longer exists, so the layout is now more natural proportion of fonts is quite popular.
+
+In East Asian languages, square words are basically treated as monospaced fonts. For example, Chinese characters in all regions, full-width characters in Japanese kana, and Korean syllables are all equal widths. Some Chinese and Japanese fonts also cover Western half-width characters, and therefore also contain proportional fonts, resulting in the same font in the two types of mixed font situation.
+
+** Chinese font
+
+Chinese typesetting main use of the four font form [2]:
+- Times New Roman
+- italics
+- Bold
+- imitation of the song
+
+*** Times New Roman
+
+Times New Roman, also known as Ming body or Ming Dynasty, is the most commonly used typesetting in Chinese typography.
+
+Arial is usually used for body text, titles, and comments. For the title, often to strengthen the word weight, make it different from the text.
+
+*** italics
+
+Kai, also known as real book, block, regular script or book, is a common Chinese calligraphy handwriting style.
+
+Italics are mainly used for the title, introduction, dialogue, abstract and the text is different paragraphs. But because italics similar to the Arial, less used to emphasize.
+
+*** Bold
+
+The black body is in the modern printing after the introduction of the East according to the West without serif created. So the scope of the word boldface and non-serif fonts are similar, and the Song-style body can be called serif.
+
+Boldface is often used in the title, lead, logo, etc., the text will also use the bold words to emphasize the specific bold font. However, with the development of the technology of word-making and the development of Internet and digital publishing, many methods have been developed for text-based applications, such as text-based, text-based, Of the black, there are a small number of books began to use the black font as the body text.
+
+*** imitation of the song
+
+Fantasy body shape between the Arial and italic between, and more for the introduction, abstract, and the text has some differences between the paragraphs.
+
+*** Chinese font collocation program
+
+Chinese digital fonts Due to the short history, with the Chinese character set is very large, the development of Chinese fonts work much larger than the Western font, so the available Chinese fonts to be much less than the Western font. Fortunately, most modern operating systems are built in the common song, bold, italics, imitation of the four kinds of Chinese characters [3]. Based on this, we recommend resumes in Chinese font with the program are as follows:
+
+- Title recommended the use of bold, text recommended Arial
+- The use of Chinese italics is prohibited
+  - and Western characters, Chinese characters are square words, traditionally there is no italics this way, so almost all the Chinese font design, there is no independent design of the Chinese italic
+  - Most of the daily Chinese italic is the software according to a specific algorithm to force conversion rendering, and its perception of independent design and italic compared to much worse
+- Use caution in Chinese boldface
+  - As with the Chinese font italics, most Chinese fonts are also not designed in bold
+  - A small number of newly designed fonts, such as holly black, Microsoft yahei, Siyuan black body, etc., there are several [[https://zh.wikipedia.org/wiki/%25E5%25AD52525%25E5%259E%258B#. E5.AD.97.E9.87.8D] (font-weight)] (font-weight)
+  - As in italics, in the absence of corresponding bold font weight, most software will render the bold effect by a specific algorithm, the effect of which is not comparable to that of the standalone design
+  - therefore, can not confirm whether a font has a corresponding multiple word weight circumstances, the use of caution in bold
+
+# + CAPTION: Siyuan bold, a variety of word weight
+# + NAME: image: source-hans-sans-font-weight
+[[Static / notes / guide / images / 1280px-SourceHanSans.svg.png]]
+
+** Western fonts
+
+Compared to the Chinese font, the choice of Western fonts to be much larger. First, Western Digital Publishing has a longer history, the second is a large font compared to the Chinese character set, Western character set to be much smaller, making the design and development of a Western font of the workload is much smaller than the Chinese font .
+
+As far as font design is concerned, Chinese characters are separated into individual characters, and more are single-word designs. In addition to considering the design and implementation of single characters, the proportion of characters is also considered.
+
+*** character composition
+
+Chinese characters and the Chinese word frame structure compared to the Western characters have their own unique structure of the characters. There are some important basic concepts that need to be understood by the font user:
+
+- baseline: uppercase characters H or lowercase characters n the bottom of the virtual step on the line
+- cap height: refers to the height of a linear uppercase character such as H or E from the baseline to the top of the character
+- x height (x-height): refers to the lower part of the upper and lower parts of the height of the lowercase x
+Ascender: ascending as the lowercase characters b, d, f, h, k, l are called ascenders. The height is called the ascender height, The top line of alignment is called the liter line
+- descender: descendants such as lowercase g, j, p, q, y, which extend downward from the baseline, are called descenders. The height is called the descender height, the bottom alignment Known as the down line
+
+# + CAPTION: Typography
+# + NAME: image: typography
+[[Static / notes / guide / images / 2000px-Typography_line_terms_alternate.svg.png]]
+
+*** Character spacing
+
+Character spacing (Letter-spacing, or Tracking), referred to as kerning, refers to the gap between the characters, divided into the font designer's character spacing adjustment and font user spacing adjustment of the character, the property affects the text line or text block & Lt; / RTI & gt;
+
+For font designers, character spacing adjustment (Spacing) is an important process in the font design implementation process. In the proportion of Western characters in the font, single character left and right sides of the blank is not consistent, the purpose is to ensure that the characters, whether with any other character or symbol adjacent to can easily read.
+
+For the font user, the character spacing adjustment is the text after the initial row through the software manually adjust the spacing between characters, the purpose may be to obtain some special alignment effect [4], or for better layout effect [5].
+
+*** Word spacing
+
+Kerning, also known as kerning, refers to the process of increasing or decreasing the spacing of a particular character in a proportional font. The specific character pairs that need to be adjusted are called pairs or pairs. View sense, the word even spacing adjustment is more concerned about the visual distance between the characters rather than the actual distance.
+
+Many fonts are created at the design stage for word pairs, and the word spacing adjustment information is stored in the font file. In this way, typesetting software can be used in accordance with the font of the font spacing adjustment information to automatically adjust the kink, and thus get a better layout effect.
+
+Implemented to the design and implementation of fonts, because each character has its own unique shape, so each pair of characters with each other to achieve the best results. This is the Western font design and implementation of the key processes and difficulties [6].
+
+# + CAPTION: Kerning (Kerning)
+# + NAME: image: typography
+[[Static / notes / guide / images / 1280px-Kerning_EN.svg.png]]
+
+*** co-word
+
+Ligature (Ligature), also known as ligatures, link words or words fit, referring to the words together by a word width design of the characters.
+
+Printed characters originate from the characters written in the handwritten text. After the birth of movable type printing, a lot of co-word was directly made into the word. However, in the 1950s, the widespread use of sans-serif fonts, and 1970s phototypesetting technology, the word is gradually seldom used. The earliest use of the word for digital typesetting is [[https://en.wikipedia.org/wiki/Donald_Knuth]Donald Knuth]] TeX procedures. This trend also affected the desktop publishing technology after 1985. Early computer software can not be replaced by the word (but TeX can), most of the new production of computer fonts, there is no word. Early use of personal computers in English, and English is not necessary to use the word, so there is no real need. With the development of digital publishing technology such as [[https://en.wikipedia.org/wiki/OpenType][OpenType]]), the word has been gradually restored to use [7].
+
+In general daily business documents, not the word will not be treated as a spelling error, but in advertising, books and other professional typesetting, the word is necessary [8].
+
+# + CAPTION: Ligature
+# + NAME: image: ligature
+[[Static / notes / guide / images / 1106px-Ligatures.svg.png]]
+
+*** Composite fonts
+
+Many Chinese characters contain Western characters, but the quality of these Western characters are often worse than the characters in Western fonts, so in the case of mixed English, often need to set different language and punctuation of different Font:
+
+- Chinese characters use A fonts
+- Western and digital use of B fonts
+- Chinese punctuation using C fonts
+
+In addition, some Chinese fonts, although good quality, but the character set is relatively small, can not display some uncommon words, then set the words for a small number of uncommon words similar fonts are also a complex type of application.
+
+Common typesetting software has a composite font feature support:
+- Microsoft Word allows you to set Chinese and English fonts separately in the advanced options for fonts
+- Adobe Indesign can create composite fonts directly, applying different fonts for different character classes
+- TeX can be through the Chinese ctex suite, with the use of ~ \ setmainfont ~, ~ \ setCJKmainfont ~ to simulate the effect of composite fonts
+- HTML / CSS can be used by ~ font-family ~, with the CSS in the font fallback mechanism (fallback) to simulate the effect of composite fonts
+
+*** Western italic
+
+Italic is a font style that is implemented by tilting a font based on normal font style; it can be Italian or pseudo-italic [9].
+
+There are two types of oblique fonts: Oblique type and Italic type, the post-tilt glyphs are also changes in the "Italian Type" (Italic Type), and simply tilt the original font to the right without deformation called pseudo italic (Oblique type). The Chinese term "italic" refers to "orthodox", but as a translation of the Western font, it usually refers to the "Italian Type" (Italic Type). As a result of simple software algorithms to be tilted deformation of the pseudo-italic strokes will appear to be more loose, more and more recent design more inclined to use the new design of the Italian italic.
+
+Chinese context, often Oblique type and Italic type both are translated as "italic", not subdivided and cause confusion. In theory, "italics" of the translation should be the two fonts collectively, in fact, not all Italian body is tilted.
+
+In Western, italics are usually distinguished from the body syllogism and used to emphasize or distinguish part of the text.
+
+*** Western fonts with the program
+
+Compared to the very few Chinese fonts, the number of English fonts can be used to describe the amount of vehicle bucket. So recommend a set of universal resume English font with the program is not an easy thing.
+
+- Serif fonts are recommended
+- Sans serif fonts are recommended for headers, but serif fonts can also be used
+- Texts that need to be highlighted in the text are recommended for italics, or in bold
+- Common serif typeface
+  - [[https://en.wikipedia.org/wiki/Garamond][Garamond]]
+  - [[https://en.wikipedia.org/wiki/Palatino][Palatino]]
+  - [[https://en.wikipedia.org/wiki/Georgia_(typeface)][Geogria]]
+  - [[https://en.wikipedia.org/wiki/Baskerville][Baskerville]]
+  - [[https://en.wikipedia.org/wiki/Minion_(typeface)][Minion]]
+  - [[https://en.wikipedia.org/wiki/Hoefler_Text][Hoefler Text]]
+  - [[[https://en.wikipedia.org/wiki/Linux_Libertine][Linux Libertine]]
+- Commonly used serif fonts
+  - [[https://en.wikipedia.org/wiki/Helvetica][Helvetica]]
+  - [[https://en.wikipedia.org/wiki/Gill_Sans][Gill Sans]]
+  - [[https://en.wikipedia.org/wiki/Optima][Optima]]
+
+* Punctuation
+
+Punctuation is the most humble but most error-prone place in CV writing. Whether the correct and standardized use of punctuation marks reflect the job applicants attitude.
+
+Correct and punctual use of punctuation, it seems easy to implement it is not imagined so simple. The main reason for this is that the use of punctuation in different locales is either unspecified or normative, but is not clearly defined in many places or has multiple sets of style guidelines ([[[https://en.wikipedia.org/wiki / Style_guide] [Style Guide]]) But they are not compatible with each other and even conflict; Second, the actual layout often encounter multiple languages ​​mixed situation, then the problem will become more complex. This guide attempts to summarize some common rules in the use of punctuation in both Chinese and English for your reference.
+
+** Chinese punctuation
+
+The following rules apply to the use of Chinese punctuation [10]:
+- Dash (-) Indicates the continuation of the tone or sound, takes up two Chinese characters space
+- ellipsis (...) that save the original, the sentence is not complete or the tone of the discontinuous, take up two Chinese characters space
+- Dashes and ellipses can not be broken or split into two lines because of an adaptive branch
+- the closing quotation marks, the end brackets, the ending book number, the ellipsis, the connection number, the space number, and so on, can not appear at the beginning of a line
+- start quotation marks, begin parentheses, start single or double the title of the symbol, etc., can not appear at the end of a line
+- It is advisable to squeeze the free space of punctuation marks when starting the brackets, ending brackets, commas, commas, periods, and interval numbers to make the text type more compact and readable.
+  - Most typesetting software has a punctuation function, please see the corresponding software manual rules
+
+** English punctuation
+
+The following rules apply to the use of punctuation in English [11]:
+- commas, periods, semicolons, colon, exclamation point, question mark must be followed by a half space
+- brackets around the same as the word and a half space, but after the bracket after the comma if it is not required to add a space
+- The hyphen has no space before and after the principle, but sometimes it is necessary to fine-tune the kerning
+- Slash for static "A or B" two parallel things, in principle, without spaces before and after
+
+** Mixed punctuation in Chinese and English
+
+Chinese and English punctuation in the form of very different, therefore, the correct use of punctuation to be done first do not mix punctuation:
+- In pure Chinese environment, be sure to use [[https://www.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5% BD% A2] [full-width]] Chinese punctuation
+- In plain English, be sure to use half-width English punctuation
+- In the case of Chinese and English mixed in the context of Chinese and English, respectively, the use of the corresponding Chinese and English punctuation
+
+# + CAPTION: Contrast differences between Chinese and English punctuation marks
+# + NAME: table: difference-between-chinese-and-english-marks
+English | Chinese |
+| ---------------------------- + ------ + ------ |
+| Full Stop / Period |. |. |
+| Question Mark | |
+Exclamation Mark |! | |
+| Comma |, |, |
+| Colon |: |: |
+| Semicolon |; |; |
+| Parenthesis | () | () |
+| Bracket | | | |
+| Curly braces (Brace) | {} | {} |
+
+** General rules
+
+The following rules apply to the use of punctuation in both Chinese and English:
+- punctuation suspension, to avoid a line at the beginning is a punctuation mark, you can layout software to automatically set the corresponding function or manually adjust
+- List items ([[https://en.wikipedia.org/wiki/Bullet_(typography)][Bullet list]]) At the end of the sentence, we recommend no punctuation,
+- It is recommended to add a half-size space between Arabic numerals and units
+- use quotation marks ("'",''",""," "), do not use [[https://zh.wikipedia.org/wiki/%E6%92%87%E5%8F%B7 ][apostrophe]]
+
+** Connection symbol
+
+Hyphen, Hyphen, En-dash, and Em-dash are three punctuation marks that can easily be confused and cause errors in English typesetting. The use of these three different punctuation marks is described below.
+
+# + BEGIN_QUOTE
+For a hyphen, type a hyphen (-);
+
+For an en-dash, type two hyphens (- \ / -);
+
+For an em-dash, type three hyphens (- \ / - \ / -);
+
+For a minus sign, type a hyphen in mathematics mode (\ $ - \ $).
+
+--- Donald Knuth, / The TeXBook /
+# + END_QUOTE
+
+Hyphen (-)
+
+The hyphen is used primarily for:
+
+- compound words such as "upper-case letter"
+- Separate numbers or characters, such as telephone numbers, "1-888-777-666"
+- The word at the end of the line will be hyphenated in order to keep the layout uniform
+
+There are a few rules about the end of the line:
+- Try not to have three or more consecutive ligatures
+- Avoid the use of proper nouns, names, etc. with a hyphen
+- Avoid cross-page ligatures
+- The position of ligature processing varies with different words. The basic principle is to segment the words according to the syllable. If necessary, it is best to check the dictionary. [12]
+
+*** Half-width connector (En-dash, -)
+
+En-dash, length equal to uppercase character N, is half of the full-width connector (Em-dash), mainly used for:
+- Number of start and end ranges, such as year, "July - August 1968"
+- the starting point of the address, such as "Boston-Hartford route"
+
+When using the half-angle connector, generally do not need to add a space before and after.
+
+*** Full-width connector (Em-dash, ---)
+
+Full-width connector (Em-dash), equal to the length of uppercase characters M, the most flexible and complex usage, the usage can refer to the Chinese dash:
+- Used to specify or explain, equivalent to parentheses or colons
+- Used to separate boot clauses
+- Indicates that the conversation is interrupted, in which case an ellipsis may be used instead
+
+In addition, there are two, three full-width connector used together with the usage, not detailed here [13].
+
+* Layout
+
+Typography is a "two-dimensional building."
+
+If the text and its font is the building material, then the layout design is the architectural drawings. Before discussing the layout design, we need to first clear some of the basic concepts, especially in the layout of the commonly used unit of size system.
+
+** font size
+
+Size (size) is a distinction between the size of the text of a measurement standard, the international common point system in China is based on the point system, supplemented by number system.
+
+*** point system
+
+Point system, also known as the pound system, is translated from English [[https://en.wikipedia.org/wiki/Point_(typography)][Point]], abbreviated as pt. In typography, the point is the smallest unit of measurement. In fact, in different historical periods, the actual size of the point size is different. In the eighteenth century, the size of the point changed from 0.18 mm to 0.4 mm. In the 1980s and 1990s, as [[https://en.wikipedia.org/wiki/Desktop_publishing] [desktop publishing]] development, [[https://en.wikipedia.org/wiki/Digital_printing ] [Digital printing]] has largely replaced [[https://en.wikipedia.org/wiki/Printing_press] [movable type printing]] and has gradually established DTP point (desktop publishing point) as the industry standard.
+
+The DTP point is defined as 1/72 [[https://en.wikipedia.org/wiki/Inch] [inch]].
+
+The vast majority of typesetting fonts are optimized for 10-12 pt. In other words, in such a font size, whether it is the character itself frame structure, or character spacing will have a good effect [14]. The larger the font size, the more loose the text appears, so you need to manually reduce the character spacing; the other hand, the smaller font size, the text looks more compact, need to manually increase the character spacing.
+
+# + CAPTION: Point units
+# + NAME: table: dtp-point
+| Pt | mm | cm | pica | inch |
+| ---- + -------- + --------- + ------ + ------ |
+1 | 0.3528 | 0.03528 | 1/12 | 1/72 |
+
+*** system
+
+In June 1985, the Ministry of Culture Publishing Management Bureau in order to innovate printing technology, improve the printing quality, put forward the movable type and the font standardization decision. (1 pt) is equal to 0.35 mm, the error does not exceed 0.005 mm, such as the fifth word is 10.5 points, or 3.675 mm. The size of the foreign type are calculated in points, that is, 1/72 inch, 0.5146 mm [10].
+
+Number system is not in multiple of three movable type as the standard, according to double or half relationship into a system, there are four words, five words and six word system. The smaller the letter size, the larger the font size. 4 on the 5th than large, on the 6th than on the 5th small [15].
+
+# + CAPTION: Number units
+# + NAME: table: chinese-point
+| | Chinese | |
+| ---------- + ------ + -------- |
+4.5 | 1.581 |
+| 7 | 5.25 | 1.845 |
+6.5 | 2.29 |
+| 6 | 7.5 | 2.65 |
+| 5 | 3.18 |
+| 5 | 10.5 | 3.70 |
+4 | 4.23 |
+| 4 | 4.94 |
+| Third | 15 | 5.29 |
+| Three | 16 | 5.64 |
+| Second | 18 | 6.35 |
+| No.2 | 21 | 7.76 |
+| 24 | 8.47 |
+| One | 27.5 | 9.17 |
+| Early | 36 | 12.70 |
+| First | 42 | 14.82 |
+| Special number | 54 | 18.979 |
+| Great special number | 63 | 22.142 |
+| King | 72 | 25.305 |
+
+** Line spacing
+
+Leading (Line-spacing) refers to the two lines of text between the baseline (Baseline) the distance between.
+
+# + CAPTION: Leading
+# + NAME: image: leading
+[[Static / notes / guide / images / 1200px-Line_spacing_comparison.svg.png]]
+
+Ideally spaced at least 120% of the font size in the read text [16].
+
+Due to the different structures of the Chinese and Western characters, the line spacing should also be differentiated. Spanish characters due to ascending (ascender) and descending (descender), so the line spacing relative to Chinese characters can be set smaller, the proposed 1.2-1.5 times between the font size. In addition, different Western fonts have different x-height, in principle, x-height greater, the set spacing should also be larger, on the contrary, x-height smaller, the line spacing should be smaller.
+
+Chinese characters as a result of the height of each block is basically the same, so the appropriate spacing can be increased, it is recommended to set the size of 1.5-1.8 times the font size.
+
+** Page Layout
+
+Layout is the layout design of the program, the outline is the purpose of Zhang. In addition to font size, line spacing of these common typesetting, resume layout there are some unique requirements. In principle, the best resume control in a page or less.
+- Words and sentences, streamlining language
+- Adjust the font size and line spacing within a reasonable range
+- Adjust the margins, left and right symmetry, usually between 10-25 mm.
+- Use lists rather than parallel sentences to list information
+- Western Resume Careful use of both ends of the alignment, it is recommended to use the left alignment
+  - Western words of different lengths, with both ends of the way it is easy to cause hyphenation and character spacing problems
+- Chinese Resume It is recommended to use both ends of the alignment
+  - Chinese character is a square word, in essence, is a monospaced font, so the default is justified at both ends
+  - In both Chinese and English, it is recommended that both ends be aligned
+
+** Chinese and Western mixed row
+
+Chinese typesetting, Chinese characters and Latin characters, Greek characters or Arabic numerals and other Western mixed situation often occurs. In addition to the previously mentioned compound font and later in the English punctuation mixed, there are some additional rules, need attention.
+- Use of full-width Spanish characters is prohibited when Chinese characters are mixed with Chinese characters
+- Chinese and Western mixed, the proportion of the use of Western fonts, Arabic numerals can use the proportion of fonts or monospaced fonts
+- Chinese characters and Western characters, the number between the proposal to add a certain margin, you can set the software to achieve high-level features through layout, you can manually add a half-size space
+* Grammar
+
+** Content
+
+Resume CV, concise is the most important. Basic objective information is the core of the resume:
+- Personal information
+  - important contact information, such as telephone, e-mail must be clearly written
+- Education background
+  - If you are fresh, you can add a high school education background
+- professional skill
+- Award winning information
+- Work (internship) experience
+
+Subjective information should be used with caution:
+- Self-evaluation
+- personal hobby
+- Social activities, volunteer experiences, etc., which are not clearly related to candidates' positions
+
+Unrelated candidates should also be cautious to use the objective information (some state-owned enterprises may need):
+- Photos
+- Birthday
+- Home address
+- nation
+- political status
+- Marital and family status
+
+Prohibited content:
+- "Personal resume" word
+Watermarks from Resume Template from Different Sources
+
+** Spelling
+
+A spelling mistake in a resume is a job search. Too many primary spelling mistakes can affect employers' first impressions of job seekers. Most software has a spell check function, appropriate to avoid a lot of primary spelling errors. Of course, do not over-reliance on the software's spell check function, it is best to find a trusted friend for the second proof-reading.
+
+Proper nouns
+
+In addition to the common English word spelling errors, proper nouns because of the more stringent capitalization requirements, is a high incidence of spelling errors. The same combination of characters, different capitalization, in different areas may have completely different meaning, job seekers must be cautious. For example, the lower case [[http://www.apple.com/ios/][iOS]] represents the mobile operating system on Apple iPhone devices, but all uppercase [[https://en.wikipedia.org/wiki / Cisco_IOS] [IOS]] is a dedicated system on a Cisco router.
+
+Limited to the author's background, this guide summarizes some common spelling errors in the IT domain [17].
+
+# + CAPTION: Common spelling mistakes in IT proper nouns
+# + NAME: table: it-typos
+| Typos | Fix |
+| -------------------------------- + ---------------- --- |
+| Ajax, Ajax | AJAX |
+| Android | Android |
+Android studio | Android Studio |
+| APP | App |
+AppStore, app store | App Store |
+| Css, css | CSS |
+| Eclipse |
+| Git, GIT | Git |
+| Html, html | HTML |
+| Http, http | HTTP |
+| Json, Json | JSON |
+| JAVA, java | Java |
+| Javascript, javascript, JS, js | JavaScript |
+| Linux, LINUX |
+Mac OSX | Mac OS X or macOS |
+| Mysql | MySQL |
+| Node, Node, NodeJS, nodejs | Node.js |
+| OC, oc, objective-c | Objective-C |
+| Python | Python |
+| Ruby |
+| Sqlite | SQLite |
+| Xml, Xml | XML |
+| Xcode, XCODE, XCode | Xcode |
+| Ios, IOS | iOS |
+| Iphone, iphone | iphone
+| Jquery, jQuery | jQuery |
+
+** Syntax
+
+Non-native English job seekers often encounter a lot of grammar and user problems when writing their English resume. In addition, compared with ordinary English writing, resume writing there are some special grammar requirements, need to pay attention.
+
+- If you describe the present work experience, use the present tense, otherwise use the past tense
+- many in the past tense verb directly at the beginning, omit the subject
+- Try to use simple and easy to understand phrases, but with a very long complex clause structure
+- The educational background and work experience are listed in flashback format, and the time format should be written to the month
+- The time format does not use year abbreviations. The format "05/06" has different interpretations in different countries. It can be interpreted in the standard format of "2015.05" or "June, 2015" format
+
+# + CAPTION: 100 commonly used in the resume English past tense
+# + NAME: table: 100-resume-english-verbs
+Accelerated | Accomplished | Accounted | Accumulated | Achieved |
+| Administrated | Arbitrated | Articulated | Boosted | Briefed |
+| Broadened | Budgeted | Campaigned | Chaired | Championed |
+| Clarified | Coached | Collaborated | Coordinated | Corroborated |
+| Cultivated | Customized | Decided | Decreased | Delegated |
+| Demonstrated | Designated | Developed | Devised | Diagnosed |
+Documented | Doubled | Economized | Edited | Educated |
+| Empowered | Enabled | Encouraged | Endorsed | Enhanced |
+| Faciplied | Focused | Forecasted | Generated | Harmonized |
+| Harnessed | Identified | Illustrated | Impressed | Improved |
+| Increased | Justified | Launched | Led | Magnified |
+| Managed | Marketed | Mastered | Navigated | Negotiated |
+| Observed | Obtained | Organized | Orchestrated | Participated |
+| Pinpointed | Performed | Publicized | Published | Realigned |
+| Recognized | Recommended | Selected | Separated | Spearheaded |
+| Stimulated | Succeeded | Surpassed | Synchronized | Synergized |
+| Tabulated | Targeted | Tested | Traded | Translated |
+| Triggered | Triumphed | Troubleshot | Uncovered | Underwrote |
+| Unearthed | Unified | Upgraded | Urged | Utilized |
+Verbalized | Verified | Vitalized | Yielded |
+
+* Fu Zi
+
+** file format
+
+Common resume formats include:
+
+- [[https://en.wikipedia.org/wiki/Portable_Document_Format][PDF]]
+- Microsoft Word (doc, docx)
+- Plain Text (plain text)
+- HTML (web format)
+
+Here is the primary recommendation of the PDF format:
+- PDF has excellent cross-platform output quality, can guarantee almost 100% consistent printing and display
+- PDF can be embedded in the font, the font selection has a great degree of freedom
+- Default PDF reader on most platforms
+  - Windows 8 and above built-in PDF reader
+  - Mac OS X [[https://en.wikipedia.org/wiki/Preview_(Mac_OS)][Preview]], iOS [[http://www.apple.com/ibooks/][iBooks]]
+  - many browsers (such as Chrome) built-in [[http://mozilla.github.io/pdf.js/][pdf.js]], the default can also open the PDF
+
+Word from the software is more easy to learn, but resume as a delivery, with Word format has a great disadvantage:
+- Word documents need to install additional office software to open
+  - Microsoft Word, [[https://wps.com] [WPS Office]] for Windows
+  - Mac OS X can use [[https://en.wikipedia.org/wiki/IWork][iWork]]
+  - [[https://wps.com] [WPS Office]], [[https://www.libreoffice.org/] [LibreOffice]] on Linux systems
+  - Many online document editing systems such as [[https://docs.google.com/][Google Docs]]) can also open and edit Word documents
+- Different documents in different platforms under different environments, Word document display is different
+  - [[https://products.office.com/en-us/word][Microsoft Word]] is not actually available on everyone's computer.
+  - Another fact is that genuine Microsoft Word is a licensing fee of several hundred dollars
+- In order to ensure consistent display output results, Word document is best to use only a few common in the mainstream operating system fonts, which led to Word documents in the font selection on the freedom of small
+
+Of course, different companies have different HR different requirements and preferences. Based on experience, foreign companies are more inclined to receive PDF, if Word to make a resume, it is recommended to export a PDF backup.
+
+** Mail etiquette
+
+In addition to the company's unique recruitment system, candidates should be the main resume delivery method of e-mail. Some basic mail etiquette is as follows:
+- Set up the correct mailbox nickname, do not use the informal too fancy nickname, will give employers a very professional impression
+  - Many QQ mailbox nickname is not formal enough, need special attention
+- Message headers are recommended in a uniform format, with a clear and concise message that conveys the most important information
+  - Proposed format: Candidate - Company Position - Name - [School / Education] - [Work Experience]
+- E-mail text to be concise, do not recommend writing too long with a lot of personal subjective evaluation or emotional letter cover letter
+  - the beginning of the text the best title to write, and add a greeting
+  - Body content
+    - Personal basic information, such as work status (working / leaving), what positions, academic experience, etc.
+    - apply to position
+    Job search channels, whether it was recommended
+  - inscribed, including name, contact information (telephone / E-mail)
+- Attachment Attach a complete resume file and name the file with reference to the message header format
+
+[1] Serif vs Sans: The Final Battle, http://designreviver.com/inspiration/serif-vs-sans-the-final-battle/.
+
+[2] Requirements for Chinese Text Layout Chinese typesetting requirements, [[https://www.w3.org/TR/clreq]].
+
+[3] Need to be clear, here is said to be the song, bold and other Chinese font name, refers to the song, bold and other font form based on the design of the font family. For example, the song on Windows may be [[https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%98%93%E5%AE%8B%E4%BD%93] ]], And Mac OS X on the song may refer to the Chinese-song.
+
+[4] Chinese characters in the main characters of the layout, usually need to be aligned at both ends, but to Western characters as the main text of the layout, when the width of the smaller layout is usually not suitable for both ends of the alignment, in which case if the mandatory two End alignment, most software will force the adjustment of character spacing, but the final layout effect is often very bad.
+
+[5] For example, TeX typesetting system innovation lies in its excellent [[https://en.wikipedia.org/wiki/TeX#Hyphenation_and_justification]justification]] algorithm, the principle is to adjust the character spacing to make the layout More symmetrical ([[https://en.wikipedia.org/wiki/Typographic_alignment#Justified]justified]]).
+
+[6] A Beginner's Guide to Kerning Like a Designer, [[https://designschool.canva.com/blog/kerning/]].
+
+[7] Wikipedia, [[https://en.wikipedia.org/wiki/Ligature]].
+
+[8] "[[https://book.douban.com/subject/25836269/] [Western]]," / Kobayashi chapter /, Chapter II, P37.
+
+[9] Wikipedia, [[https://en.wikipedia.org/wiki/Italic_type][https://en.wikipedia.org/wiki/Italic_type]].
+
+[10] Requirements for Chinese Text Layout Chinese typesetting requirements, [[https://www.w3.org/TR/clreq]].
+
+[10] "[[https://book.douban.com/subject/4224467/][Adobe Indesign CS4, Basic Training Materials]]".
+
+[11] "[[https://book.douban.com/subject/26834548/] [Western typesetting]]", / Takahata Changsheng /, Chapter III, P98.
+
+[12] professional typesetting software with automatic word processing function, after opening in a certain program can automatically identify the place where the word can be, but the best artificial confirmation check again.
+
+[13] Wikipedia, [[https://en.wikipedia.org/wiki/Dash][https://en.wikipedia.org/wiki/Dash]], contains detailed symbol usage, and its use in different operating systems On the input method.
+
+[14] "[[https://book.douban.com/subject/26386339/] [Graphic Design Complete Manual]]", / Marcus Wegge /, Chapter VI, p296.
+
+[15] Wikipedia, [[https://en.wikipedia.org/wiki/Point_(typography)][https://en.wikipedia.org/wiki/Point_(typography)]].
+
+[16] "[[https://book.douban.com/subject/26386339/] [Graphic Design Complete Manual]]", / Marcus Wegge /, Chapter VI, p301.
+
+[17] [[https://github.com/ppresume/typos][https://github.com/ppresume/typos]], the latest common proper noun errata.
