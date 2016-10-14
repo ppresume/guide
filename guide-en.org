@@ -17,43 +17,31 @@ The guide is trying to be as concise and clear as possible, for different declar
 - SHOULD NOT, require advanced knowledge or features in typesetting, or diverse in different languages and cultures, or vary with regulations in companies, dangerous to use if not informed
 - MUST NOT, conflict with general typesetting standards, forbidden to apply
 
-* Fonts
+* Font
 
-If the text is the carrier of information transmission, then the visual characteristics of the text itself - that is, the font - affects the quality of information transmission.
+As text transmits information, the visual feature of the text itself---font---will affect the quality of transmission.
 
-In principle, the layout of the resume should be simple and clear design-based. Implementation of the font, one should not use too fancy fonts, the second is the font type should not be too much - the best control in three. Here we will discuss Western fonts and Chinese fonts, some of the basics and typesetting points.
+In principle, the typesetting of a resume should be concise and clear. As for font, first you should never use fonts that are too fancy, second the types of fonts should not be too many---best limited in three. Here we will discuss some basics of fonts and main points in typesetting.
 
 ** Font classification
 
-*** Serif body and non-liner body
+*** Serif vs. sans-serif
 
-Western style fonts are divided into two lines, serif and sans-serif [1].
+In terms of serifs, fonts for Latin alphabet are divided into two families: serif and sans-serif[1].
 
-Serif refers to the decorative details of the end of a glyph. Serif body refers to the serif fonts, also known as a serif, serif word, curve stroke character, commonly known as white body; contrast, there is no serif called non-serif, no Stroke character, commonly known as boldface. In the Western, the serif body used to call serif, sans-serif sans-serif font, which sans for the French "no" means.
+A serif is a tiny line attached to the end of a stroke in a letter. A font with serifs is called serif font, or serifed font. In contrast, a font without serifs is called sans-serif font, from the French /sans/, meaning "without".
 
 # + CAPTION: Sans serif
 # + NAME: image: serif-and-sans-01
-[[Static / notes / guide / images / 1280px-Serif_and_sans-serif_01.svg.png]]
+[[static/notes/guide/images/1280px-Serif_and_sans-serif_01.svg.png]]
 
 # + CAPTION: Serif fonts
 # + NAME: image: serif-and-sans-02
-[[Static / notes / guide / images / 1280px-Serif_and_sans-serif_02.svg.png]]
+[[static/notes/guide/images/1280px-Serif_and_sans-serif_02.svg.png]]
 
 # + CAPTION: serifs for serif fonts (red)
 # + NAME: image: serif-and-sans-03
-[[Static / notes / guide / images / 1280px-Serif_and_sans-serif_03.svg.png]]
-
-As for the East Asian characters, such as Chinese characters, Japanese kana and Korean proverbs and other square words, there are also "serif" and "sans serif" two concepts, just refer to different names.
-
-Chinese serif in accordance with the meaning of words translated into "serif" or "word foot", which means decorative foil, so the lining body is also known as "a foot body." In Japanese, serif is called う ろ こ, literally means "fish scales."
-
-Hong Kong and Taiwan of the traditional Chinese computer system known as the Ming body, the Japanese said Ming body (み ん ち ょ う た い, Minchōtai) in the printing industry in the Chinese mainland and Hong Kong and Taiwan, , Commonly used in text layout. These names originated in the Chinese history of the Song Dynasty and the Ming Dynasty, when the Chinese version of the printing has been widely disseminated, and used in the manufacture of movable type of wood grain for the horizontal direction, resulting in lettering when cross-painted fine, vertical painting thick; In order to prevent the edge of the damage, horizontal painting at both ends have been bold, according to pen habit of forming a triangular decoration. This approach has been in use today, and now the majority of serif type fonts are vertical and horizontal vertical coarse.
-
-In addition, the sans serif in the Chinese are usually referred to as black, in Japanese called ゴ シ ッ ク body (Goshikku-tai, the "Gothic"), these font strokes basically the same thickness, no serif, more eye-catching, commonly used Title, lead, signs and so on.
-
-# + CAPTION: Chinese character in the serif body and non-serifs
-# + NAME: image: serif-and-sans-03
-[[Static / notes / guide / images / 1280px-Chinese_typefaces _ (_ In_accordance_with_MOE, _ROC) .svg.png]]
+[[static/notes/guide/images/1280px-Serif_and_sans-serif_03.svg.png]]
 
 *** Proportional fonts and monospaced fonts
 
