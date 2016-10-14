@@ -53,11 +53,11 @@ According to whether or not the widths of characters are the same, fonts can be 
 
 In traditional printing, proportional fonts can improve the legibility of words. Due to technical limitations, the early computers and typewriters can not adjust the widths of characters. So all characters are made into the same width, thus monospaced fonts come into being. With the improvement of computer technology, the GUI(graphical user interface) has become the mainstream and been developing continuously; technical limitations no longer exist, so proportional fonts have become quite popular, since they are more naturally legible for human.
 
-** Western fonts
+** Font design and usage
 
-Compared to the Chinese font, the choice of Western fonts to be much larger. First, Western Digital Publishing has a longer history, the second is a large font compared to the Chinese character set, Western character set to be much smaller, making the design and development of a Western font of the workload is much smaller than the Chinese font .
+Digital Publishing has been developing for many years, and the writing system of English or other similiar languages actually has a very small character set, so there are many many kinds of fonts designed by different people with various demands.
 
-As far as font design is concerned, Chinese characters are separated into individual characters, and more are single-word designs. In addition to considering the design and implementation of single characters, the proportion of characters is also considered.
+For a monospaced font, the main focus is on the design of each single letter, other than that, in a proportional font, the space between letters should also be seriously considered.
 
 *** character composition
 
