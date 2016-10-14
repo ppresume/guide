@@ -59,19 +59,19 @@ Digital Publishing has been developing for many years, and the writing system of
 
 For a monospaced font, the main focus is on the design of each single letter, other than that, in a proportional font, the space between letters should also be seriously considered.
 
-*** character composition
+*** Letter composition
 
-Chinese characters and the Chinese word frame structure compared to the Western characters have their own unique structure of the characters. There are some important basic concepts that need to be understood by the font user:
+Letters in every font have a consistent structure, font users are supposed to know these basic concepts:
 
-- baseline: uppercase characters H or lowercase characters n the bottom of the virtual step on the line
-- cap height: refers to the height of a linear uppercase character such as H or E from the baseline to the top of the character
-- x height (x-height): refers to the lower part of the upper and lower parts of the height of the lowercase x
-Ascender: ascending as the lowercase characters b, d, f, h, k, l are called ascenders. The height is called the ascender height, The top line of alignment is called the liter line
-- descender: descendants such as lowercase g, j, p, q, y, which extend downward from the baseline, are called descenders. The height is called the descender height, the bottom alignment Known as the down line
+- baseline: the invisible line on which "H" or "n" stands
+- cap height: the distance from baseline to the top of a linear uppercase letter like "H" or "E"
+- x-height: the distance from the bottom to the top of lowercase "x"
+- ascender: the ascending parts of lowercase letters like "b", "d", "f", "h", "k", "l" over the top of "x" , its height is called the ascender height, the top line which ascenders align is called the ascender line
+- descender: the descending parts of lowercase letters like "g", "j", "p", "q", "y" below the baseline, its height is called  the descender height, the bottom line which descenders align is called the descender line
 
 # + CAPTION: Typography
 # + NAME: image: typography
-[[Static / notes / guide / images / 2000px-Typography_line_terms_alternate.svg.png]]
+[[static/notes/guide/images/2000px-Typography_line_terms_alternate.svg.png]]
 
 *** Character spacing
 
