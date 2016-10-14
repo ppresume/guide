@@ -43,65 +43,15 @@ A serif is a tiny line attached to the end of a stroke in a letter. A font with 
 # + NAME: image: serif-and-sans-03
 [[static/notes/guide/images/1280px-Serif_and_sans-serif_03.svg.png]]
 
-*** Proportional fonts and monospaced fonts
+*** Proportional vs. monospaced
 
-According to the width of the characters are the same, the font can be divided into monospaced Font (Monospaced Font) and two proportional fonts (Proportional Font). As the name suggests, monospaced font width refers to the same computer font, the proportion of the font is not the same width of the computer font characters.
+According to whether or not the widths of characters are the same, fonts can be divided into monospaced and proportional. As the name suggests, all letters in a monospaced font occupy the same amount of horizontal space, while in a proportional font they don't.
 
 # + CAPTION: Proportional fonts and monospaced fonts
-# + NAME: image: propotional-and-monospaced-font
-[[Static / notes / guide / images / 1280px-Propvsmono.svg.png]]
+# + NAME: image: proportional-and-monospaced-font
+[[static/notes/guide/images/1280px-Propvsmono.svg.png]]
 
-In traditional Western printing, the proportion of fonts can improve the readability of the word. But the early computers, typewriters due to technical limitations, can not adjust the width of the characters, so each character are made into the same width, thus forming a monospaced font. With the improvement of computer technology, the graphical user interface has become the mainstream and continuous development and progress, dealing with the technical limitations of the proportion of fonts no longer exists, so the layout is now more natural proportion of fonts is quite popular.
-
-In East Asian languages, square words are basically treated as monospaced fonts. For example, Chinese characters in all regions, full-width characters in Japanese kana, and Korean syllables are all equal widths. Some Chinese and Japanese fonts also cover Western half-width characters, and therefore also contain proportional fonts, resulting in the same font in the two types of mixed font situation.
-
-** Chinese font
-
-Chinese typesetting main use of the four font form [2]:
-- Times New Roman
-- italics
-- Bold
-- imitation of the song
-
-*** Times New Roman
-
-Times New Roman, also known as Ming body or Ming Dynasty, is the most commonly used typesetting in Chinese typography.
-
-Arial is usually used for body text, titles, and comments. For the title, often to strengthen the word weight, make it different from the text.
-
-*** italics
-
-Kai, also known as real book, block, regular script or book, is a common Chinese calligraphy handwriting style.
-
-Italics are mainly used for the title, introduction, dialogue, abstract and the text is different paragraphs. But because italics similar to the Arial, less used to emphasize.
-
-*** Bold
-
-The black body is in the modern printing after the introduction of the East according to the West without serif created. So the scope of the word boldface and non-serif fonts are similar, and the Song-style body can be called serif.
-
-Boldface is often used in the title, lead, logo, etc., the text will also use the bold words to emphasize the specific bold font. However, with the development of the technology of word-making and the development of Internet and digital publishing, many methods have been developed for text-based applications, such as text-based, text-based, Of the black, there are a small number of books began to use the black font as the body text.
-
-*** imitation of the song
-
-Fantasy body shape between the Arial and italic between, and more for the introduction, abstract, and the text has some differences between the paragraphs.
-
-*** Chinese font collocation program
-
-Chinese digital fonts Due to the short history, with the Chinese character set is very large, the development of Chinese fonts work much larger than the Western font, so the available Chinese fonts to be much less than the Western font. Fortunately, most modern operating systems are built in the common song, bold, italics, imitation of the four kinds of Chinese characters [3]. Based on this, we recommend resumes in Chinese font with the program are as follows:
-
-- Title recommended the use of bold, text recommended Arial
-- The use of Chinese italics is prohibited
-  - and Western characters, Chinese characters are square words, traditionally there is no italics this way, so almost all the Chinese font design, there is no independent design of the Chinese italic
-  - Most of the daily Chinese italic is the software according to a specific algorithm to force conversion rendering, and its perception of independent design and italic compared to much worse
-- Use caution in Chinese boldface
-  - As with the Chinese font italics, most Chinese fonts are also not designed in bold
-  - A small number of newly designed fonts, such as holly black, Microsoft yahei, Siyuan black body, etc., there are several [[https://zh.wikipedia.org/wiki/%25E5%25AD52525%25E5%259E%258B#. E5.AD.97.E9.87.8D] (font-weight)] (font-weight)
-  - As in italics, in the absence of corresponding bold font weight, most software will render the bold effect by a specific algorithm, the effect of which is not comparable to that of the standalone design
-  - therefore, can not confirm whether a font has a corresponding multiple word weight circumstances, the use of caution in bold
-
-# + CAPTION: Siyuan bold, a variety of word weight
-# + NAME: image: source-hans-sans-font-weight
-[[Static / notes / guide / images / 1280px-SourceHanSans.svg.png]]
+In traditional printing, proportional fonts can improve the legibility of words. Due to technical limitations, the early computers and typewriters can not adjust the widths of characters. So all characters are made into the same width, thus monospaced fonts come into being. With the improvement of computer technology, the GUI(graphical user interface) has become the mainstream and been developing continuously; technical limitations no longer exist, so proportional fonts have become quite popular, since they are more naturally legible for human.
 
 ** Western fonts
 
