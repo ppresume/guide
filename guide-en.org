@@ -1,139 +1,77 @@
-#+TITLE: A Guide for How to Write a Resume
+#+TITLE: A Guide for Resume Writing and Typesetting
 #+AUTHOR: http://ppresume.com
 
-* Sequence
+* Preface
 
-Resumes are facades.
+The resume is your face.
 
-210 * 297 mm, an A4, a resume, the end of a life stage, the beginning of a life stage.
+In a piece of A4, 210mm * 297mm, a resume ends the previous stage of life and starts the next one.
 
-Font, punctuation, layout, grammar, hundred feet high, from the base soil.
+"A nine-storey tower arises from a pile of earth."(/Laozi/, chapter 64) Likewise, a pretty-print resume is based on details of font, punctuation, layout and grammar.
 
-This guide will systematically elaborate the key points of Chinese and English resume writing and typesetting, and focus on typography, and strive to help the reader to make a resurrection of both vivid. For a specific topic, this guide first explains what (What), then discusses why (Why), and finally explains how to do (How).
+This guide will systematically explain the essentials of resume writing and typesetting with particular emphasis on typography, helping you make a resume pretty both in form and spirit. For each topic, we will first explain WHAT it is, then WHY it is so, and finally HOW to do it.
 
-The guidelines are intended to be concise and clear, with the terms listed in four levels:
-- Be sure to state that the rules set forth in this article are compulsive specifications for typesetting, and if not, they are considered serious errors
-- RECOMMENDATIONS, EXPLANATIONS The recommendations in this clause are in accordance with the common typographical conventions and are recommended
-- Be cautious about whether this article is related to some advanced typographical knowledge or features, or in different language and cultural environment in different usage, or different business requirements are different, if not understand, do not use
-- Prohibited, indicating that the issues listed in this clause conflict with the common typesetting conventions and are prohibited
+The guide is trying to be as concise and clear as possible, for different declarations there are four levels of priorities:
+- MUST, mandatory in typesetting, serious mistake if violated
+- SHOULD, conform to general typesetting standards, highly recommended
+- SHOULD NOT, require advanced knowledge or features in typesetting, or diverse in different languages and cultures, or vary with regulations in companies, dangerous to use if not informed
+- MUST NOT, conflict with general typesetting standards, forbidden to apply
 
-* Fonts
+* Font
 
-If the text is the carrier of information transmission, then the visual characteristics of the text itself - that is, the font - affects the quality of information transmission.
+As text transmits information, the visual feature of the text itself---font---will affect the quality of transmission.
 
-In principle, the layout of the resume should be simple and clear design-based. Implementation of the font, one should not use too fancy fonts, the second is the font type should not be too much - the best control in three. Here we will discuss Western fonts and Chinese fonts, some of the basics and typesetting points.
+In principle, the typesetting of a resume should be concise and clear. As for font, first you should never use fonts that are too fancy, second the types of fonts should not be too many---best limited in three. Here we will discuss some basics of fonts and main points in typesetting.
 
 ** Font classification
 
-*** Serif body and non-liner body
+*** Serif vs. sans-serif
 
-Western style fonts are divided into two lines, serif and sans-serif [1].
+In terms of serifs, fonts for Latin alphabet are divided into two families: serif and sans-serif[1].
 
-Serif refers to the decorative details of the end of a glyph. Serif body refers to the serif fonts, also known as a serif, serif word, curve stroke character, commonly known as white body; contrast, there is no serif called non-serif, no Stroke character, commonly known as boldface. In the Western, the serif body used to call serif, sans-serif sans-serif font, which sans for the French "no" means.
+A serif is a tiny line attached to the end of a stroke in a letter. A font with serifs is called serif font, or serifed font. In contrast, a font without serifs is called sans-serif font, from the French /sans/, meaning "without".
 
 # + CAPTION: Sans serif
 # + NAME: image: serif-and-sans-01
-[[Static / notes / guide / images / 1280px-Serif_and_sans-serif_01.svg.png]]
+[[static/notes/guide/images/1280px-Serif_and_sans-serif_01.svg.png]]
 
 # + CAPTION: Serif fonts
 # + NAME: image: serif-and-sans-02
-[[Static / notes / guide / images / 1280px-Serif_and_sans-serif_02.svg.png]]
+[[static/notes/guide/images/1280px-Serif_and_sans-serif_02.svg.png]]
 
 # + CAPTION: serifs for serif fonts (red)
 # + NAME: image: serif-and-sans-03
-[[Static / notes / guide / images / 1280px-Serif_and_sans-serif_03.svg.png]]
+[[static/notes/guide/images/1280px-Serif_and_sans-serif_03.svg.png]]
 
-As for the East Asian characters, such as Chinese characters, Japanese kana and Korean proverbs and other square words, there are also "serif" and "sans serif" two concepts, just refer to different names.
+*** Proportional vs. monospaced
 
-Chinese serif in accordance with the meaning of words translated into "serif" or "word foot", which means decorative foil, so the lining body is also known as "a foot body." In Japanese, serif is called う ろ こ, literally means "fish scales."
-
-Hong Kong and Taiwan of the traditional Chinese computer system known as the Ming body, the Japanese said Ming body (み ん ち ょ う た い, Minchōtai) in the printing industry in the Chinese mainland and Hong Kong and Taiwan, , Commonly used in text layout. These names originated in the Chinese history of the Song Dynasty and the Ming Dynasty, when the Chinese version of the printing has been widely disseminated, and used in the manufacture of movable type of wood grain for the horizontal direction, resulting in lettering when cross-painted fine, vertical painting thick; In order to prevent the edge of the damage, horizontal painting at both ends have been bold, according to pen habit of forming a triangular decoration. This approach has been in use today, and now the majority of serif type fonts are vertical and horizontal vertical coarse.
-
-In addition, the sans serif in the Chinese are usually referred to as black, in Japanese called ゴ シ ッ ク body (Goshikku-tai, the "Gothic"), these font strokes basically the same thickness, no serif, more eye-catching, commonly used Title, lead, signs and so on.
-
-# + CAPTION: Chinese character in the serif body and non-serifs
-# + NAME: image: serif-and-sans-03
-[[Static / notes / guide / images / 1280px-Chinese_typefaces _ (_ In_accordance_with_MOE, _ROC) .svg.png]]
-
-*** Proportional fonts and monospaced fonts
-
-According to the width of the characters are the same, the font can be divided into monospaced Font (Monospaced Font) and two proportional fonts (Proportional Font). As the name suggests, monospaced font width refers to the same computer font, the proportion of the font is not the same width of the computer font characters.
+According to whether or not the widths of characters are the same, fonts can be divided into monospaced and proportional. As the name suggests, all letters in a monospaced font occupy the same amount of horizontal space, while in a proportional font they don't.
 
 # + CAPTION: Proportional fonts and monospaced fonts
-# + NAME: image: propotional-and-monospaced-font
-[[Static / notes / guide / images / 1280px-Propvsmono.svg.png]]
+# + NAME: image: proportional-and-monospaced-font
+[[static/notes/guide/images/1280px-Propvsmono.svg.png]]
 
-In traditional Western printing, the proportion of fonts can improve the readability of the word. But the early computers, typewriters due to technical limitations, can not adjust the width of the characters, so each character are made into the same width, thus forming a monospaced font. With the improvement of computer technology, the graphical user interface has become the mainstream and continuous development and progress, dealing with the technical limitations of the proportion of fonts no longer exists, so the layout is now more natural proportion of fonts is quite popular.
+In traditional printing, proportional fonts can improve the legibility of words. Due to technical limitations, the early computers and typewriters can not adjust the widths of characters. So all characters are made into the same width, thus monospaced fonts come into being. With the improvement of computer technology, the GUI(graphical user interface) has become the mainstream and been developing continuously; technical limitations no longer exist, so proportional fonts have become quite popular, since they are more naturally legible for human.
 
-In East Asian languages, square words are basically treated as monospaced fonts. For example, Chinese characters in all regions, full-width characters in Japanese kana, and Korean syllables are all equal widths. Some Chinese and Japanese fonts also cover Western half-width characters, and therefore also contain proportional fonts, resulting in the same font in the two types of mixed font situation.
+** Font design and usage
 
-** Chinese font
+Digital Publishing has been developing for many years, and the writing system of English or other similiar languages actually has a very small character set, so there are many many kinds of fonts designed by different people with various demands.
 
-Chinese typesetting main use of the four font form [2]:
-- Times New Roman
-- italics
-- Bold
-- imitation of the song
+For a monospaced font, the main focus is on the design of each single letter, other than that, in a proportional font, the space between letters should also be seriously considered.
 
-*** Times New Roman
+*** Letter composition
 
-Times New Roman, also known as Ming body or Ming Dynasty, is the most commonly used typesetting in Chinese typography.
+Letters in every font have a consistent structure, font users are supposed to know these basic concepts:
 
-Arial is usually used for body text, titles, and comments. For the title, often to strengthen the word weight, make it different from the text.
-
-*** italics
-
-Kai, also known as real book, block, regular script or book, is a common Chinese calligraphy handwriting style.
-
-Italics are mainly used for the title, introduction, dialogue, abstract and the text is different paragraphs. But because italics similar to the Arial, less used to emphasize.
-
-*** Bold
-
-The black body is in the modern printing after the introduction of the East according to the West without serif created. So the scope of the word boldface and non-serif fonts are similar, and the Song-style body can be called serif.
-
-Boldface is often used in the title, lead, logo, etc., the text will also use the bold words to emphasize the specific bold font. However, with the development of the technology of word-making and the development of Internet and digital publishing, many methods have been developed for text-based applications, such as text-based, text-based, Of the black, there are a small number of books began to use the black font as the body text.
-
-*** imitation of the song
-
-Fantasy body shape between the Arial and italic between, and more for the introduction, abstract, and the text has some differences between the paragraphs.
-
-*** Chinese font collocation program
-
-Chinese digital fonts Due to the short history, with the Chinese character set is very large, the development of Chinese fonts work much larger than the Western font, so the available Chinese fonts to be much less than the Western font. Fortunately, most modern operating systems are built in the common song, bold, italics, imitation of the four kinds of Chinese characters [3]. Based on this, we recommend resumes in Chinese font with the program are as follows:
-
-- Title recommended the use of bold, text recommended Arial
-- The use of Chinese italics is prohibited
-  - and Western characters, Chinese characters are square words, traditionally there is no italics this way, so almost all the Chinese font design, there is no independent design of the Chinese italic
-  - Most of the daily Chinese italic is the software according to a specific algorithm to force conversion rendering, and its perception of independent design and italic compared to much worse
-- Use caution in Chinese boldface
-  - As with the Chinese font italics, most Chinese fonts are also not designed in bold
-  - A small number of newly designed fonts, such as holly black, Microsoft yahei, Siyuan black body, etc., there are several [[https://zh.wikipedia.org/wiki/%25E5%25AD52525%25E5%259E%258B#. E5.AD.97.E9.87.8D] (font-weight)] (font-weight)
-  - As in italics, in the absence of corresponding bold font weight, most software will render the bold effect by a specific algorithm, the effect of which is not comparable to that of the standalone design
-  - therefore, can not confirm whether a font has a corresponding multiple word weight circumstances, the use of caution in bold
-
-# + CAPTION: Siyuan bold, a variety of word weight
-# + NAME: image: source-hans-sans-font-weight
-[[Static / notes / guide / images / 1280px-SourceHanSans.svg.png]]
-
-** Western fonts
-
-Compared to the Chinese font, the choice of Western fonts to be much larger. First, Western Digital Publishing has a longer history, the second is a large font compared to the Chinese character set, Western character set to be much smaller, making the design and development of a Western font of the workload is much smaller than the Chinese font .
-
-As far as font design is concerned, Chinese characters are separated into individual characters, and more are single-word designs. In addition to considering the design and implementation of single characters, the proportion of characters is also considered.
-
-*** character composition
-
-Chinese characters and the Chinese word frame structure compared to the Western characters have their own unique structure of the characters. There are some important basic concepts that need to be understood by the font user:
-
-- baseline: uppercase characters H or lowercase characters n the bottom of the virtual step on the line
-- cap height: refers to the height of a linear uppercase character such as H or E from the baseline to the top of the character
-- x height (x-height): refers to the lower part of the upper and lower parts of the height of the lowercase x
-Ascender: ascending as the lowercase characters b, d, f, h, k, l are called ascenders. The height is called the ascender height, The top line of alignment is called the liter line
-- descender: descendants such as lowercase g, j, p, q, y, which extend downward from the baseline, are called descenders. The height is called the descender height, the bottom alignment Known as the down line
+- baseline: the invisible line on which "H" or "n" stands
+- cap height: the distance from baseline to the top of a linear uppercase letter like "H" or "E"
+- x-height: the distance from the bottom to the top of lowercase "x"
+- ascender: the ascending parts of lowercase letters like "b", "d", "f", "h", "k", "l" over the top of "x" , its height is called the ascender height, the top line which ascenders align is called the ascender line
+- descender: the descending parts of lowercase letters like "g", "j", "p", "q", "y" below the baseline, its height is called  the descender height, the bottom line which descenders align is called the descender line
 
 # + CAPTION: Typography
 # + NAME: image: typography
-[[Static / notes / guide / images / 2000px-Typography_line_terms_alternate.svg.png]]
+[[static/notes/guide/images/2000px-Typography_line_terms_alternate.svg.png]]
 
 *** Character spacing
 
