@@ -67,7 +67,7 @@ Letters in every font have a consistent structure, font users are supposed to kn
 - cap height: the distance from baseline to the top of a linear uppercase letter like "H" or "E"
 - x-height: the distance from the bottom to the top of lowercase "x"
 - ascender: the ascending parts of lowercase letters like "b", "d", "f", "h", "k", "l" over the top of "x" , its height is called the ascender height, the top line which ascenders align is called the ascender line
-- descender: the descending parts of lowercase letters like "g", "j", "p", "q", "y" below the baseline, its height is called  the descender height, the bottom line which descenders align is called the descender line
+- descender: the descending parts of lowercase letters like "g", "j", "p", "q", "y" below the baseline, its height is called the descender height, the bottom line which descenders align is called the descender line
 
 # + CAPTION: Typography
 # + NAME: image: typography
