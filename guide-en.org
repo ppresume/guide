@@ -73,13 +73,13 @@ Letters in every font have a consistent structure, font users are supposed to kn
 # + NAME: image: typography
 [[static/notes/guide/images/2000px-Typography_line_terms_alternate.svg.png]]
 
-*** Character spacing
+*** Letter-spacing
 
-Character spacing (Letter-spacing, or Tracking), referred to as kerning, refers to the gap between the characters, divided into the font designer's character spacing adjustment and font user spacing adjustment of the character, the property affects the text line or text block & Lt; / RTI & gt;
+Letter-spacing, or tracking, refers to the space between letters. Letter-spacing adjustment is divided into font designers' side and font users' side; it affects the density in a line or block of text.
 
-For font designers, character spacing adjustment (Spacing) is an important process in the font design implementation process. In the proportion of Western characters in the font, single character left and right sides of the blank is not consistent, the purpose is to ensure that the characters, whether with any other character or symbol adjacent to can easily read.
+For font designers, adjusting the letter-spacing is an important procedure in designing. In a proportional font, the spacing on the left side of a single letter does not necessarily equal that on the right side. The purpose is to ensure readability when the letter is adjacent to whatever other letters on either side.
 
-For the font user, the character spacing adjustment is the text after the initial row through the software manually adjust the spacing between characters, the purpose may be to obtain some special alignment effect [4], or for better layout effect [5].
+For font users, the letter-spacing adjustment means manually rearranging the space between letters by software after the original typesetting, in order to obtain special alignment[4], or a better layout effect[5].
 
 *** Word spacing
 
