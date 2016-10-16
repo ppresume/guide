@@ -81,17 +81,17 @@ For font designers, adjusting the letter-spacing is an important procedure in de
 
 For font users, the letter-spacing adjustment means manually rearranging the space between letters by software after the original typesetting, in order to obtain special alignment[4], or a better layout effect[5].
 
-*** Word spacing
+*** Kerning
 
-Kerning, also known as kerning, refers to the process of increasing or decreasing the spacing of a particular character in a proportional font. The specific character pairs that need to be adjusted are called pairs or pairs. View sense, the word even spacing adjustment is more concerned about the visual distance between the characters rather than the actual distance.
+Kerning refers to the process of increasing or decreasing the space between specific letter pairs in a proportional font. These pairs are called kerning pairs. Kerning is more concerned about the visual spacing rather than the actual spacing.
 
-Many fonts are created at the design stage for word pairs, and the word spacing adjustment information is stored in the font file. In this way, typesetting software can be used in accordance with the font of the font spacing adjustment information to automatically adjust the kink, and thus get a better layout effect.
+Designers of many fonts will pay attention to kerning pairs while designing, and store kerning adjustment values in the font file. In this way, typesetting software can automatically adjust spacing for kerning pairs according to the values, thus produce a better layout effect.
 
-Implemented to the design and implementation of fonts, because each character has its own unique shape, so each pair of characters with each other to achieve the best results. This is the Western font design and implementation of the key processes and difficulties [6].
+Every letter has a unique shape, so during the design and implementation of a font, letters in all kerning pairs must cooperate to produce the best visual effect. In fact, this is where the key procedure and difficulties lie.
 
 # + CAPTION: Kerning (Kerning)
 # + NAME: image: typography
-[[Static / notes / guide / images / 1280px-Kerning_EN.svg.png]]
+[[static/notes/guide/images/1280px-Kerning_EN.svg.png]]
 
 *** co-word
 
