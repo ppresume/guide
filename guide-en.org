@@ -55,7 +55,7 @@ In traditional printing, proportional fonts can improve the legibility of words.
 
 ** Font design and usage
 
-Digital Publishing has been developing for many years, and the writing system of English or other similiar languages actually has a very small character set, so there are many many kinds of fonts designed by different people with various demands.
+Digital Publishing has been developing for many years, and the writing system of English or other similar languages actually has a very small character set, so there are many many kinds of fonts designed by different people with various demands.
 
 For a monospaced font, the main focus is on the design of each single letter, other than that, in a proportional font, the space between letters should also be seriously considered.
 
