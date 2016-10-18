@@ -105,31 +105,15 @@ In general daily business documents, absence of ligatures will not be treated as
 # + NAME: image: ligature
 [[static/notes/guide/images/1106px-Ligatures.svg.png]]
 
-*** Composite fonts
+*** Italics
 
-Many Chinese characters contain Western characters, but the quality of these Western characters are often worse than the characters in Western fonts, so in the case of mixed English, often need to set different language and punctuation of different Font:
+Italics are fonts in which the letters slant slightly to the right. Italics are based on normal font style, and refer to italic type or oblique type.
 
-- Chinese characters use A fonts
-- Western and digital use of B fonts
-- Chinese punctuation using C fonts
+In italic type, forms of letters are changed compared with the normal type, while in oblique type, letters are merely tilted right without any modification on the forms. Oblique type is simply realized through algorithms by software, as a result, the strokes of letters will appear loose. Recently, more and more designs are inclined to apply newly designed italic type.
 
-In addition, some Chinese fonts, although good quality, but the character set is relatively small, can not display some uncommon words, then set the words for a small number of uncommon words similar fonts are also a complex type of application.
+Theoretically, italics include italic type and oblique type, but it should be noticed that actually not all italic type are slanted .
 
-Common typesetting software has a composite font feature support:
-- Microsoft Word allows you to set Chinese and English fonts separately in the advanced options for fonts
-- Adobe Indesign can create composite fonts directly, applying different fonts for different character classes
-- TeX can be through the Chinese ctex suite, with the use of ~ \ setmainfont ~, ~ \ setCJKmainfont ~ to simulate the effect of composite fonts
-- HTML / CSS can be used by ~ font-family ~, with the CSS in the font fallback mechanism (fallback) to simulate the effect of composite fonts
-
-*** Western italic
-
-Italic is a font style that is implemented by tilting a font based on normal font style; it can be Italian or pseudo-italic [9].
-
-There are two types of oblique fonts: Oblique type and Italic type, the post-tilt glyphs are also changes in the "Italian Type" (Italic Type), and simply tilt the original font to the right without deformation called pseudo italic (Oblique type). The Chinese term "italic" refers to "orthodox", but as a translation of the Western font, it usually refers to the "Italian Type" (Italic Type). As a result of simple software algorithms to be tilted deformation of the pseudo-italic strokes will appear to be more loose, more and more recent design more inclined to use the new design of the Italian italic.
-
-Chinese context, often Oblique type and Italic type both are translated as "italic", not subdivided and cause confusion. In theory, "italics" of the translation should be the two fonts collectively, in fact, not all Italian body is tilted.
-
-In Western, italics are usually distinguished from the body syllogism and used to emphasize or distinguish part of the text.
+In practice, italics are usually applied to one piece of text to emphasize or distinguish it from the main body that is in serif fonts.
 
 *** Western fonts with the program
 
