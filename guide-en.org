@@ -93,17 +93,17 @@ Every letter has a unique shape, so during the design and implementation of a fo
 # + NAME: image: typography
 [[static/notes/guide/images/1280px-Kerning_EN.svg.png]]
 
-*** co-word
+*** Ligature
 
-Ligature (Ligature), also known as ligatures, link words or words fit, referring to the words together by a word width design of the characters.
+A ligature is a glyph that joins two or more letters together.
 
-Printed characters originate from the characters written in the handwritten text. After the birth of movable type printing, a lot of co-word was directly made into the word. However, in the 1950s, the widespread use of sans-serif fonts, and 1970s phototypesetting technology, the word is gradually seldom used. The earliest use of the word for digital typesetting is [[https://en.wikipedia.org/wiki/Donald_Knuth]Donald Knuth]] TeX procedures. This trend also affected the desktop publishing technology after 1985. Early computer software can not be replaced by the word (but TeX can), most of the new production of computer fonts, there is no word. Early use of personal computers in English, and English is not necessary to use the word, so there is no real need. With the development of digital publishing technology such as [[https://en.wikipedia.org/wiki/OpenType][OpenType]]), the word has been gradually restored to use [7].
+Printing ligatures originate from letters combined in handwriting. After the birth of movable-type printing, many ligatures were directly made into type. However, in the 1950s, sans-serif fonts began to be widely used, and in the 1970s phototypesetting was invented, so gradually ligatures were rarely used. The earliest software that could use ligatures for digital typesetting is TeX created by [[https://en.wikipedia.org/wiki/Donald_Knuth][Donald Knuth]]. This trend also affected the typesetting technology on computer desktop after 1985. In early times, software could not replace letters with ligatures(but TeX could), and most of the newly made fonts for computers did not include ligatures. Furthermore, early personal computers mostly displayed English, and ligatures are not necessary for English, so there was no real need. With the development of digital typesetting technology such as [[https://en.wikipedia.org/wiki/OpenType][OpenType]]), ligatures has gradually returned to practice[7].
 
-In general daily business documents, not the word will not be treated as a spelling error, but in advertising, books and other professional typesetting, the word is necessary [8].
+In general daily business documents, absence of ligatures will not be treated as spelling error, but for professional typesetting in advertising, book publishing and other fields, ligatures are essentially required[8].
 
 # + CAPTION: Ligature
 # + NAME: image: ligature
-[[Static / notes / guide / images / 1106px-Ligatures.svg.png]]
+[[static/notes/guide/images/1106px-Ligatures.svg.png]]
 
 *** Composite fonts
 
