@@ -13,7 +13,7 @@ This guide will systematically explain the essentials of resume writing and type
 
 The guide is trying to be as concise and clear as possible, for different declarations there are four levels of priorities:
 - MUST, mandatory in typesetting, serious mistake if violated
-- SHOULD, conform to general typesetting standards, highly recommended
+- RECOMMEND, conform to general typesetting standards, highly recommended
 - SHOULD NOT, require advanced knowledge or features in typesetting, or diverse in different languages and cultures, or vary with regulations in companies, dangerous to use if not informed
 - MUST NOT, conflict with general typesetting standards, forbidden to apply
 
@@ -55,7 +55,7 @@ In traditional printing, proportional fonts can improve the legibility of words.
 
 ** Font design and usage
 
-Digital Publishing has been developing for many years, and the writing system of English or other similiar languages actually has a very small character set, so there are many many kinds of fonts designed by different people with various demands.
+Digital Publishing has been developing for many years, and the writing system of English or other similar languages actually has a very small character set, so there are many many kinds of fonts designed by different people with various demands.
 
 For a monospaced font, the main focus is on the design of each single letter, other than that, in a proportional font, the space between letters should also be seriously considered.
 
@@ -67,86 +67,70 @@ Letters in every font have a consistent structure, font users are supposed to kn
 - cap height: the distance from baseline to the top of a linear uppercase letter like "H" or "E"
 - x-height: the distance from the bottom to the top of lowercase "x"
 - ascender: the ascending parts of lowercase letters like "b", "d", "f", "h", "k", "l" over the top of "x" , its height is called the ascender height, the top line which ascenders align is called the ascender line
-- descender: the descending parts of lowercase letters like "g", "j", "p", "q", "y" below the baseline, its height is called  the descender height, the bottom line which descenders align is called the descender line
+- descender: the descending parts of lowercase letters like "g", "j", "p", "q", "y" below the baseline, its height is called the descender height, the bottom line which descenders align is called the descender line
 
 # + CAPTION: Typography
 # + NAME: image: typography
 [[static/notes/guide/images/2000px-Typography_line_terms_alternate.svg.png]]
 
-*** Character spacing
+*** Letter-spacing
 
-Character spacing (Letter-spacing, or Tracking), referred to as kerning, refers to the gap between the characters, divided into the font designer's character spacing adjustment and font user spacing adjustment of the character, the property affects the text line or text block & Lt; / RTI & gt;
+Letter-spacing, or tracking, refers to the space between letters. Letter-spacing adjustment is divided into font designers' side and font users' side; it affects the density in a line or block of text.
 
-For font designers, character spacing adjustment (Spacing) is an important process in the font design implementation process. In the proportion of Western characters in the font, single character left and right sides of the blank is not consistent, the purpose is to ensure that the characters, whether with any other character or symbol adjacent to can easily read.
+For font designers, adjusting the letter-spacing is an important procedure in designing. In a proportional font, the spacing on the left side of a single letter does not necessarily equal that on the right side. The purpose is to ensure readability when the letter is adjacent to whatever other letters on either side.
 
-For the font user, the character spacing adjustment is the text after the initial row through the software manually adjust the spacing between characters, the purpose may be to obtain some special alignment effect [4], or for better layout effect [5].
+For font users, the letter-spacing adjustment means manually rearranging the space between letters by software after the original typesetting, in order to obtain special alignment[4], or a better layout effect[5].
 
-*** Word spacing
+*** Kerning
 
-Kerning, also known as kerning, refers to the process of increasing or decreasing the spacing of a particular character in a proportional font. The specific character pairs that need to be adjusted are called pairs or pairs. View sense, the word even spacing adjustment is more concerned about the visual distance between the characters rather than the actual distance.
+Kerning refers to the process of increasing or decreasing the space between specific letter pairs in a proportional font. These pairs are called kerning pairs. Kerning is more concerned about the visual spacing rather than the actual spacing.
 
-Many fonts are created at the design stage for word pairs, and the word spacing adjustment information is stored in the font file. In this way, typesetting software can be used in accordance with the font of the font spacing adjustment information to automatically adjust the kink, and thus get a better layout effect.
+Designers of many fonts will pay attention to kerning pairs while designing, and store kerning adjustment values in the font file. In this way, typesetting software can automatically adjust spacing for kerning pairs according to the values, thus produce a better layout effect.
 
-Implemented to the design and implementation of fonts, because each character has its own unique shape, so each pair of characters with each other to achieve the best results. This is the Western font design and implementation of the key processes and difficulties [6].
+Every letter has a unique shape, so during the design and implementation of a font, letters in all kerning pairs must cooperate to produce the best visual effect. In fact, this is where the key procedure and difficulties lie.
 
 # + CAPTION: Kerning (Kerning)
 # + NAME: image: typography
-[[Static / notes / guide / images / 1280px-Kerning_EN.svg.png]]
+[[static/notes/guide/images/1280px-Kerning_EN.svg.png]]
 
-*** co-word
+*** Ligature
 
-Ligature (Ligature), also known as ligatures, link words or words fit, referring to the words together by a word width design of the characters.
+A ligature is a glyph that joins two or more letters together.
 
-Printed characters originate from the characters written in the handwritten text. After the birth of movable type printing, a lot of co-word was directly made into the word. However, in the 1950s, the widespread use of sans-serif fonts, and 1970s phototypesetting technology, the word is gradually seldom used. The earliest use of the word for digital typesetting is [[https://en.wikipedia.org/wiki/Donald_Knuth]Donald Knuth]] TeX procedures. This trend also affected the desktop publishing technology after 1985. Early computer software can not be replaced by the word (but TeX can), most of the new production of computer fonts, there is no word. Early use of personal computers in English, and English is not necessary to use the word, so there is no real need. With the development of digital publishing technology such as [[https://en.wikipedia.org/wiki/OpenType][OpenType]]), the word has been gradually restored to use [7].
+Printing ligatures originate from letters combined in handwriting. After the birth of movable-type printing, many ligatures were directly made into type. However, in the 1950s, sans-serif fonts began to be widely used, and in the 1970s phototypesetting was invented, so gradually ligatures were rarely used. The earliest software that could use ligatures for digital typesetting is TeX created by [[https://en.wikipedia.org/wiki/Donald_Knuth][Donald Knuth]]. This trend also affected the typesetting technology on computer desktop after 1985. In early times, software could not replace letters with ligatures(but TeX could), and most of the newly made fonts for computers did not include ligatures. Furthermore, early personal computers mostly displayed English, and ligatures are not necessary for English, so there was no real need. With the development of digital typesetting technology such as [[https://en.wikipedia.org/wiki/OpenType][OpenType]]), ligatures has gradually returned to practice[7].
 
-In general daily business documents, not the word will not be treated as a spelling error, but in advertising, books and other professional typesetting, the word is necessary [8].
+In general daily business documents, absence of ligatures will not be treated as spelling error, but for professional typesetting in advertising, book publishing and other fields, ligatures are essentially required[8].
 
 # + CAPTION: Ligature
 # + NAME: image: ligature
-[[Static / notes / guide / images / 1106px-Ligatures.svg.png]]
+[[static/notes/guide/images/1106px-Ligatures.svg.png]]
 
-*** Composite fonts
+*** Italics
 
-Many Chinese characters contain Western characters, but the quality of these Western characters are often worse than the characters in Western fonts, so in the case of mixed English, often need to set different language and punctuation of different Font:
+Italics are fonts in which the letters slant slightly to the right. Italics are based on normal font style, and refer to italic type or oblique type.
 
-- Chinese characters use A fonts
-- Western and digital use of B fonts
-- Chinese punctuation using C fonts
+In italic type, forms of letters are changed compared with the normal type, while in oblique type, letters are merely tilted right without any modification on the forms. Oblique type is simply realized through algorithms by software, as a result, the strokes of letters will appear loose. Recently, more and more designs are inclined to apply newly designed italic type.
 
-In addition, some Chinese fonts, although good quality, but the character set is relatively small, can not display some uncommon words, then set the words for a small number of uncommon words similar fonts are also a complex type of application.
+Theoretically, italics include italic type and oblique type, but it should be noticed that actually not all italic type are slanted .
 
-Common typesetting software has a composite font feature support:
-- Microsoft Word allows you to set Chinese and English fonts separately in the advanced options for fonts
-- Adobe Indesign can create composite fonts directly, applying different fonts for different character classes
-- TeX can be through the Chinese ctex suite, with the use of ~ \ setmainfont ~, ~ \ setCJKmainfont ~ to simulate the effect of composite fonts
-- HTML / CSS can be used by ~ font-family ~, with the CSS in the font fallback mechanism (fallback) to simulate the effect of composite fonts
+In practice, italics are usually applied to one piece of text to emphasize or distinguish it from the main body that is in serif fonts.
 
-*** Western italic
+*** Combined font solution
 
-Italic is a font style that is implemented by tilting a font based on normal font style; it can be Italian or pseudo-italic [9].
+There are tons of fonts out there nowadays, so to commend a universal combined font solution for resumes is not so easy as it may seem to be.
 
-There are two types of oblique fonts: Oblique type and Italic type, the post-tilt glyphs are also changes in the "Italian Type" (Italic Type), and simply tilt the original font to the right without deformation called pseudo italic (Oblique type). The Chinese term "italic" refers to "orthodox", but as a translation of the Western font, it usually refers to the "Italian Type" (Italic Type). As a result of simple software algorithms to be tilted deformation of the pseudo-italic strokes will appear to be more loose, more and more recent design more inclined to use the new design of the Italian italic.
-
-Chinese context, often Oblique type and Italic type both are translated as "italic", not subdivided and cause confusion. In theory, "italics" of the translation should be the two fonts collectively, in fact, not all Italian body is tilted.
-
-In Western, italics are usually distinguished from the body syllogism and used to emphasize or distinguish part of the text.
-
-*** Western fonts with the program
-
-Compared to the very few Chinese fonts, the number of English fonts can be used to describe the amount of vehicle bucket. So recommend a set of universal resume English font with the program is not an easy thing.
-
-- Serif fonts are recommended
-- Sans serif fonts are recommended for headers, but serif fonts can also be used
-- Texts that need to be highlighted in the text are recommended for italics, or in bold
-- Common serif typeface
+- RECOMMEND, using serif fonts in the main body
+- RECOMMEND, using sans-serif fonts for titles, but serif fonts can also be used
+- RECOMMEND, using italic fonts to emphasize text in main body, corresponding bold style can also be used
+- Commonly used serif fonts 
   - [[https://en.wikipedia.org/wiki/Garamond][Garamond]]
   - [[https://en.wikipedia.org/wiki/Palatino][Palatino]]
   - [[https://en.wikipedia.org/wiki/Georgia_(typeface)][Geogria]]
   - [[https://en.wikipedia.org/wiki/Baskerville][Baskerville]]
   - [[https://en.wikipedia.org/wiki/Minion_(typeface)][Minion]]
   - [[https://en.wikipedia.org/wiki/Hoefler_Text][Hoefler Text]]
-  - [[[https://en.wikipedia.org/wiki/Linux_Libertine][Linux Libertine]]
-- Commonly used serif fonts
+  - [[https://en.wikipedia.org/wiki/Linux_Libertine][Linux Libertine]]
+- Commonly used sans-serif fonts
   - [[https://en.wikipedia.org/wiki/Helvetica][Helvetica]]
   - [[https://en.wikipedia.org/wiki/Gill_Sans][Gill Sans]]
   - [[https://en.wikipedia.org/wiki/Optima][Optima]]
