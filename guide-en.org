@@ -115,22 +115,22 @@ Theoretically, italics include italic type and oblique type, but it should be no
 
 In practice, italics are usually applied to one piece of text to emphasize or distinguish it from the main body that is in serif fonts.
 
-*** Western fonts with the program
+*** Combined font solution
 
-Compared to the very few Chinese fonts, the number of English fonts can be used to describe the amount of vehicle bucket. So recommend a set of universal resume English font with the program is not an easy thing.
+There are tons of fonts out there nowadays, so to commend a universal combined font solution for resumes is not so easy as it may seem to be.
 
-- Serif fonts are recommended
-- Sans serif fonts are recommended for headers, but serif fonts can also be used
-- Texts that need to be highlighted in the text are recommended for italics, or in bold
-- Common serif typeface
+- RECOMMEND, using serif fonts in the main body
+- RECOMMEND, using sans-serif fonts for titles, but serif fonts can also be used
+- RECOMMEND, using italic fonts to emphasize text in main body, corresponding bold style can also be used
+- Commonly used serif fonts 
   - [[https://en.wikipedia.org/wiki/Garamond][Garamond]]
   - [[https://en.wikipedia.org/wiki/Palatino][Palatino]]
   - [[https://en.wikipedia.org/wiki/Georgia_(typeface)][Geogria]]
   - [[https://en.wikipedia.org/wiki/Baskerville][Baskerville]]
   - [[https://en.wikipedia.org/wiki/Minion_(typeface)][Minion]]
   - [[https://en.wikipedia.org/wiki/Hoefler_Text][Hoefler Text]]
-  - [[[https://en.wikipedia.org/wiki/Linux_Libertine][Linux Libertine]]
-- Commonly used serif fonts
+  - [[https://en.wikipedia.org/wiki/Linux_Libertine][Linux Libertine]]
+- Commonly used sans-serif fonts
   - [[https://en.wikipedia.org/wiki/Helvetica][Helvetica]]
   - [[https://en.wikipedia.org/wiki/Gill_Sans][Gill Sans]]
   - [[https://en.wikipedia.org/wiki/Optima][Optima]]
