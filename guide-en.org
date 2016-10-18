@@ -13,7 +13,7 @@ This guide will systematically explain the essentials of resume writing and type
 
 The guide is trying to be as concise and clear as possible, for different declarations there are four levels of priorities:
 - MUST, mandatory in typesetting, serious mistake if violated
-- SHOULD, conform to general typesetting standards, highly recommended
+- RECOMMEND, conform to general typesetting standards, highly recommended
 - SHOULD NOT, require advanced knowledge or features in typesetting, or diverse in different languages and cultures, or vary with regulations in companies, dangerous to use if not informed
 - MUST NOT, conflict with general typesetting standards, forbidden to apply
 
