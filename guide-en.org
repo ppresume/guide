@@ -137,57 +137,18 @@ There are tons of fonts out there nowadays, so to commend a universal combined f
 
 * Punctuation
 
-Punctuation is the most humble but most error-prone place in CV writing. Whether the correct and standardized use of punctuation marks reflect the job applicants attitude.
+Punctuation is the most humble but also most error-prone part in resume writing. Whether or not the usage of punctuation is correct and standardized reflects the attitude of job applicants.
 
-Correct and punctual use of punctuation, it seems easy to implement it is not imagined so simple. The main reason for this is that the use of punctuation in different locales is either unspecified or normative, but is not clearly defined in many places or has multiple sets of style guidelines ([[[https://en.wikipedia.org/wiki / Style_guide] [Style Guide]]) But they are not compatible with each other and even conflict; Second, the actual layout often encounter multiple languages ​​mixed situation, then the problem will become more complex. This guide attempts to summarize some common rules in the use of punctuation in both Chinese and English for your reference.
+To apply correct and standardized punctuation may seem easy, but actually not. The main reason is that there is no definite specification for punctuation usage in different situations, or there are specifications but no clear-cut rules, or there exist multiple sets of style guidelines ([[https://en.wikipedia.org/wiki/Style_guide][Style Guide]]), but they are incompatible or even conflicted with each other. We will attempt to summarize some universal rules for your reference here.
 
-** Chinese punctuation
-
-The following rules apply to the use of Chinese punctuation [10]:
-- Dash (-) Indicates the continuation of the tone or sound, takes up two Chinese characters space
-- ellipsis (...) that save the original, the sentence is not complete or the tone of the discontinuous, take up two Chinese characters space
-- Dashes and ellipses can not be broken or split into two lines because of an adaptive branch
-- the closing quotation marks, the end brackets, the ending book number, the ellipsis, the connection number, the space number, and so on, can not appear at the beginning of a line
-- start quotation marks, begin parentheses, start single or double the title of the symbol, etc., can not appear at the end of a line
-- It is advisable to squeeze the free space of punctuation marks when starting the brackets, ending brackets, commas, commas, periods, and interval numbers to make the text type more compact and readable.
-  - Most typesetting software has a punctuation function, please see the corresponding software manual rules
-
-** English punctuation
-
-The following rules apply to the use of punctuation in English [11]:
-- commas, periods, semicolons, colon, exclamation point, question mark must be followed by a half space
-- brackets around the same as the word and a half space, but after the bracket after the comma if it is not required to add a space
-- The hyphen has no space before and after the principle, but sometimes it is necessary to fine-tune the kerning
-- Slash for static "A or B" two parallel things, in principle, without spaces before and after
-
-** Mixed punctuation in Chinese and English
-
-Chinese and English punctuation in the form of very different, therefore, the correct use of punctuation to be done first do not mix punctuation:
-- In pure Chinese environment, be sure to use [[https://www.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5% BD% A2] [full-width]] Chinese punctuation
-- In plain English, be sure to use half-width English punctuation
-- In the case of Chinese and English mixed in the context of Chinese and English, respectively, the use of the corresponding Chinese and English punctuation
-
-# + CAPTION: Contrast differences between Chinese and English punctuation marks
-# + NAME: table: difference-between-chinese-and-english-marks
-English | Chinese |
-| ---------------------------- + ------ + ------ |
-| Full Stop / Period |. |. |
-| Question Mark | |
-Exclamation Mark |! | |
-| Comma |, |, |
-| Colon |: |: |
-| Semicolon |; |; |
-| Parenthesis | () | () |
-| Bracket | | | |
-| Curly braces (Brace) | {} | {} |
-
-** General rules
-
-The following rules apply to the use of punctuation in both Chinese and English:
-- punctuation suspension, to avoid a line at the beginning is a punctuation mark, you can layout software to automatically set the corresponding function or manually adjust
-- List items ([[https://en.wikipedia.org/wiki/Bullet_(typography)][Bullet list]]) At the end of the sentence, we recommend no punctuation,
-- It is recommended to add a half-size space between Arabic numerals and units
-- use quotation marks ("'",''",""," "), do not use [[https://zh.wikipedia.org/wiki/%E6%92%87%E5%8F%B7 ][apostrophe]]
+- MUST, adding one space after commas, periods, semicolons, colons, exclamation marks and question marks
+- MUST, adding one space before an open bracket and after a closed bracket, same as a word, but no space after a closed bracket followed by a comma
+- RECOMMEND, adding one space between a number and its unit
+- RECOMMEND, not adding spaces around a hyphen, sometimes necessary to fine-tune the letter-spacing
+- RECOMMEND, not adding spaces around a slash which locates two parallel things like "A or B"
+- RECOMMEND, using quotation marks (“ ‘ ”, “ ’ ”, “ “ ”, “ ” ”), instead of [[https://en.wikipedia.org/wiki/Apostrophe][apostrophes]]
+- SHOULD NOT, adding any punctuation mark at the end of items in a [[https://en.wikipedia.org/wiki/Bullet_(typography)][Bullet list]]
+- MUST NOT, hanging a punctuation mark at the start of a line, which can be avoided by software's automatic settings or manual adjustment
 
 ** Connection symbol
 
