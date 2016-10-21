@@ -179,22 +179,22 @@ There are a few rules about hyphenation at the end of a line:
 - avoiding cross-page hyphenation
 - segmenting words according to syllables in principle, however the position to hyphenate varies with words,  so it's better to check dictionaries if necessary[12]
 
-*** Half-width connector (En-dash, -)
+*** En-dash (--)
 
-En-dash, length equal to uppercase character N, is half of the full-width connector (Em-dash), mainly used for:
-- Number of start and end ranges, such as year, "July - August 1968"
-- the starting point of the address, such as "Boston-Hartford route"
+The length of an en-dash equals the width of uppercase "N", and is half of the length of an em-dash. It's mainly used for:
+- indicating the spans of numbers, such as dates in a year, "July--August 1968"
+- connecting the start and end of addresses, such as "Boston--Hartford route"
 
-When using the half-angle connector, generally do not need to add a space before and after.
+When using an en-dash, generally it's not recommended to add spaces around it.
 
-*** Full-width connector (Em-dash, ---)
+*** Em-dash (---)
 
-Full-width connector (Em-dash), equal to the length of uppercase characters M, the most flexible and complex usage, the usage can refer to the Chinese dash:
-- Used to specify or explain, equivalent to parentheses or colons
-- Used to separate boot clauses
-- Indicates that the conversation is interrupted, in which case an ellipsis may be used instead
+The length of an em-dash equals the width of uppercase "M", and its usage is the most flexible and complex. The em-dash is usually used for:
+- explaining something in details, equivalent to parentheses or colons
+- segmenting declarative clauses
+- indicating that the conversation is interrupted, in which case an ellipsis may also be used
 
-In addition, there are two, three full-width connector used together with the usage, not detailed here [13].
+In addition, there are situations where two or three em-dashes are joined together, but not to be detailed here[13].
 
 * Layout
 
