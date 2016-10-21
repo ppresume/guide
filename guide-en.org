@@ -150,35 +150,34 @@ To apply correct and standardized punctuation may seem easy, but actually not. T
 - SHOULD NOT, adding any punctuation mark at the end of items in a [[https://en.wikipedia.org/wiki/Bullet_(typography)][Bullet list]]
 - MUST NOT, hanging a punctuation mark at the start of a line, which can be avoided by software's automatic settings or manual adjustment
 
-** Connection symbol
+** Connective mark
 
-Hyphen, Hyphen, En-dash, and Em-dash are three punctuation marks that can easily be confused and cause errors in English typesetting. The use of these three different punctuation marks is described below.
+Hyphen (-), en-dash (--), and em-dash (---) are extremely easy to be confused, thus cause errors in typesetting. The usage of them is described below.
 
-# + BEGIN_QUOTE
-For a hyphen, type a hyphen (-);
+#+BEGIN_QUOTE
+for a hyphen, type a hyphen (-);
 
-For an en-dash, type two hyphens (- \ / -);
+for an en-dash, type two hyphens (-\/-);
 
-For an em-dash, type three hyphens (- \ / - \ / -);
+for an em-dash, type three hyphens (-\/-\/-);
 
-For a minus sign, type a hyphen in mathematics mode (\ $ - \ $).
+for a minus sign, type a hyphen in mathematics mode (\$-\$).
 
---- Donald Knuth, / The TeXBook /
-# + END_QUOTE
+--- Donald Knuth, /The TeXBook/
+#+END_QUOTE
 
-Hyphen (-)
+*** Hyphen (-)
 
 The hyphen is used primarily for:
-
 - compound words such as "upper-case letter"
-- Separate numbers or characters, such as telephone numbers, "1-888-777-666"
-- The word at the end of the line will be hyphenated in order to keep the layout uniform
+- separating numbers or characters, such as telephone numbers, "1-888-777-666"
+- hyphenating the word at the end of a line to keep the whole layout neat
 
-There are a few rules about the end of the line:
-- Try not to have three or more consecutive ligatures
-- Avoid the use of proper nouns, names, etc. with a hyphen
-- Avoid cross-page ligatures
-- The position of ligature processing varies with different words. The basic principle is to segment the words according to the syllable. If necessary, it is best to check the dictionary. [12]
+There are a few rules about hyphenation at the end of a line:
+- trying not to hyphenate the last word in more than three continuous lines
+- avoiding to divide proper nouns, personal names, etc.
+- avoiding cross-page hyphenation
+- segmenting words according to syllables in principle, however the position to hyphenate varies with words,  so it's better to check dictionaries if necessary[12]
 
 *** Half-width connector (En-dash, -)
 
