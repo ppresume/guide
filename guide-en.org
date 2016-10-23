@@ -31,24 +31,24 @@ In terms of serifs, fonts for Latin alphabet are divided into two families: seri
 
 A serif is a tiny line attached to the end of a stroke in a letter. A font with serifs is called serif font, or serifed font. In contrast, a font without serifs is called sans-serif font, from the French /sans/, meaning "without".
 
-# + CAPTION: Sans serif
-# + NAME: image: serif-and-sans-01
+#+CAPTION: Sans serif
+#+NAME: image:serif-and-sans-01
 [[static/notes/guide/images/1280px-Serif_and_sans-serif_01.svg.png]]
 
-# + CAPTION: Serif fonts
-# + NAME: image: serif-and-sans-02
+#+CAPTION: Serif fonts
+#+NAME: image:serif-and-sans-02
 [[static/notes/guide/images/1280px-Serif_and_sans-serif_02.svg.png]]
 
-# + CAPTION: serifs for serif fonts (red)
-# + NAME: image: serif-and-sans-03
+#+CAPTION: serifs for serif fonts (red)
+#+NAME: image:serif-and-sans-03
 [[static/notes/guide/images/1280px-Serif_and_sans-serif_03.svg.png]]
 
 *** Proportional vs. monospaced
 
 According to whether or not the widths of characters are the same, fonts can be divided into monospaced and proportional. As the name suggests, all letters in a monospaced font occupy the same amount of horizontal space, while in a proportional font they don't.
 
-# + CAPTION: Proportional fonts and monospaced fonts
-# + NAME: image: proportional-and-monospaced-font
+#+CAPTION: Proportional fonts and monospaced fonts
+#+NAME: image:proportional-and-monospaced-font
 [[static/notes/guide/images/1280px-Propvsmono.svg.png]]
 
 In traditional printing, proportional fonts can improve the legibility of words. Due to technical limitations, the early computers and typewriters can not adjust the widths of characters. So all characters are made into the same width, thus monospaced fonts come into being. With the improvement of computer technology, the GUI(graphical user interface) has become the mainstream and been developing continuously; technical limitations no longer exist, so proportional fonts have become quite popular, since they are more naturally legible for human.
@@ -69,8 +69,8 @@ Letters in every font have a consistent structure, font users are supposed to kn
 - ascender: the ascending parts of lowercase letters like "b", "d", "f", "h", "k", "l" over the top of "x" , its height is called the ascender height, the top line which ascenders align is called the ascender line
 - descender: the descending parts of lowercase letters like "g", "j", "p", "q", "y" below the baseline, its height is called the descender height, the bottom line which descenders align is called the descender line
 
-# + CAPTION: Typography
-# + NAME: image: typography
+#+CAPTION: Typography
+#+NAME: image:typography
 [[static/notes/guide/images/2000px-Typography_line_terms_alternate.svg.png]]
 
 *** Letter-spacing
@@ -89,8 +89,8 @@ Designers of many fonts will pay attention to kerning pairs while designing, and
 
 Every letter has a unique shape, so during the design and implementation of a font, letters in all kerning pairs must cooperate to produce the best visual effect. In fact, this is where the key procedure and difficulties lie.
 
-# + CAPTION: Kerning (Kerning)
-# + NAME: image: typography
+#+CAPTION: Kerning (Kerning)
+#+NAME: image:typography
 [[static/notes/guide/images/1280px-Kerning_EN.svg.png]]
 
 *** Ligature
@@ -101,8 +101,8 @@ Printing ligatures originate from letters combined in handwriting. After the bir
 
 In general daily business documents, absence of ligatures will not be treated as spelling error, but for professional typesetting in advertising, book publishing and other fields, ligatures are essentially required[8].
 
-# + CAPTION: Ligature
-# + NAME: image: ligature
+#+CAPTION: Ligature
+#+NAME: image:ligature
 [[static/notes/guide/images/1106px-Ligatures.svg.png]]
 
 *** Italics
@@ -214,8 +214,8 @@ The DTP point is defined as 1/72 [[https://en.wikipedia.org/wiki/Inch] [inch]].
 
 The vast majority of typesetting fonts are optimized for 10-12 pt. In other words, in such a font size, whether it is the character itself frame structure, or character spacing will have a good effect [14]. The larger the font size, the more loose the text appears, so you need to manually reduce the character spacing; the other hand, the smaller font size, the text looks more compact, need to manually increase the character spacing.
 
-# + CAPTION: Point units
-# + NAME: table: dtp-point
+#+CAPTION: Point units
+#+NAME: table:dtp-point
 | Pt | mm | cm | pica | inch |
 | ---- + -------- + --------- + ------ + ------ |
 1 | 0.3528 | 0.03528 | 1/12 | 1/72 |
@@ -226,8 +226,8 @@ In June 1985, the Ministry of Culture Publishing Management Bureau in order to i
 
 Number system is not in multiple of three movable type as the standard, according to double or half relationship into a system, there are four words, five words and six word system. The smaller the letter size, the larger the font size. 4 on the 5th than large, on the 6th than on the 5th small [15].
 
-# + CAPTION: Number units
-# + NAME: table: chinese-point
+#+CAPTION: Number units
+#+NAME: table:chinese-point
 | | Chinese | |
 | ---------- + ------ + -------- |
 4.5 | 1.581 |
@@ -254,8 +254,8 @@ Number system is not in multiple of three movable type as the standard, accordin
 
 Leading (Line-spacing) refers to the two lines of text between the baseline (Baseline) the distance between.
 
-# + CAPTION: Leading
-# + NAME: image: leading
+#+CAPTION: Leading
+#+NAME: image:leading
 [[Static / notes / guide / images / 1200px-Line_spacing_comparison.svg.png]]
 
 Ideally spaced at least 120% of the font size in the read text [16].
@@ -323,8 +323,8 @@ In addition to the common English word spelling errors, proper nouns because of 
 
 Limited to the author's background, this guide summarizes some common spelling errors in the IT domain [17].
 
-# + CAPTION: Common spelling mistakes in IT proper nouns
-# + NAME: table: it-typos
+#+CAPTION: Common spelling mistakes in IT proper nouns
+#+NAME: table:it-typos
 | Typos | Fix |
 | -------------------------------- + ---------------- --- |
 | Ajax, Ajax | AJAX |
@@ -364,8 +364,8 @@ Non-native English job seekers often encounter a lot of grammar and user problem
 - The educational background and work experience are listed in flashback format, and the time format should be written to the month
 - The time format does not use year abbreviations. The format "05/06" has different interpretations in different countries. It can be interpreted in the standard format of "2015.05" or "June, 2015" format
 
-# + CAPTION: 100 commonly used in the resume English past tense
-# + NAME: table: 100-resume-english-verbs
+#+CAPTION: 100 commonly used in the resume English past tense
+#+NAME: table:100-resume-english-verbs
 Accelerated | Accomplished | Accounted | Accumulated | Achieved |
 | Administrated | Arbitrated | Articulated | Boosted | Briefed |
 | Broadened | Budgeted | Campaigned | Chaired | Championed |
