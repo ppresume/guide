@@ -31,24 +31,24 @@ In terms of serifs, fonts for Latin alphabet are divided into two families: seri
 
 A serif is a tiny line attached to the end of a stroke in a letter. A font with serifs is called serif font, or serifed font. In contrast, a font without serifs is called sans-serif font, from the French /sans/, meaning "without".
 
-# + CAPTION: Sans serif
-# + NAME: image: serif-and-sans-01
+#+CAPTION: Sans serif
+#+NAME: image:serif-and-sans-01
 [[static/notes/guide/images/1280px-Serif_and_sans-serif_01.svg.png]]
 
-# + CAPTION: Serif fonts
-# + NAME: image: serif-and-sans-02
+#+CAPTION: Serif fonts
+#+NAME: image:serif-and-sans-02
 [[static/notes/guide/images/1280px-Serif_and_sans-serif_02.svg.png]]
 
-# + CAPTION: serifs for serif fonts (red)
-# + NAME: image: serif-and-sans-03
+#+CAPTION: serifs for serif fonts (red)
+#+NAME: image:serif-and-sans-03
 [[static/notes/guide/images/1280px-Serif_and_sans-serif_03.svg.png]]
 
 *** Proportional vs. monospaced
 
 According to whether or not the widths of characters are the same, fonts can be divided into monospaced and proportional. As the name suggests, all letters in a monospaced font occupy the same amount of horizontal space, while in a proportional font they don't.
 
-# + CAPTION: Proportional fonts and monospaced fonts
-# + NAME: image: proportional-and-monospaced-font
+#+CAPTION: Proportional fonts and monospaced fonts
+#+NAME: image:proportional-and-monospaced-font
 [[static/notes/guide/images/1280px-Propvsmono.svg.png]]
 
 In traditional printing, proportional fonts can improve the legibility of words. Due to technical limitations, the early computers and typewriters can not adjust the widths of characters. So all characters are made into the same width, thus monospaced fonts come into being. With the improvement of computer technology, the GUI(graphical user interface) has become the mainstream and been developing continuously; technical limitations no longer exist, so proportional fonts have become quite popular, since they are more naturally legible for human.
@@ -69,8 +69,8 @@ Letters in every font have a consistent structure, font users are supposed to kn
 - ascender: the ascending parts of lowercase letters like "b", "d", "f", "h", "k", "l" over the top of "x" , its height is called the ascender height, the top line which ascenders align is called the ascender line
 - descender: the descending parts of lowercase letters like "g", "j", "p", "q", "y" below the baseline, its height is called the descender height, the bottom line which descenders align is called the descender line
 
-# + CAPTION: Typography
-# + NAME: image: typography
+#+CAPTION: Typography
+#+NAME: image:typography
 [[static/notes/guide/images/2000px-Typography_line_terms_alternate.svg.png]]
 
 *** Letter-spacing
@@ -89,20 +89,20 @@ Designers of many fonts will pay attention to kerning pairs while designing, and
 
 Every letter has a unique shape, so during the design and implementation of a font, letters in all kerning pairs must cooperate to produce the best visual effect. In fact, this is where the key procedure and difficulties lie.
 
-# + CAPTION: Kerning (Kerning)
-# + NAME: image: typography
+#+CAPTION: Kerning (Kerning)
+#+NAME: image:typography
 [[static/notes/guide/images/1280px-Kerning_EN.svg.png]]
 
 *** Ligature
 
 A ligature is a glyph that joins two or more letters together.
 
-Printing ligatures originate from letters combined in handwriting. After the birth of movable-type printing, many ligatures were directly made into type. However, in the 1950s, sans-serif fonts began to be widely used, and in the 1970s phototypesetting was invented, so gradually ligatures were rarely used. The earliest software that could use ligatures for digital typesetting is TeX created by [[https://en.wikipedia.org/wiki/Donald_Knuth][Donald Knuth]]. This trend also affected the typesetting technology on computer desktop after 1985. In early times, software could not replace letters with ligatures(but TeX could), and most of the newly made fonts for computers did not include ligatures. Furthermore, early personal computers mostly displayed English, and ligatures are not necessary for English, so there was no real need. With the development of digital typesetting technology such as [[https://en.wikipedia.org/wiki/OpenType][OpenType]]), ligatures has gradually returned to practice[7].
+Printing ligatures originate from letters combined in handwriting. After the birth of movable-type printing, many ligatures were directly made into type. However, in the 1950s, sans-serif fonts began to be widely used, and in the 1970s phototypesetting was invented, so gradually ligatures were rarely used. The earliest software that could use ligatures for digital typesetting is TeX created by [[https://en.wikipedia.org/wiki/Donald_Knuth][Donald Knuth]]. This trend also affected the typesetting technology on computer desktop after 1985. In early times, software could not replace letters with ligatures(but TeX could), and most of the newly made fonts for computers did not include ligatures. Furthermore, early personal computers mostly displayed English, and ligatures are not necessary for English, so there was no real need. With the development of digital typesetting technology such as [[https://en.wikipedia.org/wiki/OpenType][OpenType]], ligatures has gradually returned to practice[7].
 
 In general daily business documents, absence of ligatures will not be treated as spelling error, but for professional typesetting in advertising, book publishing and other fields, ligatures are essentially required[8].
 
-# + CAPTION: Ligature
-# + NAME: image: ligature
+#+CAPTION: Ligature
+#+NAME: image:ligature
 [[static/notes/guide/images/1106px-Ligatures.svg.png]]
 
 *** Italics
@@ -137,104 +137,64 @@ There are tons of fonts out there nowadays, so to commend a universal combined f
 
 * Punctuation
 
-Punctuation is the most humble but most error-prone place in CV writing. Whether the correct and standardized use of punctuation marks reflect the job applicants attitude.
+Punctuation is the most humble but also most error-prone part in resume writing. Whether or not the usage of punctuation is correct and standardized reflects the attitude of job applicants.
 
-Correct and punctual use of punctuation, it seems easy to implement it is not imagined so simple. The main reason for this is that the use of punctuation in different locales is either unspecified or normative, but is not clearly defined in many places or has multiple sets of style guidelines ([[[https://en.wikipedia.org/wiki / Style_guide] [Style Guide]]) But they are not compatible with each other and even conflict; Second, the actual layout often encounter multiple languages ​​mixed situation, then the problem will become more complex. This guide attempts to summarize some common rules in the use of punctuation in both Chinese and English for your reference.
+To apply correct and standardized punctuation may seem easy, but actually not. The main reason is that there is no definite specification for punctuation usage in different situations, or there are specifications but no clear-cut rules, or there exist multiple sets of style guidelines ([[https://en.wikipedia.org/wiki/Style_guide][Style Guide]]), but they are incompatible or even conflicted with each other. We will attempt to summarize some universal rules for your reference here.
 
-** Chinese punctuation
+- MUST, adding one space after commas, periods, semicolons, colons, exclamation marks and question marks
+- MUST, adding one space before an open bracket and after a closed bracket, same as a word, but no space after a closed bracket followed by a comma
+- RECOMMEND, adding one space between a number and its unit
+- RECOMMEND, not adding spaces around a hyphen, sometimes necessary to fine-tune the letter-spacing
+- RECOMMEND, not adding spaces around a slash which locates two parallel things like "A or B"
+- RECOMMEND, using quotation marks (“ ‘ ”, “ ’ ”, “ “ ”, “ ” ”), instead of [[https://en.wikipedia.org/wiki/Apostrophe][apostrophes]]
+- SHOULD NOT, adding any punctuation mark at the end of items in a [[https://en.wikipedia.org/wiki/Bullet_(typography)][Bullet list]]
+- MUST NOT, hanging a punctuation mark at the start of a line, which can be avoided by software's automatic settings or manual adjustment
 
-The following rules apply to the use of Chinese punctuation [10]:
-- Dash (-) Indicates the continuation of the tone or sound, takes up two Chinese characters space
-- ellipsis (...) that save the original, the sentence is not complete or the tone of the discontinuous, take up two Chinese characters space
-- Dashes and ellipses can not be broken or split into two lines because of an adaptive branch
-- the closing quotation marks, the end brackets, the ending book number, the ellipsis, the connection number, the space number, and so on, can not appear at the beginning of a line
-- start quotation marks, begin parentheses, start single or double the title of the symbol, etc., can not appear at the end of a line
-- It is advisable to squeeze the free space of punctuation marks when starting the brackets, ending brackets, commas, commas, periods, and interval numbers to make the text type more compact and readable.
-  - Most typesetting software has a punctuation function, please see the corresponding software manual rules
+** Connective mark
 
-** English punctuation
+Hyphen (-), en-dash (--), and em-dash (---) are extremely easy to be confused, thus cause errors in typesetting. The usage of them is described below.
 
-The following rules apply to the use of punctuation in English [11]:
-- commas, periods, semicolons, colon, exclamation point, question mark must be followed by a half space
-- brackets around the same as the word and a half space, but after the bracket after the comma if it is not required to add a space
-- The hyphen has no space before and after the principle, but sometimes it is necessary to fine-tune the kerning
-- Slash for static "A or B" two parallel things, in principle, without spaces before and after
+#+BEGIN_QUOTE
+for a hyphen, type a hyphen (-);
 
-** Mixed punctuation in Chinese and English
+for an en-dash, type two hyphens (-\/-);
 
-Chinese and English punctuation in the form of very different, therefore, the correct use of punctuation to be done first do not mix punctuation:
-- In pure Chinese environment, be sure to use [[https://www.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5% BD% A2] [full-width]] Chinese punctuation
-- In plain English, be sure to use half-width English punctuation
-- In the case of Chinese and English mixed in the context of Chinese and English, respectively, the use of the corresponding Chinese and English punctuation
+for an em-dash, type three hyphens (-\/-\/-);
 
-# + CAPTION: Contrast differences between Chinese and English punctuation marks
-# + NAME: table: difference-between-chinese-and-english-marks
-English | Chinese |
-| ---------------------------- + ------ + ------ |
-| Full Stop / Period |. |. |
-| Question Mark | |
-Exclamation Mark |! | |
-| Comma |, |, |
-| Colon |: |: |
-| Semicolon |; |; |
-| Parenthesis | () | () |
-| Bracket | | | |
-| Curly braces (Brace) | {} | {} |
+for a minus sign, type a hyphen in mathematics mode (\$-\$).
 
-** General rules
+--- Donald Knuth, /The TeXBook/
+#+END_QUOTE
 
-The following rules apply to the use of punctuation in both Chinese and English:
-- punctuation suspension, to avoid a line at the beginning is a punctuation mark, you can layout software to automatically set the corresponding function or manually adjust
-- List items ([[https://en.wikipedia.org/wiki/Bullet_(typography)][Bullet list]]) At the end of the sentence, we recommend no punctuation,
-- It is recommended to add a half-size space between Arabic numerals and units
-- use quotation marks ("'",''",""," "), do not use [[https://zh.wikipedia.org/wiki/%E6%92%87%E5%8F%B7 ][apostrophe]]
-
-** Connection symbol
-
-Hyphen, Hyphen, En-dash, and Em-dash are three punctuation marks that can easily be confused and cause errors in English typesetting. The use of these three different punctuation marks is described below.
-
-# + BEGIN_QUOTE
-For a hyphen, type a hyphen (-);
-
-For an en-dash, type two hyphens (- \ / -);
-
-For an em-dash, type three hyphens (- \ / - \ / -);
-
-For a minus sign, type a hyphen in mathematics mode (\ $ - \ $).
-
---- Donald Knuth, / The TeXBook /
-# + END_QUOTE
-
-Hyphen (-)
+*** Hyphen (-)
 
 The hyphen is used primarily for:
-
 - compound words such as "upper-case letter"
-- Separate numbers or characters, such as telephone numbers, "1-888-777-666"
-- The word at the end of the line will be hyphenated in order to keep the layout uniform
+- separating numbers or characters, such as telephone numbers, "1-888-777-666"
+- hyphenating the word at the end of a line to keep the whole layout neat
 
-There are a few rules about the end of the line:
-- Try not to have three or more consecutive ligatures
-- Avoid the use of proper nouns, names, etc. with a hyphen
-- Avoid cross-page ligatures
-- The position of ligature processing varies with different words. The basic principle is to segment the words according to the syllable. If necessary, it is best to check the dictionary. [12]
+There are a few rules about hyphenation at the end of a line:
+- trying not to hyphenate the last word in more than three continuous lines
+- avoiding to divide proper nouns, personal names, etc.
+- avoiding cross-page hyphenation
+- segmenting words according to syllables in principle, however the position to hyphenate varies with words,  so it's better to check dictionaries if necessary[12]
 
-*** Half-width connector (En-dash, -)
+*** En-dash (--)
 
-En-dash, length equal to uppercase character N, is half of the full-width connector (Em-dash), mainly used for:
-- Number of start and end ranges, such as year, "July - August 1968"
-- the starting point of the address, such as "Boston-Hartford route"
+The length of an en-dash equals the width of uppercase "N", and is half of the length of an em-dash. It's mainly used for:
+- indicating the spans of numbers, such as dates in a year, "July--August 1968"
+- connecting the start and end of addresses, such as "Boston--Hartford route"
 
-When using the half-angle connector, generally do not need to add a space before and after.
+When using an en-dash, generally it's not recommended to add spaces around it.
 
-*** Full-width connector (Em-dash, ---)
+*** Em-dash (---)
 
-Full-width connector (Em-dash), equal to the length of uppercase characters M, the most flexible and complex usage, the usage can refer to the Chinese dash:
-- Used to specify or explain, equivalent to parentheses or colons
-- Used to separate boot clauses
-- Indicates that the conversation is interrupted, in which case an ellipsis may be used instead
+The length of an em-dash equals the width of uppercase "M", and its usage is the most flexible and complex. The em-dash is usually used for:
+- explaining something in details, equivalent to parentheses or colons
+- segmenting declarative clauses
+- indicating that the conversation is interrupted, in which case an ellipsis may also be used
 
-In addition, there are two, three full-width connector used together with the usage, not detailed here [13].
+In addition, there are situations where two or three em-dashes are joined together, but not to be detailed here[13].
 
 * Layout
 
@@ -254,8 +214,8 @@ The DTP point is defined as 1/72 [[https://en.wikipedia.org/wiki/Inch] [inch]].
 
 The vast majority of typesetting fonts are optimized for 10-12 pt. In other words, in such a font size, whether it is the character itself frame structure, or character spacing will have a good effect [14]. The larger the font size, the more loose the text appears, so you need to manually reduce the character spacing; the other hand, the smaller font size, the text looks more compact, need to manually increase the character spacing.
 
-# + CAPTION: Point units
-# + NAME: table: dtp-point
+#+CAPTION: Point units
+#+NAME: table:dtp-point
 | Pt | mm | cm | pica | inch |
 | ---- + -------- + --------- + ------ + ------ |
 1 | 0.3528 | 0.03528 | 1/12 | 1/72 |
@@ -266,8 +226,8 @@ In June 1985, the Ministry of Culture Publishing Management Bureau in order to i
 
 Number system is not in multiple of three movable type as the standard, according to double or half relationship into a system, there are four words, five words and six word system. The smaller the letter size, the larger the font size. 4 on the 5th than large, on the 6th than on the 5th small [15].
 
-# + CAPTION: Number units
-# + NAME: table: chinese-point
+#+CAPTION: Number units
+#+NAME: table:chinese-point
 | | Chinese | |
 | ---------- + ------ + -------- |
 4.5 | 1.581 |
@@ -294,8 +254,8 @@ Number system is not in multiple of three movable type as the standard, accordin
 
 Leading (Line-spacing) refers to the two lines of text between the baseline (Baseline) the distance between.
 
-# + CAPTION: Leading
-# + NAME: image: leading
+#+CAPTION: Leading
+#+NAME: image:leading
 [[Static / notes / guide / images / 1200px-Line_spacing_comparison.svg.png]]
 
 Ideally spaced at least 120% of the font size in the read text [16].
@@ -363,8 +323,8 @@ In addition to the common English word spelling errors, proper nouns because of 
 
 Limited to the author's background, this guide summarizes some common spelling errors in the IT domain [17].
 
-# + CAPTION: Common spelling mistakes in IT proper nouns
-# + NAME: table: it-typos
+#+CAPTION: Common spelling mistakes in IT proper nouns
+#+NAME: table:it-typos
 | Typos | Fix |
 | -------------------------------- + ---------------- --- |
 | Ajax, Ajax | AJAX |
@@ -404,8 +364,8 @@ Non-native English job seekers often encounter a lot of grammar and user problem
 - The educational background and work experience are listed in flashback format, and the time format should be written to the month
 - The time format does not use year abbreviations. The format "05/06" has different interpretations in different countries. It can be interpreted in the standard format of "2015.05" or "June, 2015" format
 
-# + CAPTION: 100 commonly used in the resume English past tense
-# + NAME: table: 100-resume-english-verbs
+#+CAPTION: 100 commonly used in the resume English past tense
+#+NAME: table:100-resume-english-verbs
 Accelerated | Accomplished | Accounted | Accumulated | Achieved |
 | Administrated | Arbitrated | Articulated | Boosted | Briefed |
 | Broadened | Budgeted | Campaigned | Chaired | Championed |
