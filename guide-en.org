@@ -198,57 +198,25 @@ In addition, there are situations where two or three em-dashes are joined togeth
 
 * Layout
 
-Typography is a "two-dimensional building."
+Typesetting is like building a two-dimensional architecture.
 
-If the text and its font is the building material, then the layout design is the architectural drawings. Before discussing the layout design, we need to first clear some of the basic concepts, especially in the layout of the commonly used unit of size system.
+If the text and its fonts are the materials for construction, then the layout design is the architectural drawing. Before discussing the design of layout, we need to make some of the basic concepts clear, especially the unit system of font size in typography.
 
-** font size
+** Font size
 
-Size (size) is a distinction between the size of the text of a measurement standard, the international common point system in China is based on the point system, supplemented by number system.
+Font size is the standard measure of the characters' size in text. The international universal unit of font size is the point.
 
-*** point system
+The [[https://en.wikipedia.org/wiki/Point_(typography)][point]] is usually abbreviated as pt, it's the smallest unit of measure in typography. In fact, the size of the point has varied throughout the history of printing. Since the 18th century, the point's size has varied from 0.18 to 0.4 mm. Following the advent of [[https://en.wikipedia.org/wiki/Desktop_publishing][desktop publishing]] in the 1980s and 1990s, [[https://en.wikipedia.org/wiki/Digital_printing ][digital printing]] has largely supplanted the [[https://en.wikipedia.org/wiki/Printing_press][letterpress printing]] and gradually established the DTP point as the facto standard.
 
-Point system, also known as the pound system, is translated from English [[https://en.wikipedia.org/wiki/Point_(typography)][Point]], abbreviated as pt. In typography, the point is the smallest unit of measurement. In fact, in different historical periods, the actual size of the point size is different. In the eighteenth century, the size of the point changed from 0.18 mm to 0.4 mm. In the 1980s and 1990s, as [[https://en.wikipedia.org/wiki/Desktop_publishing] [desktop publishing]] development, [[https://en.wikipedia.org/wiki/Digital_printing ] [Digital printing]] has largely replaced [[https://en.wikipedia.org/wiki/Printing_press] [movable type printing]] and has gradually established DTP point (desktop publishing point) as the industry standard.
+The DTP point is defined as 1/72 of an [[https://en.wikipedia.org/wiki/Inch][inch]].
 
-The DTP point is defined as 1/72 [[https://en.wikipedia.org/wiki/Inch] [inch]].
-
-The vast majority of typesetting fonts are optimized for 10-12 pt. In other words, in such a font size, whether it is the character itself frame structure, or character spacing will have a good effect [14]. The larger the font size, the more loose the text appears, so you need to manually reduce the character spacing; the other hand, the smaller font size, the text looks more compact, need to manually increase the character spacing.
+Most fonts will make the best effects when set to 10-12 pt. In other words, both the strokes and structure of characters themselves and the spacing between characters will present relatively good visual effects in such size[14]. The larger the font size, the looser the text appears, so you need to manually decrease the character spacing; on the other hand, the smaller the font size, the more compact the text appears, so you need to manually increase the character spacing.
 
 #+CAPTION: Point units
 #+NAME: table:dtp-point
-| Pt | mm | cm | pica | inch |
-| ---- + -------- + --------- + ------ + ------ |
-1 | 0.3528 | 0.03528 | 1/12 | 1/72 |
-
-*** system
-
-In June 1985, the Ministry of Culture Publishing Management Bureau in order to innovate printing technology, improve the printing quality, put forward the movable type and the font standardization decision. (1 pt) is equal to 0.35 mm, the error does not exceed 0.005 mm, such as the fifth word is 10.5 points, or 3.675 mm. The size of the foreign type are calculated in points, that is, 1/72 inch, 0.5146 mm [10].
-
-Number system is not in multiple of three movable type as the standard, according to double or half relationship into a system, there are four words, five words and six word system. The smaller the letter size, the larger the font size. 4 on the 5th than large, on the 6th than on the 5th small [15].
-
-#+CAPTION: Number units
-#+NAME: table:chinese-point
-| | Chinese | |
-| ---------- + ------ + -------- |
-4.5 | 1.581 |
-| 7 | 5.25 | 1.845 |
-6.5 | 2.29 |
-| 6 | 7.5 | 2.65 |
-| 5 | 3.18 |
-| 5 | 10.5 | 3.70 |
-4 | 4.23 |
-| 4 | 4.94 |
-| Third | 15 | 5.29 |
-| Three | 16 | 5.64 |
-| Second | 18 | 6.35 |
-| No.2 | 21 | 7.76 |
-| 24 | 8.47 |
-| One | 27.5 | 9.17 |
-| Early | 36 | 12.70 |
-| First | 42 | 14.82 |
-| Special number | 54 | 18.979 |
-| Great special number | 63 | 22.142 |
-| King | 72 | 25.305 |
+| pt |     mm |      cm | pica | inch |
+|----+--------+---------+------+------|
+|  1 | 0.3528 | 0.03528 | 1/12 | 1/72 |
 
 ** Line spacing
 
