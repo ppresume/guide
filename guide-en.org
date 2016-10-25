@@ -218,39 +218,26 @@ Most fonts will make the best effects when set to 10-12 pt. In other words, both
 |----+--------+---------+------+------|
 |  1 | 0.3528 | 0.03528 | 1/12 | 1/72 |
 
-** Line spacing
+** Leading
 
-Leading (Line-spacing) refers to the two lines of text between the baseline (Baseline) the distance between.
+Leading or line-spacing refers to the distance between the baselines of two consecutive lines.
 
 #+CAPTION: Leading
 #+NAME: image:leading
-[[Static / notes / guide / images / 1200px-Line_spacing_comparison.svg.png]]
+[[static/notes/guide/images/1200px-Line_spacing_comparison.svg.png]]
 
-Ideally spaced at least 120% of the font size in the read text [16].
-
-Due to the different structures of the Chinese and Western characters, the line spacing should also be differentiated. Spanish characters due to ascending (ascender) and descending (descender), so the line spacing relative to Chinese characters can be set smaller, the proposed 1.2-1.5 times between the font size. In addition, different Western fonts have different x-height, in principle, x-height greater, the set spacing should also be larger, on the contrary, x-height smaller, the line spacing should be smaller.
-
-Chinese characters as a result of the height of each block is basically the same, so the appropriate spacing can be increased, it is recommended to set the size of 1.5-1.8 times the font size.
+The ideal leading is at least 120% of the text's font size[16], generally 1.2-1.5 times are recommended. Different fonts have different x-height, in principle, the larger the x-height of the font applied, the larger the leading should be, conversely, the smaller the x-height, the smaller the leading.
 
 ** Page Layout
 
-Layout is the layout design of the program, the outline is the purpose of Zhang. In addition to font size, line spacing of these common typesetting, resume layout there are some unique requirements. In principle, the best resume control in a page or less.
-- Words and sentences, streamlining language
-- Adjust the font size and line spacing within a reasonable range
-- Adjust the margins, left and right symmetry, usually between 10-25 mm.
-- Use lists rather than parallel sentences to list information
-- Western Resume Careful use of both ends of the alignment, it is recommended to use the left alignment
-  - Western words of different lengths, with both ends of the way it is easy to cause hyphenation and character spacing problems
-- Chinese Resume It is recommended to use both ends of the alignment
-  - Chinese character is a square word, in essence, is a monospaced font, so the default is justified at both ends
-  - In both Chinese and English, it is recommended that both ends be aligned
+Layout is the outline of typesetting, it's like the head-rope of a fishing net, once the head-rope is raised up, all the meshes spread naturally. In addition to general typesetting rules for font size and leading, there are some unique requirements in resume layout design. In principle, it's best to control the resume in one page.
+- Making the language clear and concise
+- Adjusting the font size and leading within a reasonable range
+- Keeping page margins in 10-25 mm and making the left and right margins symmetrical
+- Using lists rather than parallel sentences to list information
+- Using flush left alignment, taking caution to use justified alignment
+  - Justified alignment may cause problems in hyphenation and letter-spacing because the lengths of words are different
 
-** Chinese and Western mixed row
-
-Chinese typesetting, Chinese characters and Latin characters, Greek characters or Arabic numerals and other Western mixed situation often occurs. In addition to the previously mentioned compound font and later in the English punctuation mixed, there are some additional rules, need attention.
-- Use of full-width Spanish characters is prohibited when Chinese characters are mixed with Chinese characters
-- Chinese and Western mixed, the proportion of the use of Western fonts, Arabic numerals can use the proportion of fonts or monospaced fonts
-- Chinese characters and Western characters, the number between the proposal to add a certain margin, you can set the software to achieve high-level features through layout, you can manually add a half-size space
 * Grammar
 
 ** Content
