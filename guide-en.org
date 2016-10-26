@@ -228,7 +228,7 @@ Leading or line-spacing refers to the distance between the baselines of two cons
 
 The ideal leading is at least 120% of the text's font size[16], generally 1.2-1.5 times are recommended. Different fonts have different x-height, in principle, the larger the x-height of the font applied, the larger the leading should be, conversely, the smaller the x-height, the smaller the leading.
 
-** Page Layout
+** Page layout
 
 Layout is the outline of typesetting, it's like the head-rope of a fishing net, once the head-rope is raised up, all the meshes spread naturally. In addition to general typesetting rules for font size and leading, there are some unique requirements in resume layout design. In principle, it's best to control the resume in one page.
 - Making the language clear and concise
