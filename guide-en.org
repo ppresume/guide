@@ -270,44 +270,44 @@ Prohibited contents:
 
 ** Spelling
 
-A spelling mistake in a resume is a job search. Too many primary spelling mistakes can affect employers' first impressions of job seekers. Most software has a spell check function, appropriate to avoid a lot of primary spelling errors. Of course, do not over-reliance on the software's spell check function, it is best to find a trusted friend for the second proof-reading.
+Spelling mistakes in a resume is a big taboo when applying for jobs. Too many primary spelling mistakes will make bad first impressions of applicants on employers. Most software have the spelling check function, using it appropriately can avoid many primary spelling errors. Of course, you can never rely too much on the software's spelling check, it's better to find a trusted friend for proof-reading.
 
-Proper nouns
+*** Proper nouns
 
-In addition to the common English word spelling errors, proper nouns because of the more stringent capitalization requirements, is a high incidence of spelling errors. The same combination of characters, different capitalization, in different areas may have completely different meaning, job seekers must be cautious. For example, the lower case [[http://www.apple.com/ios/][iOS]] represents the mobile operating system on Apple iPhone devices, but all uppercase [[https://en.wikipedia.org/wiki / Cisco_IOS] [IOS]] is a dedicated system on a Cisco router.
+Besides common spelling mistakes, there are highly frequent spelling mistakes in proper nouns, because they are more case sensitive. The same combination of letters with different capitalization may have completely different meanings in various fields, job seekers must be very cautious. For example, [[http://www.apple.com/ios/][iOS]] with lowercase "i" represents the mobile operating system on an Apple iPhone, while [[https://en.wikipedia.org/wiki/Cisco_IOS][IOS]] with uppercase "I" is the dedicated system on a Cisco router.
 
-Limited to the author's background, this guide summarizes some common spelling errors in the IT domain [17].
+Limited to our background, we summarize some common spelling errors in the IT domain[17].
 
 #+CAPTION: Common spelling mistakes in IT proper nouns
 #+NAME: table:it-typos
-| Typos | Fix |
-| -------------------------------- + ---------------- --- |
-| Ajax, Ajax | AJAX |
-| Android | Android |
-Android studio | Android Studio |
-| APP | App |
-AppStore, app store | App Store |
-| Css, css | CSS |
-| Eclipse |
-| Git, GIT | Git |
-| Html, html | HTML |
-| Http, http | HTTP |
-| Json, Json | JSON |
-| JAVA, java | Java |
-| Javascript, javascript, JS, js | JavaScript |
-| Linux, LINUX |
-Mac OSX | Mac OS X or macOS |
-| Mysql | MySQL |
-| Node, Node, NodeJS, nodejs | Node.js |
-| OC, oc, objective-c | Objective-C |
-| Python | Python |
-| Ruby |
-| Sqlite | SQLite |
-| Xml, Xml | XML |
-| Xcode, XCODE, XCode | Xcode |
-| Ios, IOS | iOS |
-| Iphone, iphone | iphone
-| Jquery, jQuery | jQuery |
+| Typos                          | Fix               |
+|--------------------------------+-------------------|
+| ajax, Ajax                     | AJAX              |
+| android                        | Android           |
+| android studio                 | Android Studio    |
+| APP                            | App               |
+| AppStore, app store            | App Store         |
+| Css, css                       | CSS               |
+| eclipse                        | Eclipse           |
+| git, GIT                       | Git               |
+| Html, html                     | HTML              |
+| Http, http                     | HTTP              |
+| json, Json                     | JSON              |
+| JAVA, java                     | Java              |
+| Javascript, javascript, JS, js | JavaScript        |
+| linux, LINUX                   | Linux             |
+| Mac OSX                        | Mac OS X or macOS |
+| mysql                          | MySQL             |
+| node, Node, NodeJS, nodejs     | Node.js           |
+| OC, oc, objective-c            | Objective-C       |
+| python                         | Python            |
+| ruby                           | Ruby              |
+| sqlite                         | SQLite            |
+| xml, Xml                       | XML               |
+| xcode, XCODE, XCode            | Xcode             |
+| ios, IOS                       | iOS               |
+| iphone, IPHONE                 | iPhone            |
+| jquery, JQuery                 | jQuery            |
 
 ** Syntax
 
