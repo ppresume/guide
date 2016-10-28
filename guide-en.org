@@ -242,31 +242,31 @@ Layout is the outline of typesetting, it's like the head-rope of a fishing net, 
 
 ** Content
 
-Resume CV, concise is the most important. Basic objective information is the core of the resume:
-- Personal information
-  - important contact information, such as telephone, e-mail must be clearly written
-- Education background
-  - If you are fresh, you can add a high school education background
-- professional skill
-- Award winning information
-- Work (internship) experience
+Conciseness is the most important for a resume, and the core contents consist of basic and objective information:
+- personal information
+  - important contact information such as telephone, e-mail must be clear
+- education backgrounds
+  - if you are a fresh graduate, you can add education background of high school
+- professional skills
+- awards
+- work (internship) experiences
 
-Subjective information should be used with caution:
-- Self-evaluation
-- personal hobby
-- Social activities, volunteer experiences, etc., which are not clearly related to candidates' positions
+Be cautious to add subjective information:
+- self-evaluation
+- personal hobbies
+- social activities, volunteer experiences, etc., which have no clear relations with the applied position
 
-Unrelated candidates should also be cautious to use the objective information (some state-owned enterprises may need):
-- Photos
-- Birthday
-- Home address
-- nation
-- political status
-- Marital and family status
+Be cautious to add objective information that are unrelated with the applied position:
+- photos
+- birthday
+- home address
+- nationality
+- political identity
+- marital and family status
 
-Prohibited content:
-- "Personal resume" word
-Watermarks from Resume Template from Different Sources
+Prohibited contents:
+- "My Resume" as the title
+- watermarks of logos on resume templates from different sources
 
 ** Spelling
 
