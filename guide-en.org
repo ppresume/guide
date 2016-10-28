@@ -311,36 +311,36 @@ Limited to our background, we summarize some common spelling errors in the IT do
 
 ** Syntax
 
-Non-native English job seekers often encounter a lot of grammar and user problems when writing their English resume. In addition, compared with ordinary English writing, resume writing there are some special grammar requirements, need to pay attention.
+Compared with ordinary writing, there are some special grammar requirements for resume writing.
 
-- If you describe the present work experience, use the present tense, otherwise use the past tense
-- many in the past tense verb directly at the beginning, omit the subject
-- Try to use simple and easy to understand phrases, but with a very long complex clause structure
-- The educational background and work experience are listed in flashback format, and the time format should be written to the month
-- The time format does not use year abbreviations. The format "05/06" has different interpretations in different countries. It can be interpreted in the standard format of "2015.05" or "June, 2015" format
+- generally use the past tense, but If you are describing the present work or education experience, use the present tense
+- generally begin an item with a verb in the past tense, omitting the subject
+- try to use simple and short sentences that are easy to understand, instead of long and complex clauses
+- list education backgrounds and work experiences in flashbacks, and the time format should be accurate to month
+- use the standard time format like "2015.05", or format that can be definitely interpreted, such as "June, 2016", instead of year abbreviations like "05/06", which can be interpreted differently in different countries
 
 #+CAPTION: 100 commonly used in the resume English past tense
 #+NAME: table:100-resume-english-verbs
-Accelerated | Accomplished | Accounted | Accumulated | Achieved |
-| Administrated | Arbitrated | Articulated | Boosted | Briefed |
-| Broadened | Budgeted | Campaigned | Chaired | Championed |
-| Clarified | Coached | Collaborated | Coordinated | Corroborated |
-| Cultivated | Customized | Decided | Decreased | Delegated |
-| Demonstrated | Designated | Developed | Devised | Diagnosed |
-Documented | Doubled | Economized | Edited | Educated |
-| Empowered | Enabled | Encouraged | Endorsed | Enhanced |
-| Faciplied | Focused | Forecasted | Generated | Harmonized |
-| Harnessed | Identified | Illustrated | Impressed | Improved |
-| Increased | Justified | Launched | Led | Magnified |
-| Managed | Marketed | Mastered | Navigated | Negotiated |
-| Observed | Obtained | Organized | Orchestrated | Participated |
-| Pinpointed | Performed | Publicized | Published | Realigned |
-| Recognized | Recommended | Selected | Separated | Spearheaded |
-| Stimulated | Succeeded | Surpassed | Synchronized | Synergized |
-| Tabulated | Targeted | Tested | Traded | Translated |
-| Triggered | Triumphed | Troubleshot | Uncovered | Underwrote |
-| Unearthed | Unified | Upgraded | Urged | Utilized |
-Verbalized | Verified | Vitalized | Yielded |
+| Accelerated   | Accomplished | Accounted    | Accumulated  | Achieved     |
+| Administrated | Arbitrated   | Articulated  | Boosted      | Briefed      |
+| Broadened     | Budgeted     | Campaigned   | Chaired      | Championed   |
+| Clarified     | Coached      | Collaborated | Coordinated  | Corroborated |
+| Cultivated    | Customized   | Decided      | Decreased    | Delegated    |
+| Demonstrated  | Designated   | Developed    | Devised      | Diagnosed    |
+| Documented    | Doubled      | Economized   | Edited       | Educated     |
+| Empowered     | Enabled      | Encouraged   | Endorsed     | Enhanced     |
+| Facilitated   | Focused      | Forecasted   | Generated    | Harmonized   |
+| Harnessed     | Identified   | Illustrated  | Impressed    | Improved     |
+| Increased     | Justified    | Launched     | Led          | Magnified    |
+| Managed       | Marketed     | Mastered     | Navigated    | Negotiated   |
+| Observed      | Obtained     | Organized    | Orchestrated | Participated |
+| Pinpointed    | Performed    | Publicized   | Published    | Realigned    |
+| Recognized    | Recommended  | Selected     | Separated    | Spearheaded  |
+| Stimulated    | Succeeded    | Surpassed    | Synchronized | Synergized   |
+| Tabulated     | Targeted     | Tested       | Traded       | Translated   |
+| Triggered     | Triumphed    | Troubleshot  | Uncovered    | Underwrote   |
+| Unearthed     | Unified      | Upgraded     | Urged        | Utilized     |
+| Validated     | Verbalized   | Verified     | Vitalized    | Yielded      |
 
 * Fu Zi
 
