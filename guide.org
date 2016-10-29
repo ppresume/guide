@@ -493,7 +493,7 @@ DTP point 被定义为 1/72 [[https://en.wikipedia.org/wiki/Inch][英寸]]。
 | Demonstrated  | Designated   | Developed    | Devised      | Diagnosed    |
 | Documented    | Doubled      | Economized   | Edited       | Educated     |
 | Empowered     | Enabled      | Encouraged   | Endorsed     | Enhanced     |
-| Faciliated    | Focused      | Forecasted   | Generated    | Harmonized   |
+| Facilitated   | Focused      | Forecasted   | Generated    | Harmonized   |
 | Harnessed     | Identified   | Illustrated  | Impressed    | Improved     |
 | Increased     | Justified    | Launched     | Led          | Magnified    |
 | Managed       | Marketed     | Mastered     | Navigated    | Negotiated   |
