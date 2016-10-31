@@ -342,37 +342,37 @@ Compared with ordinary writing, there are some special grammar requirements for 
 | Unearthed     | Unified      | Upgraded     | Urged        | Utilized     |
 | Validated     | Verbalized   | Verified     | Vitalized    | Yielded      |
 
-* Fu Zi
+* Publishing
 
-** file format
+** File format
 
-Common resume formats include:
+Common file formats for resumes include:
 
 - [[https://en.wikipedia.org/wiki/Portable_Document_Format][PDF]]
 - Microsoft Word (doc, docx)
-- Plain Text (plain text)
-- HTML (web format)
+- Plain Text
+- HTML
 
-Here is the primary recommendation of the PDF format:
-- PDF has excellent cross-platform output quality, can guarantee almost 100% consistent printing and display
-- PDF can be embedded in the font, the font selection has a great degree of freedom
-- Default PDF reader on most platforms
-  - Windows 8 and above built-in PDF reader
-  - Mac OS X [[https://en.wikipedia.org/wiki/Preview_(Mac_OS)][Preview]], iOS [[http://www.apple.com/ibooks/][iBooks]]
-  - many browsers (such as Chrome) built-in [[http://mozilla.github.io/pdf.js/][pdf.js]], the default can also open the PDF
+Here we recommend PDF most:
+- PDF has quite excellent quality of output across platforms, and can guarantee almost 100% consistent printing and display effects
+- fonts can be embedded in PDF, so it's quite free to choose fonts
+- on most platforms there is a default PDF reader
+  - Windows 8 and above have a built-in PDF reader
+  - Mac OS X has [[https://en.wikipedia.org/wiki/Preview_(Mac_OS)][Preview]], iOS has [[http://www.apple.com/ibooks/][iBooks]]
+  - many browsers (such as Chrome) have built-in [[http://mozilla.github.io/pdf.js/][pdf.js]], which can also open PDF by default
 
-Word from the software is more easy to learn, but resume as a delivery, with Word format has a great disadvantage:
-- Word documents need to install additional office software to open
-  - Microsoft Word, [[https://wps.com] [WPS Office]] for Windows
-  - Mac OS X can use [[https://en.wikipedia.org/wiki/IWork][iWork]]
-  - [[https://wps.com] [WPS Office]], [[https://www.libreoffice.org/] [LibreOffice]] on Linux systems
-  - Many online document editing systems such as [[https://docs.google.com/][Google Docs]]) can also open and edit Word documents
-- Different documents in different platforms under different environments, Word document display is different
-  - [[https://products.office.com/en-us/word][Microsoft Word]] is not actually available on everyone's computer.
-  - Another fact is that genuine Microsoft Word is a licensing fee of several hundred dollars
-- In order to ensure consistent display output results, Word document is best to use only a few common in the mainstream operating system fonts, which led to Word documents in the font selection on the freedom of small
+It's easier to learn MS Word, but delivering a resume with Word format has great disadvantages:
+- Word documents must be opened with additional office software installed 
+  - Microsoft Word, [[https://wps.com][WPS Office]] for Windows
+  - [[https://en.wikipedia.org/wiki/IWork][iWork]] for Mac OS X
+  - [[https://wps.com][WPS Office]], [[https://www.libreoffice.org/][LibreOffice]] for Linux
+  - many online document editing systems such as [[https://docs.google.com/][Google Docs]] can also open and edit Word documents
+- Word documents may display quite differently in different software on different platforms
+  - in reality not everyone has installed [[https://products.office.com/en-us/word][Microsoft Word]] on his computer
+  - another fact is that a genuine license for Microsoft Word will cost hundreds of  dollars
+- in order to ensure consistent display and output effects, it's best to use only a few shared fonts on mainstream operating systems in Word documents, which greatly limits the freedom of fonts selection
 
-Of course, different companies have different HR different requirements and preferences. Based on experience, foreign companies are more inclined to receive PDF, if Word to make a resume, it is recommended to export a PDF backup.
+Of course, different HR managers in various companies can have different requirements and preferences. We recommend that you export the resume to PDF as an alternative if making it by Word
 
 ** Mail etiquette
 
