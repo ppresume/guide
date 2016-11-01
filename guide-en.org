@@ -391,36 +391,22 @@ Besides unique recruitment systems of companies, emails are the main approach fo
 
 [1] Serif vs Sans: The Final Battle, http://designreviver.com/inspiration/serif-vs-sans-the-final-battle/.
 
-[2] Requirements for Chinese Text Layout Chinese typesetting requirements, [[https://www.w3.org/TR/clreq]].
+[2] When the width of layout is small, usually it's not suitable to use justified alignment, because applying justified alignment will force most software to adjust the letter-spacing, and often, the final layout effect will be very bad.
 
-[3] Need to be clear, here is said to be the song, bold and other Chinese font name, refers to the song, bold and other font form based on the design of the font family. For example, the song on Windows may be [[https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%98%93%E5%AE%8B%E4%BD%93] ]], And Mac OS X on the song may refer to the Chinese-song.
+[3] For example, the innovation of TeX typesetting system lies in its excellent [[https://en.wikipedia.org/wiki/TeX#Hyphenation_and_justification][justification]] algorithm, the principle of which is to adjust the letter-spacing to make the layout more [[https://en.wikipedia.org/wiki/Typographic_alignment#Justified][justified]].
 
-[4] Chinese characters in the main characters of the layout, usually need to be aligned at both ends, but to Western characters as the main text of the layout, when the width of the smaller layout is usually not suitable for both ends of the alignment, in which case if the mandatory two End alignment, most software will force the adjustment of character spacing, but the final layout effect is often very bad.
+[4] A Beginner's Guide to Kerning Like a Designer, [[https://designschool.canva.com/blog/kerning/]].
 
-[5] For example, TeX typesetting system innovation lies in its excellent [[https://en.wikipedia.org/wiki/TeX#Hyphenation_and_justification]justification]] algorithm, the principle is to adjust the character spacing to make the layout More symmetrical ([[https://en.wikipedia.org/wiki/Typographic_alignment#Justified]justified]]).
+[5] Wikipedia, [[https://en.wikipedia.org/wiki/Ligature]].
 
-[6] A Beginner's Guide to Kerning Like a Designer, [[https://designschool.canva.com/blog/kerning/]].
+[6] Wikipedia, [[https://en.wikipedia.org/wiki/Italic_type][https://en.wikipedia.org/wiki/Italic_type]].
 
-[7] Wikipedia, [[https://en.wikipedia.org/wiki/Ligature]].
+[7] Professional typesetting software generally have automatic hyphenating function, to some extents it can locate the position for hyphenation if turned on, but it's best to artificially check again.
 
-[8] "[[https://book.douban.com/subject/25836269/] [Western]]," / Kobayashi chapter /, Chapter II, P37.
+[8] Wikipedia, [[https://en.wikipedia.org/wiki/Dash][https://en.wikipedia.org/wiki/Dash]], it demonstrates detailed usage of this symbol and the input methods of it on different operating systems.
 
-[9] Wikipedia, [[https://en.wikipedia.org/wiki/Italic_type][https://en.wikipedia.org/wiki/Italic_type]].
+[9] [[https://github.com/ppresume/typos][https://github.com/ppresume/typos]], the latest errata of common proper nouns.
 
-[10] Requirements for Chinese Text Layout Chinese typesetting requirements, [[https://www.w3.org/TR/clreq]].
-
-[10] "[[https://book.douban.com/subject/4224467/][Adobe Indesign CS4, Basic Training Materials]]".
-
-[11] "[[https://book.douban.com/subject/26834548/] [Western typesetting]]", / Takahata Changsheng /, Chapter III, P98.
-
-[12] professional typesetting software with automatic word processing function, after opening in a certain program can automatically identify the place where the word can be, but the best artificial confirmation check again.
-
-[13] Wikipedia, [[https://en.wikipedia.org/wiki/Dash][https://en.wikipedia.org/wiki/Dash]], contains detailed symbol usage, and its use in different operating systems On the input method.
-
-[14] "[[https://book.douban.com/subject/26386339/] [Graphic Design Complete Manual]]", / Marcus Wegge /, Chapter VI, p296.
-
-[15] Wikipedia, [[https://en.wikipedia.org/wiki/Point_(typography)][https://en.wikipedia.org/wiki/Point_(typography)]].
-
-[16] "[[https://book.douban.com/subject/26386339/] [Graphic Design Complete Manual]]", / Marcus Wegge /, Chapter VI, p301.
-
-[17] [[https://github.com/ppresume/typos][https://github.com/ppresume/typos]], the latest common proper noun errata.
+# Local Variables:
+# eval: (auto-fill-mode -1)
+# End:
