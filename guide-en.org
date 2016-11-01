@@ -79,7 +79,7 @@ Letter-spacing, or tracking, refers to the space between letters. Letter-spacing
 
 For font designers, adjusting the letter-spacing is an important procedure in designing. In a proportional font, the spacing on the left side of a single letter does not necessarily equal that on the right side. The purpose is to ensure readability when the letter is adjacent to whatever other letters on either side.
 
-For font users, the letter-spacing adjustment means manually rearranging the space between letters by software after the original typesetting, in order to obtain special alignment[4], or a better layout effect[5].
+For font users, the letter-spacing adjustment means manually rearranging the space between letters by software after the original typesetting, in order to obtain special alignment[2], or a better layout effect[3].
 
 *** Kerning
 
@@ -87,7 +87,7 @@ Kerning refers to the process of increasing or decreasing the space between spec
 
 Designers of many fonts will pay attention to kerning pairs while designing, and store kerning adjustment values in the font file. In this way, typesetting software can automatically adjust spacing for kerning pairs according to the values, thus produce a better layout effect.
 
-Every letter has a unique shape, so during the design and implementation of a font, letters in all kerning pairs must cooperate to produce the best visual effect. In fact, this is where the key procedure and difficulties lie.
+Every letter has a unique shape, so during the design and implementation of a font, letters in all kerning pairs must cooperate to produce the best visual effect. In fact, this is where the key procedure and difficulties lie[4].
 
 #+CAPTION: Kerning (Kerning)
 #+NAME: image:typography
@@ -97,9 +97,9 @@ Every letter has a unique shape, so during the design and implementation of a fo
 
 A ligature is a glyph that joins two or more letters together.
 
-Printing ligatures originate from letters combined in handwriting. After the birth of movable-type printing, many ligatures were directly made into type. However, in the 1950s, sans-serif fonts began to be widely used, and in the 1970s phototypesetting was invented, so gradually ligatures were rarely used. The earliest software that could use ligatures for digital typesetting is TeX created by [[https://en.wikipedia.org/wiki/Donald_Knuth][Donald Knuth]]. This trend also affected the typesetting technology on computer desktop after 1985. In early times, software could not replace letters with ligatures(but TeX could), and most of the newly made fonts for computers did not include ligatures. Furthermore, early personal computers mostly displayed English, and ligatures are not necessary for English, so there was no real need. With the development of digital typesetting technology such as [[https://en.wikipedia.org/wiki/OpenType][OpenType]], ligatures has gradually returned to practice[7].
+Printing ligatures originate from letters combined in handwriting. After the birth of movable-type printing, many ligatures were directly made into type. However, in the 1950s, sans-serif fonts began to be widely used, and in the 1970s phototypesetting was invented, so gradually ligatures were rarely used. The earliest software that could use ligatures for digital typesetting is TeX created by [[https://en.wikipedia.org/wiki/Donald_Knuth][Donald Knuth]]. This trend also affected the typesetting technology on computer desktop after 1985. In early times, software could not replace letters with ligatures(but TeX could), and most of the newly made fonts for computers did not include ligatures. Furthermore, early personal computers mostly displayed English, and ligatures are not necessary for English, so there was no real need. With the development of digital typesetting technology such as [[https://en.wikipedia.org/wiki/OpenType][OpenType]], ligatures have gradually returned to practice[5].
 
-In general daily business documents, absence of ligatures will not be treated as spelling error, but for professional typesetting in advertising, book publishing and other fields, ligatures are essentially required[8].
+In general daily business documents, absence of ligatures will not be treated as spelling error, but for professional typesetting in advertising, book publishing and other fields, ligatures are essentially required.
 
 #+CAPTION: Ligature
 #+NAME: image:ligature
@@ -107,7 +107,7 @@ In general daily business documents, absence of ligatures will not be treated as
 
 *** Italics
 
-Italics are fonts in which the letters slant slightly to the right. Italics are based on normal font style, and refer to italic type or oblique type.
+Italics are fonts in which the letters slant slightly to the right. Italics are based on normal font style, and refer to italic type or oblique type[6].
 
 In italic type, forms of letters are changed compared with the normal type, while in oblique type, letters are merely tilted right without any modification on the forms. Oblique type is simply realized through algorithms by software, as a result, the strokes of letters will appear loose. Recently, more and more designs are inclined to apply newly designed italic type.
 
@@ -175,9 +175,9 @@ The hyphen is used primarily for:
 
 There are a few rules about hyphenation at the end of a line:
 - trying not to hyphenate the last word in more than three continuous lines
-- avoiding to divide proper nouns, personal names, etc.
+- avoiding dividing proper nouns, personal names, etc.
 - avoiding cross-page hyphenation
-- segmenting words according to syllables in principle, however the position to hyphenate varies with words,  so it's better to check dictionaries if necessary[12]
+- segmenting words according to syllables in principle, however the position to hyphenate varies with words,  so it's better to check dictionaries if necessary[7]
 
 *** En-dash (--)
 
@@ -194,7 +194,7 @@ The length of an em-dash equals the width of uppercase "M", and its usage is the
 - segmenting declarative clauses
 - indicating that the conversation is interrupted, in which case an ellipsis may also be used
 
-In addition, there are situations where two or three em-dashes are joined together, but not to be detailed here[13].
+In addition, there are situations where two or three em-dashes are joined together, but not to be detailed here[8].
 
 * Layout
 
@@ -210,7 +210,7 @@ The [[https://en.wikipedia.org/wiki/Point_(typography)][point]] is usually abbre
 
 The DTP point is defined as 1/72 of an [[https://en.wikipedia.org/wiki/Inch][inch]].
 
-Most fonts will make the best effects when set to 10-12 pt. In other words, both the strokes and structure of characters themselves and the spacing between characters will present relatively good visual effects in such size[14]. The larger the font size, the looser the text appears, so you need to manually decrease the character spacing; on the other hand, the smaller the font size, the more compact the text appears, so you need to manually increase the character spacing.
+Most fonts will make the best effects when set to 10-12 pt. In other words, both the strokes and structure of characters themselves and the spacing between characters will present relatively good visual effects in such size. The larger the font size, the looser the text appears, so you need to manually decrease the character spacing; on the other hand, the smaller the font size, the more compact the text appears, so you need to manually increase the character spacing.
 
 #+CAPTION: Point units
 #+NAME: table:dtp-point
@@ -226,7 +226,7 @@ Leading or line-spacing refers to the distance between the baselines of two cons
 #+NAME: image:leading
 [[static/notes/guide/images/1200px-Line_spacing_comparison.svg.png]]
 
-The ideal leading is at least 120% of the text's font size[16], generally 1.2-1.5 times are recommended. Different fonts have different x-height, in principle, the larger the x-height of the font applied, the larger the leading should be, conversely, the smaller the x-height, the smaller the leading.
+The ideal leading is at least 120% of the text's font size, generally 1.2-1.5 times are recommended. Different fonts have different x-height, in principle, the larger the x-height of the font applied, the larger the leading should be, conversely, the smaller the x-height, the smaller the leading.
 
 ** Page layout
 
@@ -276,7 +276,7 @@ Spelling mistakes in a resume is a big taboo when applying for jobs. Too many pr
 
 Besides common spelling mistakes, there are highly frequent spelling mistakes in proper nouns, because they are more case sensitive. The same combination of letters with different capitalization may have completely different meanings in various fields, job seekers must be very cautious. For example, [[http://www.apple.com/ios/][iOS]] with lowercase "i" represents the mobile operating system on an Apple iPhone, while [[https://en.wikipedia.org/wiki/Cisco_IOS][IOS]] with uppercase "I" is the dedicated system on a Cisco router.
 
-Limited to our background, we summarize some common spelling errors in the IT domain[17].
+Limited to our background, we summarize some common spelling errors in the IT domain[9].
 
 #+CAPTION: Common spelling mistakes in IT proper nouns
 #+NAME: table:it-typos
@@ -391,36 +391,22 @@ Besides unique recruitment systems of companies, emails are the main approach fo
 
 [1] Serif vs Sans: The Final Battle, http://designreviver.com/inspiration/serif-vs-sans-the-final-battle/.
 
-[2] Requirements for Chinese Text Layout Chinese typesetting requirements, [[https://www.w3.org/TR/clreq]].
+[2] When the width of layout is small, usually it's not suitable to use justified alignment, because applying justified alignment will force most software to adjust the letter-spacing, and often, the final layout effect will be very bad.
 
-[3] Need to be clear, here is said to be the song, bold and other Chinese font name, refers to the song, bold and other font form based on the design of the font family. For example, the song on Windows may be [[https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%98%93%E5%AE%8B%E4%BD%93] ]], And Mac OS X on the song may refer to the Chinese-song.
+[3] For example, the innovation of TeX typesetting system lies in its excellent [[https://en.wikipedia.org/wiki/TeX#Hyphenation_and_justification][justification]] algorithm, the principle of which is to adjust the letter-spacing to make the layout more [[https://en.wikipedia.org/wiki/Typographic_alignment#Justified][justified]].
 
-[4] Chinese characters in the main characters of the layout, usually need to be aligned at both ends, but to Western characters as the main text of the layout, when the width of the smaller layout is usually not suitable for both ends of the alignment, in which case if the mandatory two End alignment, most software will force the adjustment of character spacing, but the final layout effect is often very bad.
+[4] A Beginner's Guide to Kerning Like a Designer, [[https://designschool.canva.com/blog/kerning/]].
 
-[5] For example, TeX typesetting system innovation lies in its excellent [[https://en.wikipedia.org/wiki/TeX#Hyphenation_and_justification]justification]] algorithm, the principle is to adjust the character spacing to make the layout More symmetrical ([[https://en.wikipedia.org/wiki/Typographic_alignment#Justified]justified]]).
+[5] Wikipedia, [[https://en.wikipedia.org/wiki/Ligature]].
 
-[6] A Beginner's Guide to Kerning Like a Designer, [[https://designschool.canva.com/blog/kerning/]].
+[6] Wikipedia, [[https://en.wikipedia.org/wiki/Italic_type][https://en.wikipedia.org/wiki/Italic_type]].
 
-[7] Wikipedia, [[https://en.wikipedia.org/wiki/Ligature]].
+[7] Professional typesetting software generally have automatic hyphenating function, to some extents it can locate the position for hyphenation if turned on, but it's best to artificially check again.
 
-[8] "[[https://book.douban.com/subject/25836269/] [Western]]," / Kobayashi chapter /, Chapter II, P37.
+[8] Wikipedia, [[https://en.wikipedia.org/wiki/Dash][https://en.wikipedia.org/wiki/Dash]], it demonstrates detailed usage of this symbol and the input methods of it on different operating systems.
 
-[9] Wikipedia, [[https://en.wikipedia.org/wiki/Italic_type][https://en.wikipedia.org/wiki/Italic_type]].
+[9] [[https://github.com/ppresume/typos][https://github.com/ppresume/typos]], the latest errata of common proper nouns.
 
-[10] Requirements for Chinese Text Layout Chinese typesetting requirements, [[https://www.w3.org/TR/clreq]].
-
-[10] "[[https://book.douban.com/subject/4224467/][Adobe Indesign CS4, Basic Training Materials]]".
-
-[11] "[[https://book.douban.com/subject/26834548/] [Western typesetting]]", / Takahata Changsheng /, Chapter III, P98.
-
-[12] professional typesetting software with automatic word processing function, after opening in a certain program can automatically identify the place where the word can be, but the best artificial confirmation check again.
-
-[13] Wikipedia, [[https://en.wikipedia.org/wiki/Dash][https://en.wikipedia.org/wiki/Dash]], contains detailed symbol usage, and its use in different operating systems On the input method.
-
-[14] "[[https://book.douban.com/subject/26386339/] [Graphic Design Complete Manual]]", / Marcus Wegge /, Chapter VI, p296.
-
-[15] Wikipedia, [[https://en.wikipedia.org/wiki/Point_(typography)][https://en.wikipedia.org/wiki/Point_(typography)]].
-
-[16] "[[https://book.douban.com/subject/26386339/] [Graphic Design Complete Manual]]", / Marcus Wegge /, Chapter VI, p301.
-
-[17] [[https://github.com/ppresume/typos][https://github.com/ppresume/typos]], the latest common proper noun errata.
+# Local Variables:
+# eval: (auto-fill-mode -1)
+# End:
