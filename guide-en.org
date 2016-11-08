@@ -33,15 +33,15 @@ A serif is a tiny line attached to the end of a stroke in a letter. A font with 
 
 #+CAPTION: Sans serif
 #+NAME: image:serif-and-sans-01
-[[static/notes/guide/images/1280px-Serif_and_sans-serif_01.svg.png]]
+[[./static/notes/guide/images/1280px-Serif_and_sans-serif_01.svg.png]]
 
 #+CAPTION: Serif fonts
 #+NAME: image:serif-and-sans-02
-[[static/notes/guide/images/1280px-Serif_and_sans-serif_02.svg.png]]
+[[./static/notes/guide/images/1280px-Serif_and_sans-serif_02.svg.png]]
 
 #+CAPTION: serifs for serif fonts (red)
 #+NAME: image:serif-and-sans-03
-[[static/notes/guide/images/1280px-Serif_and_sans-serif_03.svg.png]]
+[[./static/notes/guide/images/1280px-Serif_and_sans-serif_03.svg.png]]
 
 *** Proportional vs. monospaced
 
@@ -49,7 +49,7 @@ According to whether or not the widths of characters are the same, fonts can be 
 
 #+CAPTION: Proportional fonts and monospaced fonts
 #+NAME: image:proportional-and-monospaced-font
-[[static/notes/guide/images/1280px-Propvsmono.svg.png]]
+[[./static/notes/guide/images/1280px-Propvsmono.svg.png]]
 
 In traditional printing, proportional fonts can improve the legibility of words. Due to technical limitations, the early computers and typewriters can not adjust the widths of characters. So all characters are made into the same width, thus monospaced fonts come into being. With the improvement of computer technology, the GUI(graphical user interface) has become the mainstream and been developing continuously; technical limitations no longer exist, so proportional fonts have become quite popular, since they are more naturally legible for human.
 
@@ -71,7 +71,7 @@ Letters in every font have a consistent structure, font users are supposed to kn
 
 #+CAPTION: Typography
 #+NAME: image:typography
-[[static/notes/guide/images/2000px-Typography_line_terms_alternate.svg.png]]
+[[./static/notes/guide/images/2000px-Typography_line_terms_alternate.svg.png]]
 
 *** Letter-spacing
 
@@ -91,7 +91,7 @@ Every letter has a unique shape, so during the design and implementation of a fo
 
 #+CAPTION: Kerning (Kerning)
 #+NAME: image:typography
-[[static/notes/guide/images/1280px-Kerning_EN.svg.png]]
+[[./static/notes/guide/images/1280px-Kerning_EN.svg.png]]
 
 *** Ligature
 
@@ -103,7 +103,7 @@ In general daily business documents, absence of ligatures will not be treated as
 
 #+CAPTION: Ligature
 #+NAME: image:ligature
-[[static/notes/guide/images/1106px-Ligatures.svg.png]]
+[[./static/notes/guide/images/1106px-Ligatures.svg.png]]
 
 *** Italics
 
@@ -122,7 +122,7 @@ There are tons of fonts out there nowadays, so to commend a universal combined f
 - RECOMMEND, using serif fonts in the main body
 - RECOMMEND, using sans-serif fonts for titles, but serif fonts can also be used
 - RECOMMEND, using italic fonts to emphasize text in main body, corresponding bold style can also be used
-- Commonly used serif fonts 
+- Commonly used serif fonts
   - [[https://en.wikipedia.org/wiki/Garamond][Garamond]]
   - [[https://en.wikipedia.org/wiki/Palatino][Palatino]]
   - [[https://en.wikipedia.org/wiki/Georgia_(typeface)][Geogria]]
@@ -224,7 +224,7 @@ Leading or line-spacing refers to the distance between the baselines of two cons
 
 #+CAPTION: Leading
 #+NAME: image:leading
-[[static/notes/guide/images/1200px-Line_spacing_comparison.svg.png]]
+[[./static/notes/guide/images/1200px-Line_spacing_comparison.svg.png]]
 
 The ideal leading is at least 120% of the text's font size, generally 1.2-1.5 times are recommended. Different fonts have different x-height, in principle, the larger the x-height of the font applied, the larger the leading should be, conversely, the smaller the x-height, the smaller the leading.
 
@@ -362,7 +362,7 @@ Here we recommend PDF most:
   - many browsers (such as Chrome) have built-in [[http://mozilla.github.io/pdf.js/][pdf.js]], which can also open PDF by default
 
 It's easier to learn MS Word, but delivering a resume with Word format has great disadvantages:
-- Word documents must be opened with additional office software installed 
+- Word documents must be opened with additional office software installed
   - Microsoft Word, [[https://wps.com][WPS Office]] for Windows
   - [[https://en.wikipedia.org/wiki/IWork][iWork]] for Mac OS X
   - [[https://wps.com][WPS Office]], [[https://www.libreoffice.org/][LibreOffice]] for Linux

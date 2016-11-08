@@ -1,0 +1,7 @@
+---
+title: A Guide for Resume Writing and Typesetting
+created_at: 2016-10-05 20:00:00
+updated_at: 2016-10-28 20:00:00
+kind: notes
+pandoc: --toc -H pandoc/en-header.tex -N -V documentclass:report -V classoption:titlepage
+meta: ""
