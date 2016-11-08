@@ -11,8 +11,7 @@ CLOBBER.include('**/*.pdf', '**/*.tex').exclude('pandoc/**/*')
 rule '.tex' => '.org' do |t|
   metadata = YAML::load(File.open(t.name.sub(/\.tex$/, '.yaml')))
   pandoc_item_args = metadata['pandoc']
-  pandoc_default_args = '--latex-engine xelatex '\
-                        '-H pandoc/ctex-header.tex'
+  pandoc_default_args = '--latex-engine xelatex '
   pandoc_args = pandoc_item_args + ' ' + pandoc_default_args
   sh "pandoc #{pandoc_args} #{t.source} -o #{t.name}"
 end

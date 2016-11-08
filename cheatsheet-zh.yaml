@@ -3,5 +3,5 @@ title: 中英文简历撰写排版指南-备忘单
 created_at: 2016-09-06 20:00:00
 updated_at: 2016-09-06 20:00:00
 kind: notes
-pandoc: -V documentclass:article
+pandoc: -V documentclass:article -H pandoc/zh-header.tex
 meta: Download <a href="/notes/cheatsheet.pdf">PDF</a>

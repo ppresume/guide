@@ -1,0 +1,50 @@
+\setkeys{Gin}{width=0.8\maxwidth,height=\maxheight,keepaspectratio}
+
+% ctex settings
+% ref: http://ctan.mirrorcatalogs.com/language/chinese/ctex/ctex.pdf
+\usepackage[UTF8, heading=true, fontset=none, scheme=chinese]{ctex}
+\ctexset{
+  fontset=fandol,
+  punct=kaiming,
+  space=auto,
+}
+
+% English font settings
+\defaultfontfeatures{Ligatures=TeX}
+\setmainfont[Ligatures={Common}, Numbers={OldStyle}, Variant=01]{Linux Libertine O}
+\setsansfont{Droid Sans}
+\setmonofont[Scale=0.8]{CMU Typewriter Text}
+
+% page layout/margin control
+\usepackage[scale=0.8, marginparsep=7pt]{geometry}
+% \geometry{a4paper, textwidth=5.5in, textheight=8.5in, marginparsep=7pt, marginparwidth=.6in}
+
+% renew quote environment based on framed package
+% Thanks http://www.jevon.org/wiki/Fancy_Quotation_Boxes_in_Latex
+
+% for adjustwidth environment
+\usepackage[strict]{changepage}
+
+\usepackage{framed}
+\usepackage{color}
+\usepackage{xcolor}
+
+% environment derived from framed.sty: see leftbar environment definition
+\definecolor{quoteshade}{rgb}{0.95,0.95,0.95}
+
+\renewenvironment{quote}{%
+  \setlength{\parskip}{0.2\baselineskip}
+  \def\FrameCommand{%
+    \hspace{1pt}%
+    {\color{gray}\vrule width 2pt}%
+    {\color{quoteshade}\vrule width 4pt}%
+    \colorbox{quoteshade}%
+  }%
+  \MakeFramed{\advance\hsize-\width\FrameRestore}%
+  \noindent\hspace{-4.55pt}% disable indenting first paragraph
+  \begin{adjustwidth}{}{7pt}%
+  \vspace{2pt}\vspace{2pt}%
+}
+{%
+  \vspace{2pt}\end{adjustwidth}\endMakeFramed%
+}
