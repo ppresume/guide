@@ -17,7 +17,9 @@ rule '.tex' => '.org' do |t|
 end
 
 rule '.pdf' => '.tex' do |t|
-  sh "xelatex #{t.source}"
+  output_directory = "_build"
+  `mkdir -p #{output_directory}`
+  sh "xelatex -output-directory=#{output_directory} #{t.source}"
 end
 
 rule '.jpg' => '.pdf' do |t|
